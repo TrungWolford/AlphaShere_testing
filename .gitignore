@@ -1,1 +1,10 @@
 .env
+venv/
+__pycache__/
+*.pyc
+Articles/
+
+# LƯU Ý: manifest.json KHÔNG được ignore.
+# Daily job trên GitHub Actions cần đọc lại manifest.json từ lần chạy
+# trước (đã commit vào repo) để so sánh hash và phát hiện added/updated.
+# Nếu ignore file này, mỗi lần Action chạy sẽ coi TẤT CẢ bài viết là mới.
