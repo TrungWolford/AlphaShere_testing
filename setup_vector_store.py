@@ -4,7 +4,12 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+def _clean_env(name: str) -> str | None:
+    value = os.getenv(name)
+    return value.strip() if value else value
+
+
+client = OpenAI(api_key=_clean_env("OPENAI_API_KEY"))
 
 ENV_PATH = ".env"
 

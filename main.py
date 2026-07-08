@@ -11,8 +11,19 @@ from scraper import scrape_articles
 
 load_dotenv()
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-VECTOR_STORE_ID = os.getenv("VECTOR_STORE_ID")
+def _clean_env(name: str) -> str | None:
+    """
+    Đọc biến môi trường và loại bỏ khoảng trắng/ký tự xuống dòng thừa
+    (\\n, \\r, space) ở đầu/cuối. Phòng trường hợp secret bị dính ký tự
+    ẩn khi copy-paste (nguyên nhân phổ biến gây lỗi
+    'httpcore.LocalProtocolError: Illegal header value').
+    """
+    value = os.getenv(name)
+    return value.strip() if value else value
+
+
+client = OpenAI(api_key=_clean_env("OPENAI_API_KEY"))
+VECTOR_STORE_ID = _clean_env("VECTOR_STORE_ID")
 
 MANIFEST_PATH = Path("manifest.json")
 
