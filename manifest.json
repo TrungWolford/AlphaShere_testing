@@ -1,17 +1,31 @@
 {
+  "53216900345875": {
+    "id": 53216900345875,
+    "title": "What Access Does OptiSigns Have to My Account and Devices?",
+    "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
+    "updated_at": "2026-07-06T15:29:04Z",
+    "hash": "23b0d840c6c7381e38470030265bd07b74928700c84ec5fb54572d88eef07620",
+    "file": "articles/accounts-security/security-teams/53216900345875-what-access-does-optisigns-have-to-my-account-and-devices.md",
+    "category": "Accounts & Security",
+    "category_slug": "accounts-security",
+    "section": "Security & Teams",
+    "section_slug": "security-teams",
+    "openai_file_id": "file-LRPtiexSHHtYD6EoEjKMTq"
+  },
   "53095698149011": {
     "id": 53095698149011,
     "title": "Using the Japan Earthquake App",
     "slug": "using-the-japan-earthquake-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-    "updated_at": "2026-07-02T14:16:18Z",
-    "hash": "e89cc9bbca2a1f4a4eac5e822e241c773af0fd89cadb13eca161e0cd5e695c14",
+    "updated_at": "2026-07-06T14:22:20Z",
+    "hash": "48baf57a5d17444d619dd17cd3c4f123ffb5bcceeeaeb6d73ed74a815ba57cde",
     "file": "articles/apps-integrations/emergency-alert-apps/53095698149011-using-the-japan-earthquake-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Emergency Alert Apps",
     "section_slug": "emergency-alert-apps",
-    "openai_file_id": "file-TszALjS9vg7wcJpM7B14Nr"
+    "openai_file_id": "file-93MMgR3TnpPffYnoZjjAks"
   },
   "53028011485715": {
     "id": 53028011485715,
@@ -1544,14 +1558,14 @@
     "title": "Synchronized playback (Sync Play) feature",
     "slug": "synchronized-playback-sync-play-feature",
     "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
-    "updated_at": "2026-06-10T19:08:01Z",
-    "hash": "43d203ac5491e72b75737d8f7b1a5539349b8a4f7d72f8f8fd353d0cab821c5a",
+    "updated_at": "2026-07-06T21:29:32Z",
+    "hash": "b9aea4a97adcf52d87e7b3501a34828f4c2a50d3245dbc6c0c94912cdf858f2b",
     "file": "articles/advanced-features/playback-control-campaign-management/4412065189267-synchronized-playback-sync-play-feature.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Playback Control & Campaign Management",
     "section_slug": "playback-control-campaign-management",
-    "openai_file_id": "file-HQrHX8Mbg1CwU92CX2VpkM"
+    "openai_file_id": "file-Lv1Pn6K7xg6zRNfbm8N1tT"
   },
   "4411956075027": {
     "id": 4411956075027,
@@ -2020,7 +2034,7 @@
     "title": "Billing: How Do I Change my Subscription Plan?",
     "slug": "billing-how-do-i-change-my-subscription-plan",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "updated_at": "2025-08-29T20:27:11Z",
+    "updated_at": "2026-07-08T04:10:51Z",
     "hash": "5cf8cd828523b0095e875df180fb8af663a01cbf3ddd7b061ef0538198fb5b03",
     "file": "articles/accounts-security/billing-account-management/1500000493782-billing-how-do-i-change-my-subscription-plan.md",
     "category": "Accounts & Security",
@@ -2636,7 +2650,7 @@
     "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
     "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration",
     "url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
-    "updated_at": "2026-07-05T08:33:25Z",
+    "updated_at": "2026-07-07T16:43:26Z",
     "hash": "d458b893413411d91f57687536e595726bff333803349a8acc1b89852bcf6370",
     "file": "articles/troubleshooting/optisigns-player-software/360035538093-my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md",
     "category": "Troubleshooting",
