@@ -1,4 +1,18 @@
 {
+  "53293393593491": {
+    "id": 53293393593491,
+    "title": "Refer & Earn: OptiSigns Referral Program",
+    "slug": "refer-earn-optisigns-referral-program",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+    "updated_at": "2026-07-08T17:09:50Z",
+    "hash": "45f7a2d56608e1e622970a289cebc790e60f44abc6659347d13255b80e7dbd96",
+    "file": "articles/accounts-security/billing-account-management/53293393593491-refer-earn-optisigns-referral-program.md",
+    "category": "Accounts & Security",
+    "category_slug": "accounts-security",
+    "section": "Billing & Account Management",
+    "section_slug": "billing-account-management",
+    "openai_file_id": "file-2ZaDtBGXzUXut2AsDRtJqn"
+  },
   "53216900345875": {
     "id": 53216900345875,
     "title": "What Access Does OptiSigns Have to My Account and Devices?",
@@ -18,14 +32,14 @@
     "title": "Using the Japan Earthquake App",
     "slug": "using-the-japan-earthquake-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-    "updated_at": "2026-07-06T14:22:20Z",
-    "hash": "48baf57a5d17444d619dd17cd3c4f123ffb5bcceeeaeb6d73ed74a815ba57cde",
-    "file": "articles/apps-integrations/emergency-alert-apps/53095698149011-using-the-japan-earthquake-app.md",
+    "updated_at": "2026-07-08T18:39:51Z",
+    "hash": "cf7943c61c54bbc2a4a8c753ef4b11ecfc57c3395373167280ed0fb760453463",
+    "file": "articles/apps-integrations/news-rss/53095698149011-using-the-japan-earthquake-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
-    "section": "Emergency Alert Apps",
-    "section_slug": "emergency-alert-apps",
-    "openai_file_id": "file-93MMgR3TnpPffYnoZjjAks"
+    "section": "News & RSS",
+    "section_slug": "news-rss",
+    "openai_file_id": "file-JHgrfXifN5cwzn4HGwUNzS"
   },
   "53028011485715": {
     "id": 53028011485715,
@@ -88,14 +102,14 @@
     "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
     "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
     "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-    "updated_at": "2026-06-15T19:14:16Z",
-    "hash": "db2a7c701b2ba7017618f44228335a8d6f3b9fe6d9fb2593fde332ef033e813c",
+    "updated_at": "2026-07-08T14:58:11Z",
+    "hash": "5550039cc229aeb5e44c301d0ef7209c853d017302cab35afa0c1c5d2a73ea59",
     "file": "articles/apps-integrations/collaboration-productivity-apps/52113036672403-room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-QhCVGkke1hozCcwCibtkQh"
+    "openai_file_id": "file-Dz7tR29xdt6amWwktdzd3W"
   },
   "52069065128723": {
     "id": 52069065128723,
@@ -704,14 +718,14 @@
     "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
     "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
     "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "updated_at": "2026-06-02T22:08:42Z",
-    "hash": "5c542788d6c2e7bc264309b11b2bf24e599dad1d34b11f3a82696b7518edf816",
+    "updated_at": "2026-07-08T14:47:07Z",
+    "hash": "a23426378d7d98df0076f01e2196a7afd33fc3fcdd09f6c947ac57b746acc7ea",
     "file": "articles/troubleshooting/screens-management/28598173096723-how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Screens Management",
     "section_slug": "screens-management",
-    "openai_file_id": "file-Y56AdkTa2eCKqbFSSsbDDf"
+    "openai_file_id": "file-HFXmQ5uHKm2nCsYCRUPFGK"
   },
   "28427819992979": {
     "id": 28427819992979,
@@ -5086,14 +5100,14 @@
     "title": "How to use YouTube with OptiSigns",
     "slug": "how-to-use-youtube-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "updated_at": "2026-06-18T05:00:56Z",
-    "hash": "1ea54b1fc9519e3beeb56ceb696460aaa88004b08e2a7176b93040ec131681d8",
+    "updated_at": "2026-07-08T15:01:25Z",
+    "hash": "2ee4857fb7d13c587de8421af86cf396e33558a990b6202a143900d545931114",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360051014713-how-to-use-youtube-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-RbExFyKQgiBUpk47ogwHQz"
+    "openai_file_id": "file-6uB6KftvfjyiEQCWxBd1jD"
   },
   "360049875794": {
     "id": 360049875794,
