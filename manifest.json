@@ -704,14 +704,14 @@
     "title": "How to Set Up Dynamic Data Mapping with OptiSync",
     "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
     "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "updated_at": "2025-09-04T17:54:40Z",
-    "hash": "633ab20703dfc17a6594aed3c129db79f0bdf0cfd84858bc8560de42953c7e38",
+    "updated_at": "2026-07-09T15:33:50Z",
+    "hash": "5345f37c2090d1b23c6cef1d3eb8b94e5fa4f7b23f6fc4a74f176a3c54d7d97f",
     "file": "articles/designer/datasources-and-repeaters/29217646663187-how-to-set-up-dynamic-data-mapping-with-optisync.md",
     "category": "Designer",
     "category_slug": "designer",
     "section": "DataSources and Repeaters",
     "section_slug": "datasources-and-repeaters",
-    "openai_file_id": "file-DuL8VizTd69Kvp3TPRmv4k"
+    "openai_file_id": "file-C9th6vmaxCTCnGooBF4Rnq"
   },
   "28598173096723": {
     "id": 28598173096723,
@@ -2314,7 +2314,7 @@
     "title": "How to Change Time Zone on Your Fire Stick device",
     "slug": "how-to-change-time-zone-on-your-fire-stick-device",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "updated_at": "2026-05-20T21:12:27Z",
+    "updated_at": "2026-07-09T18:27:02Z",
     "hash": "3abc1c038d920d9efeb61ea03530b617e43f86cf1bc679b5dd19b48ec439e1e2",
     "file": "articles/troubleshooting/fire-tv/360056086653-how-to-change-time-zone-on-your-fire-stick-device.md",
     "category": "Troubleshooting",
@@ -2412,7 +2412,7 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-06-18T00:48:15Z",
+    "updated_at": "2026-07-09T19:48:39Z",
     "hash": "ed981987be341829d22b1e2e3259201af25af494680957c1195750ea7711a808",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
@@ -2762,14 +2762,14 @@
     "title": "How to Create and Use the Split Screen App",
     "slug": "how-to-create-and-use-the-split-screen-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-    "updated_at": "2026-02-04T16:37:07Z",
-    "hash": "afd8efb1cd5343641fe3beaf6dd3f195618cc705f6a3dc55666ef986f461940b",
+    "updated_at": "2026-07-09T21:32:58Z",
+    "hash": "c3a7d8988d2da3451624bb4e86aefdde37112803aa6b5613c9053b501b5b2320",
     "file": "articles/create-manage-contents/splitscreen-multi-zones/360026559573-how-to-create-and-use-the-split-screen-app.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "SplitScreen - Multi Zones",
     "section_slug": "splitscreen-multi-zones",
-    "openai_file_id": "file-MB4TS234kKXAUovw8Jku4A"
+    "openai_file_id": "file-2z5YAy4oTdV43vqFRT93XB"
   },
   "360025661053": {
     "id": 360025661053,
