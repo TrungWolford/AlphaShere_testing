@@ -1,4 +1,18 @@
 {
+  "53497007807251": {
+    "id": 53497007807251,
+    "title": "Device Management and Mass Provisioning",
+    "slug": "device-management-and-mass-provisioning",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+    "updated_at": "2026-07-16T16:39:52Z",
+    "hash": "9f4365baf2b0e395b975d3a3b65b04fa11702880f37cc47519ebdc057388a4b8",
+    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/53497007807251-device-management-and-mass-provisioning.md",
+    "category": "Setup Screens",
+    "category_slug": "setup-screens",
+    "section": "More ways to run OptiSigns Players",
+    "section_slug": "more-ways-to-run-optisigns-players",
+    "openai_file_id": "file-8fkqjzLEzPiL3gcfN94zWT"
+  },
   "53293393593491": {
     "id": 53293393593491,
     "title": "Refer & Earn: OptiSigns Referral Program",
@@ -2412,7 +2426,7 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-07-09T19:48:39Z",
+    "updated_at": "2026-07-16T10:01:04Z",
     "hash": "ed981987be341829d22b1e2e3259201af25af494680957c1195750ea7711a808",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
@@ -3238,7 +3252,7 @@
     "title": "Set OptiSigns as ScreenSaver on Windows",
     "slug": "set-optisigns-as-screensaver-on-windows",
     "url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
-    "updated_at": "2025-08-29T20:39:30Z",
+    "updated_at": "2026-07-16T22:15:47Z",
     "hash": "8c9fa332deb0f9db0c5d8777fbd2027efcecfac087ec31bdd33fdbceace86f97",
     "file": "articles/how-to-faqs/how-to-use-apps/360053211594-set-optisigns-as-screensaver-on-windows.md",
     "category": "How-to / FAQs",
