@@ -130,14 +130,14 @@
     "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
     "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
     "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-    "updated_at": "2026-06-11T22:22:00Z",
-    "hash": "c335e7756eb1cbc1dbd8fa4de5e9dd9ba317438bb9daf401c21c5f29f723776a",
+    "updated_at": "2026-07-17T22:17:54Z",
+    "hash": "1a075ba3e47564c37b5edc44019115676d108e05a2ed225c0162187d2737b0c0",
     "file": "articles/apps-integrations/collaboration-productivity-apps/52069065128723-connect-zoom-rooms-to-optisigns-digital-signage.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-NsGMZ32ci8iabPYwopsGNW"
+    "openai_file_id": "file-4dgNdTYKQ2nb9KCxC8pmV3"
   },
   "51343184586643": {
     "id": 51343184586643,
@@ -522,14 +522,14 @@
     "title": "Making a Video Wall with OptiSigns (Video Wall App)",
     "slug": "making-a-video-wall-with-optisigns-video-wall-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "updated_at": "2025-12-11T15:16:23Z",
-    "hash": "c6b105513f60b260261aa4ce99cf49256f62c1dacf62275e1fd4240e039c2283",
+    "updated_at": "2026-07-17T16:59:32Z",
+    "hash": "78bc48138b57622c77b15cd9149d4a5cae087a3befc61e7ea0e99cf5efc5f37c",
     "file": "articles/apps-integrations/others/33382537925267-making-a-video-wall-with-optisigns-video-wall-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-DvX666XcLQ4fLueHo69fbh"
+    "openai_file_id": "file-MYqATXajHgNCHj8DbNV1oc"
   },
   "32860569148819": {
     "id": 32860569148819,
@@ -2356,7 +2356,7 @@
     "title": "How to Update Fire TV OS to latest version",
     "slug": "how-to-update-fire-tv-os-to-latest-version",
     "url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-    "updated_at": "2025-09-04T15:35:37Z",
+    "updated_at": "2026-07-18T01:28:41Z",
     "hash": "9dca664f609163d5bba9cc200fc1da7cdc12f713d142fd88b489843697359723",
     "file": "articles/troubleshooting/fire-tv/360052361293-how-to-update-fire-tv-os-to-latest-version.md",
     "category": "Troubleshooting",
