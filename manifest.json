@@ -1,4 +1,18 @@
 {
+  "53952018650515": {
+    "id": 53952018650515,
+    "title": "How to Display Databricks Dashboards on OptiSigns",
+    "slug": "how-to-display-databricks-dashboards-on-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+    "updated_at": "2026-08-04T17:57:34Z",
+    "hash": "e90f9df675d06368c47fc9cc4b77e35a615c4c173d8bec0d2bf6f8133668ca09",
+    "file": "articles/apps-integrations/others/53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Others",
+    "section_slug": "others",
+    "openai_file_id": "file-51oH4vPDgHFQWAhfGeCFRk"
+  },
   "53497007807251": {
     "id": 53497007807251,
     "title": "Device Management and Mass Provisioning",
@@ -2692,7 +2706,7 @@
     "title": "Working with Teams and Security Levels",
     "slug": "working-with-teams-and-security-levels",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-    "updated_at": "2026-07-23T23:32:27Z",
+    "updated_at": "2026-08-04T19:17:14Z",
     "hash": "6e4e9b2e73a4399ed2ef533397ea6d9c0e82f653d9c82edffe82214be69d6ab9",
     "file": "articles/accounts-security/security-teams/360034883113-working-with-teams-and-security-levels.md",
     "category": "Accounts & Security",
