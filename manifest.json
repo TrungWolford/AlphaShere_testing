@@ -1,17 +1,31 @@
 {
+  "54095075680275": {
+    "id": 54095075680275,
+    "title": "OptiDev Add-on - Free Trial and Pricing",
+    "slug": "optidev-add-on-free-trial-and-pricing",
+    "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
+    "updated_at": "2026-08-05T18:22:19Z",
+    "hash": "36b442d694c1f2d22262108a03bdbadbc285dfa59003a8f0c8f66e527c11e144",
+    "file": "articles/advanced-features/advanced-features/54095075680275-optidev-add-on-free-trial-and-pricing.md",
+    "category": "Advanced Features",
+    "category_slug": "advanced-features",
+    "section": "Advanced Features",
+    "section_slug": "advanced-features",
+    "openai_file_id": "file-CFckQTroeH1xdB56W5YvN2"
+  },
   "53952018650515": {
     "id": 53952018650515,
     "title": "How to Display Databricks Dashboards on OptiSigns",
     "slug": "how-to-display-databricks-dashboards-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-    "updated_at": "2026-08-04T17:57:34Z",
-    "hash": "e90f9df675d06368c47fc9cc4b77e35a615c4c173d8bec0d2bf6f8133668ca09",
+    "updated_at": "2026-08-05T16:53:02Z",
+    "hash": "6d705d9dfa942f7ca805791cfbb99bb7f4c4835a37757b1c4402293a038e85c6",
     "file": "articles/apps-integrations/others/53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-51oH4vPDgHFQWAhfGeCFRk"
+    "openai_file_id": "file-XV14swh5zaSyMsXVkgsLa3"
   },
   "53497007807251": {
     "id": 53497007807251,
@@ -236,20 +250,6 @@
     "section": "Video Playback & Resolutions",
     "section_slug": "video-playback-resolutions",
     "openai_file_id": "file-A3X6mhng1RyTnnojbktoeE"
-  },
-  "47616485609491": {
-    "id": 47616485609491,
-    "title": "How to Use the OptiDev App",
-    "slug": "how-to-use-the-optidev-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
-    "updated_at": "2026-02-11T23:03:49Z",
-    "hash": "800655feeb6421518f5aeb5f9ef7a474b3685e7f4f0d51a557209a8b6805e3d1",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/47616485609491-how-to-use-the-optidev-app.md",
-    "category": "Apps & Integrations",
-    "category_slug": "apps-integrations",
-    "section": "Collaboration & Productivity Apps",
-    "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-1hAFhAUU6jSfsMBsXfnfXN"
   },
   "45619214182803": {
     "id": 45619214182803,
