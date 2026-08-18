@@ -732,14 +732,14 @@
     "title": "How to Set Up Dynamic Data Mapping with OptiSync",
     "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
     "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "updated_at": "2026-07-09T15:33:50Z",
-    "hash": "5345f37c2090d1b23c6cef1d3eb8b94e5fa4f7b23f6fc4a74f176a3c54d7d97f",
+    "updated_at": "2026-08-17T15:33:48Z",
+    "hash": "f910f0a044dba9531f6f6731cf38e208e8718519d3b81f5cbe170973094ba576",
     "file": "articles/designer/datasources-and-repeaters/29217646663187-how-to-set-up-dynamic-data-mapping-with-optisync.md",
     "category": "Designer",
     "category_slug": "designer",
     "section": "DataSources and Repeaters",
     "section_slug": "datasources-and-repeaters",
-    "openai_file_id": "file-C9th6vmaxCTCnGooBF4Rnq"
+    "openai_file_id": "file-3WHwEbPWKq6a3ggN4XMGek"
   },
   "28598173096723": {
     "id": 28598173096723,
@@ -1026,14 +1026,14 @@
     "title": "How to Integrate API and Publish API Data via OptiSync",
     "slug": "how-to-integrate-api-and-publish-api-data-via-optisync",
     "url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
-    "updated_at": "2025-09-04T21:00:02Z",
-    "hash": "a94e2a97a7117faa1c1b502ba0f3a6883c3eec5f7784894d8158129a8e393076",
+    "updated_at": "2026-08-17T15:33:02Z",
+    "hash": "9a43fe9a03778100d24df46ee688ac3a34eeec7013b4c8097d4c6a9b8b081ea9",
     "file": "articles/advanced-features/enterprise-app-api-integrations/22875592994195-how-to-integrate-api-and-publish-api-data-via-optisync.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-1rQYYwQiqt6c31aDHwCWf4"
+    "openai_file_id": "file-YEGJYYm5RHaJq8P7DdstzE"
   },
   "22474034993043": {
     "id": 22474034993043,
@@ -2440,14 +2440,14 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-07-22T15:55:30Z",
-    "hash": "ed981987be341829d22b1e2e3259201af25af494680957c1195750ea7711a808",
+    "updated_at": "2026-08-17T15:21:01Z",
+    "hash": "b13db8483225a5e698c38a3f94acdbefdc323a5ceb214c182caf4a017699c493",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-3PVs6F5zR6sd5hbmofQZ9J"
+    "openai_file_id": "file-UsxfcazHW5vtwJEPuk4EtS"
   },
   "360047232054": {
     "id": 360047232054,
@@ -2846,7 +2846,7 @@
     "title": "How to Install an APK file on your Fire TV",
     "slug": "how-to-install-an-apk-file-on-your-fire-tv",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-13T11:52:12Z",
+    "updated_at": "2026-08-17T21:10:23Z",
     "hash": "ee484b35ea4bbfa1d5eebdb77d1772a1cf9690012ee88d620f746fa41c457504",
     "file": "articles/troubleshooting/fire-tv/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
     "category": "Troubleshooting",
@@ -3560,7 +3560,7 @@
     "title": "Kiosk32",
     "slug": "kiosk32",
     "url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
-    "updated_at": "2026-04-29T15:27:37Z",
+    "updated_at": "2026-08-17T12:43:11Z",
     "hash": "572ad77e250d93fe96270b97c851e099d58f07d00cac32641090f5c92f6d9fb5",
     "file": "articles/setup-screens/use-optisigns-players/44669013147923-kiosk32.md",
     "category": "Setup Screens",
