@@ -1320,7 +1320,7 @@
     "title": "Silent Installation process for OptiSigns Player on Windows",
     "slug": "silent-installation-process-for-optisigns-player-on-windows",
     "url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
-    "updated_at": "2025-08-29T18:51:22Z",
+    "updated_at": "2026-08-19T07:25:03Z",
     "hash": "b86d954344f75208ce6924019824cac2bcefee40f8806224bf2ae8c331d4cd56",
     "file": "articles/advanced-features/mass-deployment-networking/15861880059283-silent-installation-process-for-optisigns-player-on-windows.md",
     "category": "Advanced Features",
@@ -2790,7 +2790,7 @@
     "title": "How to Create and Use the Split Screen App",
     "slug": "how-to-create-and-use-the-split-screen-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-    "updated_at": "2026-07-09T21:32:58Z",
+    "updated_at": "2026-08-19T14:57:06Z",
     "hash": "c3a7d8988d2da3451624bb4e86aefdde37112803aa6b5613c9053b501b5b2320",
     "file": "articles/create-manage-contents/splitscreen-multi-zones/360026559573-how-to-create-and-use-the-split-screen-app.md",
     "category": "Create & Manage Contents",
@@ -2846,7 +2846,7 @@
     "title": "How to Install an APK file on your Fire TV",
     "slug": "how-to-install-an-apk-file-on-your-fire-tv",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-17T21:10:23Z",
+    "updated_at": "2026-08-19T23:02:46Z",
     "hash": "ee484b35ea4bbfa1d5eebdb77d1772a1cf9690012ee88d620f746fa41c457504",
     "file": "articles/troubleshooting/fire-tv/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
     "category": "Troubleshooting",
@@ -5422,14 +5422,14 @@
     "title": "How to Use the Simple Clock App",
     "slug": "how-to-use-the-simple-clock-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-14T20:14:02Z",
-    "hash": "3f9f5cb290f3b9958881d94541dd965d66b8f31e12f28c8280152462c7faf3cb",
+    "updated_at": "2026-08-19T18:54:53Z",
+    "hash": "fc030d527a6a252e546cb606feb00c60aee1624cfebe7a47eb3d501e3c605542",
     "file": "articles/apps-integrations/calendar/360042950593-how-to-use-the-simple-clock-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Calendar",
     "section_slug": "calendar",
-    "openai_file_id": "file-LVfDRmoeqGtAGcyfnWBRBj"
+    "openai_file_id": "file-Q1jQBszpw1yvCs6oqvRLYD"
   },
   "360042450514": {
     "id": 360042450514,
@@ -5702,13 +5702,13 @@
     "title": "How to Use the Website App and Display URLs on OptiSigns",
     "slug": "how-to-use-the-website-app-and-display-urls-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-    "updated_at": "2026-02-03T18:12:07Z",
-    "hash": "2f17d0525a43554c33d6149e562e4c3ff939d5c2a76dff48adfb2b4434b34ca5",
+    "updated_at": "2026-08-19T20:31:24Z",
+    "hash": "727eeb11782423841072e0ce79d35fb1a22eafb5fdb803ab61d8a7adf1d2e98f",
     "file": "articles/apps-integrations/websites-urls/360016382473-how-to-use-the-website-app-and-display-urls-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Websites & URLs",
     "section_slug": "websites-urls",
-    "openai_file_id": "file-Gvp6h79PzKiZevDq3xsFJF"
+    "openai_file_id": "file-AHKrhhiWiuZCNfLfmsN3Xm"
   }
 }
