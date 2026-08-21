@@ -1163,17 +1163,17 @@
   },
   "19171222981523": {
     "id": 19171222981523,
-    "title": "How to use Yammer app on OptiSigns",
-    "slug": "how-to-use-yammer-app-on-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-use-Yammer-app-on-OptiSigns",
-    "updated_at": "2025-09-04T18:49:13Z",
-    "hash": "c0729ab98b03e801536f8258a84d254f348e60dd50ef600391fe1cc52fa9b91d",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/19171222981523-how-to-use-yammer-app-on-optisigns.md",
+    "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
+    "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "updated_at": "2026-08-20T19:03:01Z",
+    "hash": "af76c4fe2d6b80d1ff512ddda388399c906a91a153965576279c11c7245f9e54",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/19171222981523-how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-KQY2c4Aq18UYXfw8Ev4Q28"
+    "openai_file_id": "file-LrG8inZp6J8CRk7PNwajHW"
   },
   "18988049363859": {
     "id": 18988049363859,
@@ -2647,17 +2647,17 @@
   },
   "360037416494": {
     "id": 360037416494,
-    "title": "How to use the Atlassian JIRA app",
-    "slug": "how-to-use-the-atlassian-jira-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app",
-    "updated_at": "2025-08-28T20:12:13Z",
-    "hash": "94f08c492795c5eb28ced0c932bbd3db6f8ea2bd5dc00f16862fe98fa71d9482",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/360037416494-how-to-use-the-atlassian-jira-app.md",
+    "title": "How to use the Jira (formerly Atlassian JIRA) app",
+    "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+    "updated_at": "2026-08-20T19:03:52Z",
+    "hash": "8c3e43ee103354213750f33a411b0ec72344cd134a95e61e4af1feff9e09b2e5",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/360037416494-how-to-use-the-jira-formerly-atlassian-jira-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-XYcpapFUcC96PaHWGVuZXb"
+    "openai_file_id": "file-1rdfyTYbPBdbnmHq2TU3ep"
   },
   "360037391854": {
     "id": 360037391854,
