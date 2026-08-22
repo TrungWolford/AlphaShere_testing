@@ -1166,14 +1166,14 @@
     "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-    "updated_at": "2026-08-20T19:03:01Z",
-    "hash": "af76c4fe2d6b80d1ff512ddda388399c906a91a153965576279c11c7245f9e54",
+    "updated_at": "2026-08-21T18:40:48Z",
+    "hash": "abaf3d51c0fe727a89e9987246be2ed7dd912ad7487f965ccdc8f7cd4137a53c",
     "file": "articles/apps-integrations/collaboration-productivity-apps/19171222981523-how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-LrG8inZp6J8CRk7PNwajHW"
+    "openai_file_id": "file-S4Fry3p8GhjyPGNb2ZiVTz"
   },
   "18988049363859": {
     "id": 18988049363859,
@@ -1194,7 +1194,7 @@
     "title": "OptiSigns - Getting Started Guide",
     "slug": "optisigns-getting-started-guide",
     "url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
-    "updated_at": "2026-03-31T21:41:21Z",
+    "updated_at": "2026-08-21T05:37:19Z",
     "hash": "342472feef95c3e9f82059dc89f97edecef3b8431c2d6206afb955421accb94f",
     "file": "articles/welcome-to-optisigns/getting-started/18823504383891-optisigns-getting-started-guide.md",
     "category": "Welcome to OptiSigns",
@@ -5422,14 +5422,14 @@
     "title": "How to Use the Simple Clock App",
     "slug": "how-to-use-the-simple-clock-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-19T18:54:53Z",
-    "hash": "fc030d527a6a252e546cb606feb00c60aee1624cfebe7a47eb3d501e3c605542",
+    "updated_at": "2026-08-21T21:14:32Z",
+    "hash": "6061f13dbba4dec99c2427da2055ab2a048cfd488150e79aa1258e1148001d3e",
     "file": "articles/apps-integrations/calendar/360042950593-how-to-use-the-simple-clock-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Calendar",
     "section_slug": "calendar",
-    "openai_file_id": "file-Q1jQBszpw1yvCs6oqvRLYD"
+    "openai_file_id": "file-TtwRBjsRKZwq5GYG6ctAx2"
   },
   "360042450514": {
     "id": 360042450514,
