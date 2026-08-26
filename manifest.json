@@ -575,17 +575,17 @@
   },
   "31960461758611": {
     "id": 31960461758611,
-    "title": "How to Order a Preconfigured OptiSigns Android Player Device",
-    "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
-    "updated_at": "2026-06-11T17:48:29Z",
-    "hash": "e2120be5e0e0ce2e468ef213771c855551037694846c5cdf8cc5cf9cc555a6ca",
-    "file": "articles/how-to-faqs/hw-player-setup/31960461758611-how-to-order-a-preconfigured-optisigns-android-player-device.md",
+    "title": "How to Order a Preconfigured OptiSigns Android Stick",
+    "slug": "how-to-order-a-preconfigured-optisigns-android-stick",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+    "updated_at": "2026-08-25T21:52:40Z",
+    "hash": "8239ac492dbfb9890d567a3d31cabd5380e330177698ff3fd6fbaa6f85b56638",
+    "file": "articles/how-to-faqs/hw-player-setup/31960461758611-how-to-order-a-preconfigured-optisigns-android-stick.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "HW & Player Setup",
     "section_slug": "hw-player-setup",
-    "openai_file_id": "file-GZ23U7F3tRtZP4fiZASEcy"
+    "openai_file_id": "file-1WbjMvWZiXMfZgRCZE2FKV"
   },
   "31860170199955": {
     "id": 31860170199955,
@@ -3966,14 +3966,14 @@
     "title": "Amazon Firestick",
     "slug": "amazon-firestick",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
-    "updated_at": "2026-06-05T22:12:50Z",
-    "hash": "d49590715e7264477f3fab2c3b0ca9cab3f295b4df7b7c4014766708511bdf25",
+    "updated_at": "2026-08-25T22:35:02Z",
+    "hash": "5289c015dbd0719d2235c8831243ecf598622ee5aae74a977023b6c36d0ecba5",
     "file": "articles/setup-screens/use-your-players/360016174554-amazon-firestick.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-ELbSgYq8zGVxqhk5vbEdT6"
+    "openai_file_id": "file-GSEwt3oibNiBVBfEsiTVmM"
   },
   "44650391786131": {
     "id": 44650391786131,
