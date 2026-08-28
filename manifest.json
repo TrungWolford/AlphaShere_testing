@@ -130,14 +130,14 @@
     "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
     "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
     "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-    "updated_at": "2026-06-24T18:39:16Z",
-    "hash": "4ce61a9445b353cd31c804a2a72e0c79d5febc37258d8d4a37c9896a40b27b29",
+    "updated_at": "2026-08-27T19:45:55Z",
+    "hash": "c1ce19d56c50b30092d672eb4551efcee87171b589e5e367ff98bc378caf95a8",
     "file": "articles/apps-integrations/collaboration-productivity-apps/52350277262483-connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-KYUwZXkMhbz2yVg4ogrMjV"
+    "openai_file_id": "file-GiQoJRD34AQ5RNphSt4991"
   },
   "52113036672403": {
     "id": 52113036672403,
@@ -984,14 +984,14 @@
     "title": "Engage Plan - FAQs",
     "slug": "engage-plan-faqs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-06-29T19:25:18Z",
-    "hash": "e5a0c5cae5b2b6d4b6213404c8e57215c632349b48ca978b0416efdd352fa0b3",
+    "updated_at": "2026-08-27T17:21:45Z",
+    "hash": "0365481b233b3e7c64c18a0ea8a1a205ee49a3b39a06cfd132614d54c518ad58",
     "file": "articles/engage-kiosk/engage-overview/23565267463315-engage-plan-faqs.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Engage Overview",
     "section_slug": "engage-overview",
-    "openai_file_id": "file-X3GrTereLBLPKec1hnJhYM"
+    "openai_file_id": "file-YQtsgTkfLW7z4t1UdiHXp7"
   },
   "23274673797139": {
     "id": 23274673797139,
@@ -3952,14 +3952,14 @@
     "title": "How to Delete Your Account from OptiSigns",
     "slug": "how-to-delete-your-account-from-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-08-10T11:48:19Z",
-    "hash": "044d3fe6e9e70320aee1dbdf57b5aa1b633bad0b5c63a6ef10c075a636666773",
+    "updated_at": "2026-08-27T15:33:20Z",
+    "hash": "c5da985f94ac863eacc4042869950e8f20d279ae4a206ade8db234aa8af27ded",
     "file": "articles/accounts-security/billing-account-management/4404608957075-how-to-delete-your-account-from-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-CUqRs8AXJCVQUERRmhidng"
+    "openai_file_id": "file-GJuvynFXqnw6PmE2eiSyhS"
   },
   "360016174554": {
     "id": 360016174554,
