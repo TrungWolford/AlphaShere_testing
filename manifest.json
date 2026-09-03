@@ -662,14 +662,14 @@
     "title": "How to Use the Mobile App for Remote Control",
     "slug": "how-to-use-the-mobile-app-for-remote-control",
     "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-    "updated_at": "2025-09-04T20:14:54Z",
-    "hash": "3fa3f035e464f5f298205d3121cbb2bebbcab33d3459aae142b61d8c48618400",
+    "updated_at": "2026-09-02T20:41:23Z",
+    "hash": "7a1b0fb69a493a442a9eb13d46834defe1d70224b74f1ccbe59a7f9517997bd2",
     "file": "articles/troubleshooting/optisigns-players/30304278652563-how-to-use-the-mobile-app-for-remote-control.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Players",
     "section_slug": "optisigns-players",
-    "openai_file_id": "file-NouX2Bki1k1o6AoVfpcMQp"
+    "openai_file_id": "file-TRjiivVm4jwS66QdpNax19"
   },
   "29792081890323": {
     "id": 29792081890323,
@@ -2426,28 +2426,28 @@
     "title": "Edit Screen: What does each option do?",
     "slug": "edit-screen-what-does-each-option-do",
     "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-    "updated_at": "2026-05-21T13:09:58Z",
-    "hash": "361636a08bebed494d16e48f15b91073a0604ef430abd5636cd73ca807ed66f3",
+    "updated_at": "2026-09-02T20:33:01Z",
+    "hash": "86fc0d3a3383e5c02117077b78370a7fb19e75c0016975acaba8418456f0f378",
     "file": "articles/troubleshooting/optisigns-player-software/360048914673-edit-screen-what-does-each-option-do.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
-    "openai_file_id": "file-8wrjYTPSLfP5j4NERAsW64"
+    "openai_file_id": "file-RYYnmEDBZcYDoqFSxFF56Q"
   },
   "360047275934": {
     "id": 360047275934,
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-08-17T15:21:01Z",
-    "hash": "b13db8483225a5e698c38a3f94acdbefdc323a5ceb214c182caf4a017699c493",
+    "updated_at": "2026-09-02T20:00:13Z",
+    "hash": "775ed8c97c61f38dfc1a304c47e3d6915e41502c82fb6e58d0d78a7b8844e663",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-UsxfcazHW5vtwJEPuk4EtS"
+    "openai_file_id": "file-2a1t3TzCtn8Dj1swL1EimT"
   },
   "360047232054": {
     "id": 360047232054,
@@ -4316,14 +4316,14 @@
     "title": "Show Offline Indicator feature",
     "slug": "show-offline-indicator-feature",
     "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-    "updated_at": "2025-08-28T19:46:51Z",
-    "hash": "d95c1f9bff5f8edc2bfd8627be4b7393249c3b505cf855339b4ba8edb228cc49",
+    "updated_at": "2026-09-02T15:47:19Z",
+    "hash": "9eccec8f3fc327b78133d70c542c473bd89c8b6be6ab44c79f971f40f6c2ab73",
     "file": "articles/how-to-faqs/how-to-use-apps/12498801963027-show-offline-indicator-feature.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "How To Use Apps",
     "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-6qsj5FtNGrYRp4EJacJU9S"
+    "openai_file_id": "file-TczCUj9wbbac9kG3DMMGwd"
   },
   "10259143299219": {
     "id": 10259143299219,
