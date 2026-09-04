@@ -522,14 +522,14 @@
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-03-27T20:38:29Z",
-    "hash": "e48b5f637c40f0ed6ead2ac24d9ceb662344768508c6cb064f685d45847795b7",
+    "updated_at": "2026-09-03T14:57:58Z",
+    "hash": "471689659d8b6e51b79ee3e21c460a2960430963f6bcf76a83babcc42b1e986e",
     "file": "articles/how-to-faqs/faq/33940834613139-what-do-i-get-with-an-optisigns-free-plan.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "FAQ",
     "section_slug": "faq",
-    "openai_file_id": "file-63b5MHQY742U1WRMMBJog5"
+    "openai_file_id": "file-BoTy1vmzUUSA8qq2VVd8iw"
   },
   "33382537925267": {
     "id": 33382537925267,
@@ -690,7 +690,7 @@
     "title": "List of Supported Cities for Weather Wall City Themes",
     "slug": "list-of-supported-cities-for-weather-wall-city-themes",
     "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-    "updated_at": "2026-04-08T13:41:37Z",
+    "updated_at": "2026-09-03T16:49:43Z",
     "hash": "2eb9b081334f1e1253572efdb18851310662f8eec18bd114345a55cb722a5bf0",
     "file": "articles/apps-integrations/weather/29465595849235-list-of-supported-cities-for-weather-wall-city-themes.md",
     "category": "Apps & Integrations",
@@ -984,14 +984,14 @@
     "title": "Engage Plan - FAQs",
     "slug": "engage-plan-faqs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-08-27T17:21:45Z",
-    "hash": "0365481b233b3e7c64c18a0ea8a1a205ee49a3b39a06cfd132614d54c518ad58",
+    "updated_at": "2026-09-03T14:57:02Z",
+    "hash": "a36bf753106e4bdc6aad42c70eee9c410cc5c4522f9ef45f3b775bb00b82993b",
     "file": "articles/engage-kiosk/engage-overview/23565267463315-engage-plan-faqs.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Engage Overview",
     "section_slug": "engage-overview",
-    "openai_file_id": "file-YQtsgTkfLW7z4t1UdiHXp7"
+    "openai_file_id": "file-1wDWD6Kk1e5jc45GTGf5xB"
   },
   "23274673797139": {
     "id": 23274673797139,
@@ -1446,14 +1446,14 @@
     "title": "Data Residency and OptiSigns",
     "slug": "data-residency-and-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-06-05T14:25:01Z",
-    "hash": "367f7f93520f627e9057b88a1db8a01f8b8fe274cb88a40d05e1a1aaa202e5a8",
+    "updated_at": "2026-09-03T14:57:01Z",
+    "hash": "1e15ac140d25970a0ec3ecdf1e3045ec4d54ed2a81abca4c710d7ec70ca2f289",
     "file": "articles/accounts-security/security-teams/9169378546195-data-residency-and-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Security & Teams",
     "section_slug": "security-teams",
-    "openai_file_id": "file-U3X9SstucTtCPYPfaT5e49"
+    "openai_file_id": "file-HdJipWY1ZLoM6rdrsn7Aqy"
   },
   "9061950942995": {
     "id": 9061950942995,
@@ -2440,14 +2440,14 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-02T20:00:13Z",
-    "hash": "775ed8c97c61f38dfc1a304c47e3d6915e41502c82fb6e58d0d78a7b8844e663",
+    "updated_at": "2026-09-03T14:57:04Z",
+    "hash": "4869f7a316e05e6d33a239312da3f22038ee0e8a9e9f576e1deed7d400d7237b",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-2a1t3TzCtn8Dj1swL1EimT"
+    "openai_file_id": "file-Kf1HTHBuExnNaZKM3FZGio"
   },
   "360047232054": {
     "id": 360047232054,
@@ -2846,7 +2846,7 @@
     "title": "How to Install an APK file on your Fire TV",
     "slug": "how-to-install-an-apk-file-on-your-fire-tv",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-19T23:02:46Z",
+    "updated_at": "2026-09-03T15:56:32Z",
     "hash": "ee484b35ea4bbfa1d5eebdb77d1772a1cf9690012ee88d620f746fa41c457504",
     "file": "articles/troubleshooting/fire-tv/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
     "category": "Troubleshooting",
@@ -3098,14 +3098,14 @@
     "title": "How to Preview a Screen",
     "slug": "how-to-preview-a-screen",
     "url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-    "updated_at": "2026-05-17T21:11:45Z",
-    "hash": "3c5e88a4286fcec813901b4b4a38741015d66b53ba5643cf73e66f18421e3a5a",
+    "updated_at": "2026-09-03T10:41:51Z",
+    "hash": "e2c631b005498da70ec6d2406fc463ca550c4243fc7cadfdba2304cd06e721f0",
     "file": "articles/create-manage-contents/quick-start-guide/360035739414-how-to-preview-a-screen.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Quick Start Guide",
     "section_slug": "quick-start-guide",
-    "openai_file_id": "file-KW9KifAq1VJFceqJiQR1Me"
+    "openai_file_id": "file-D1S4BSTuBDztSyhcWPaUJf"
   },
   "360024310813": {
     "id": 360024310813,
@@ -5030,14 +5030,14 @@
     "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
     "slug": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-    "updated_at": "2026-07-21T05:24:44Z",
-    "hash": "c628ae91fbe37d6cade38ef98a08b1fd9d0f2aacd1c7157353f05d36c2704250",
+    "updated_at": "2026-09-03T14:57:05Z",
+    "hash": "3a9849ac015f3be9560e4d40e9e5cde6e01306fb4295d07258d2f147ab9bd7d0",
     "file": "articles/engage-kiosk/kiosk-touch-screen/360053993934-how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Kiosk - Touch screen",
     "section_slug": "kiosk-touch-screen",
-    "openai_file_id": "file-ExMh83M9udRC126h9x7cwa"
+    "openai_file_id": "file-KAhgj54VHkA9uow1LxWpkG"
   },
   "360052827713": {
     "id": 360052827713,
