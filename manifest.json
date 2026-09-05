@@ -536,14 +536,14 @@
     "title": "Making a Video Wall with OptiSigns (Video Wall App)",
     "slug": "making-a-video-wall-with-optisigns-video-wall-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "updated_at": "2026-07-17T16:59:32Z",
-    "hash": "78bc48138b57622c77b15cd9149d4a5cae087a3befc61e7ea0e99cf5efc5f37c",
+    "updated_at": "2026-09-04T16:24:39Z",
+    "hash": "fb9a5da9ab6a593b6533f3f371b0fd6c245b9dc277926177a9b93ec51eeefe7e",
     "file": "articles/apps-integrations/others/33382537925267-making-a-video-wall-with-optisigns-video-wall-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-MYqATXajHgNCHj8DbNV1oc"
+    "openai_file_id": "file-7fmMKQHyfuRvFnMHWifVBt"
   },
   "32860569148819": {
     "id": 32860569148819,
@@ -1110,14 +1110,14 @@
     "title": "Navigating Through OptiSigns' Template Library",
     "slug": "navigating-through-optisigns-template-library",
     "url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
-    "updated_at": "2025-09-04T14:39:07Z",
-    "hash": "1ed6a0310f2dcceba1c15ee817c6787a789f4545fe2317e99fbd8bc07599196e",
+    "updated_at": "2026-09-04T09:52:58Z",
+    "hash": "c218ecadcfa26fa1ee08268bb50d4c8d8f38b44f9227342c1165c4cb754b789c",
     "file": "articles/create-manage-contents/templates-designers/20425113117459-navigating-through-optisigns-template-library.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Templates, Designers",
     "section_slug": "templates-designers",
-    "openai_file_id": "file-TMLKkvVbReisAtyQzsGcCa"
+    "openai_file_id": "file-WuiBsc3DkXTgAqHSFEA5M7"
   },
   "20153471319187": {
     "id": 20153471319187,
@@ -1933,17 +1933,17 @@
   },
   "1500006130902": {
     "id": 1500006130902,
-    "title": "How to use Live TV with Ads App",
-    "slug": "how-to-use-live-tv-with-ads-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-use-Live-TV-with-Ads-App",
-    "updated_at": "2025-09-04T18:40:28Z",
-    "hash": "35d30d983e6204ea2b5da27156bbdb0de006f38fa6a8bb912df2389b50051ced",
-    "file": "articles/engage-kiosk/live-tv-with-ads/1500006130902-how-to-use-live-tv-with-ads-app.md",
+    "title": "How to Use the Live TV with Ads App",
+    "slug": "how-to-use-the-live-tv-with-ads-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
+    "updated_at": "2026-09-04T18:30:12Z",
+    "hash": "2cbc430c363b0dfb7a264d44489a951eead676b5307a992c693632d4f4e25417",
+    "file": "articles/engage-kiosk/live-tv-with-ads/1500006130902-how-to-use-the-live-tv-with-ads-app.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Live TV with Ads",
     "section_slug": "live-tv-with-ads",
-    "openai_file_id": "file-XDiV5MEvEvYUkFev5mEKwS"
+    "openai_file_id": "file-EFBcApbhkBdMD2AeCFQUaP"
   },
   "1500006056101": {
     "id": 1500006056101,
@@ -2804,7 +2804,7 @@
     "title": "How Can I Remove/Delete Uploaded Files or Assets?",
     "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
     "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-    "updated_at": "2026-08-31T12:06:14Z",
+    "updated_at": "2026-09-04T11:07:56Z",
     "hash": "8bb3849726ef6b6166f82897865a3f2661f85fe2826f34e83a5e69f46f48e7cd",
     "file": "articles/how-to-faqs/files-assets-management/360025661053-how-can-i-remove-delete-uploaded-files-or-assets.md",
     "category": "How-to / FAQs",
@@ -2916,14 +2916,14 @@
     "title": "ProPlayer",
     "slug": "proplayer",
     "url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
-    "updated_at": "2026-03-30T17:22:38Z",
-    "hash": "abbbeebfa7c8e1621041f4722eb842d1fb3228eb62352fa4cc76c8f908743e9f",
+    "updated_at": "2026-09-04T16:24:05Z",
+    "hash": "96f5cdfa5a71992102738895564ddbf26c97b7a57d96cbf4cc217487542d469d",
     "file": "articles/setup-screens/use-optisigns-players/32272215514131-proplayer.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-CeGsLgTNZq9i9ohFBtfU25"
+    "openai_file_id": "file-6fCCfbMiEHPhJXMzspjpZB"
   },
   "30003143806099": {
     "id": 30003143806099,
@@ -3014,7 +3014,7 @@
     "title": "How to get the list of playlists where the asset is used",
     "slug": "how-to-get-the-list-of-playlists-where-the-asset-is-used",
     "url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
-    "updated_at": "2026-08-31T16:30:59Z",
+    "updated_at": "2026-09-04T11:19:07Z",
     "hash": "9b923631357cb2a91ec54785198d3d73d7cbdd1f94ed2ed7615ac7c7bb39fc83",
     "file": "articles/how-to-faqs/how-to-use-apps/4472060158355-how-to-get-the-list-of-playlists-where-the-asset-is-used.md",
     "category": "How-to / FAQs",
@@ -3154,14 +3154,14 @@
     "title": "ProMax",
     "slug": "promax",
     "url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
-    "updated_at": "2026-03-30T17:22:38Z",
-    "hash": "76702aae7c8078ef141547894ebc7a7f6a67ef001ccace0914b3ff73ebc51293",
+    "updated_at": "2026-09-04T16:55:12Z",
+    "hash": "9ce9f3b39708c146af3393d520bcb67c12defca06f2e4bb8df4cc06b00c97769",
     "file": "articles/setup-screens/use-optisigns-players/38680194603155-promax.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-X95q3ASY5agRE6ZwmHq6H4"
+    "openai_file_id": "file-9ywqAgTEkbH64typVggrLd"
   },
   "35626165056787": {
     "id": 35626165056787,
@@ -4078,14 +4078,14 @@
     "title": "About the OnHold Devices Folder",
     "slug": "about-the-onhold-devices-folder",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-08-11T22:01:43Z",
-    "hash": "22325d0282251e6177242ec2a241c184c87517cd48dfe36aebadcfacd245ed31",
+    "updated_at": "2026-09-04T16:45:10Z",
+    "hash": "a8b603cdd46c74bcf86f3b54fa11f2bf1aaecce4fb9ac68ede89b75a73f7153e",
     "file": "articles/accounts-security/billing-account-management/1500003244381-about-the-onhold-devices-folder.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-XxZW8FnS5sBKWA3CXfTeYa"
+    "openai_file_id": "file-MhkKgdVhuDz4pWd4pDBWdm"
   },
   "360016981853": {
     "id": 360016981853,
@@ -5125,17 +5125,17 @@
   },
   "360051014713": {
     "id": 360051014713,
-    "title": "How to use YouTube with OptiSigns",
+    "title": "How to Use YouTube with OptiSigns",
     "slug": "how-to-use-youtube-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "updated_at": "2026-07-08T15:01:25Z",
-    "hash": "2ee4857fb7d13c587de8421af86cf396e33558a990b6202a143900d545931114",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+    "updated_at": "2026-09-04T20:47:35Z",
+    "hash": "dac68765ed7d1d456f2760be11840417fe897b7a5192b58575d4b3871e4f8fd5",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360051014713-how-to-use-youtube-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-6uB6KftvfjyiEQCWxBd1jD"
+    "openai_file_id": "file-4N73rF7ZGreL7mTsiXBLRX"
   },
   "360049875794": {
     "id": 360049875794,
