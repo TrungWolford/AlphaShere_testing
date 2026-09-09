@@ -1404,14 +1404,14 @@
     "title": "Show/Hide downloading status on your Player",
     "slug": "show-hide-downloading-status-on-your-player",
     "url": "https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player",
-    "updated_at": "2025-09-04T15:32:11Z",
-    "hash": "89d2a0abfb745350731aa6c0ba1ed505251bdf2d83cc90c638d64748818d9f9c",
+    "updated_at": "2026-09-08T08:53:05Z",
+    "hash": "26dc873b3201a62f481f01408ed4937ff1e3871fbd43b6294ad0ab3251e3568c",
     "file": "articles/how-to-faqs/hw-player-setup/12947300131731-show-hide-downloading-status-on-your-player.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "HW & Player Setup",
     "section_slug": "hw-player-setup",
-    "openai_file_id": "file-W6ZWgDCfL9wKASkn77mn75"
+    "openai_file_id": "file-5sJDHRuSLAqpuAZ6AX1SS5"
   },
   "11412877112595": {
     "id": 11412877112595,
@@ -1558,14 +1558,14 @@
     "title": "Manually control playlist playback with OptiSigns",
     "slug": "manually-control-playlist-playback-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns",
-    "updated_at": "2025-08-29T18:48:01Z",
-    "hash": "2d2a0464cd2caeda2708007188a40d7fe6fcc073d9cd9f2eb6f2f70a4fc80521",
+    "updated_at": "2026-09-08T16:46:49Z",
+    "hash": "3c6777e6d084bc5d282ba9eb6efc816d7ebb2f1c7d4ff8ec89a84b275dc17b8b",
     "file": "articles/advanced-features/playback-control-campaign-management/4416704273811-manually-control-playlist-playback-with-optisigns.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Playback Control & Campaign Management",
     "section_slug": "playback-control-campaign-management",
-    "openai_file_id": "file-JdjxBzGBqo6zVBe3ni1TAf"
+    "openai_file_id": "file-JinuDrnr3ZByYeZG21xw9t"
   },
   "4416542923667": {
     "id": 4416542923667,
@@ -2524,14 +2524,14 @@
     "title": "How to Create and Use Nested Playlists",
     "slug": "how-to-create-and-use-nested-playlists",
     "url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
-    "updated_at": "2025-09-04T20:17:22Z",
-    "hash": "e8472d19bfe189e553f0c530b3cb555b4e2cfab884380b603f3445850faa87ef",
+    "updated_at": "2026-09-08T19:09:15Z",
+    "hash": "7a27c75ed044ba9547c1add18d018e0713c0707d89e0b5cd9828429354e600eb",
     "file": "articles/advanced-features/playback-control-campaign-management/360043621953-how-to-create-and-use-nested-playlists.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Playback Control & Campaign Management",
     "section_slug": "playback-control-campaign-management",
-    "openai_file_id": "file-QAxfegnDHEB9jiJEVJ1ZxM"
+    "openai_file_id": "file-1r5FjSu3QYZQEhq3cLfdy5"
   },
   "360042736794": {
     "id": 360042736794,
@@ -2773,17 +2773,17 @@
   },
   "360026559613": {
     "id": 360026559613,
-    "title": "How to create a scrolling strip / bars",
-    "slug": "how-to-create-a-scrolling-strip-bars",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-create-a-scrolling-strip-bars",
-    "updated_at": "2025-09-02T19:11:51Z",
-    "hash": "ed08e090fdae6300e92c296f001e67ae19aeb3132e8c7a72e643af15c5999d6f",
-    "file": "articles/essential-use-cases/essential-use-cases/360026559613-how-to-create-a-scrolling-strip-bars.md",
+    "title": "How to Create a Scrolling Strip or Bar",
+    "slug": "how-to-create-a-scrolling-strip-or-bar",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
+    "updated_at": "2026-09-08T20:13:08Z",
+    "hash": "3949a4072cfdd82989c41ab405c23aa308fea1744c2619ee618e4fe4ff71d2bb",
+    "file": "articles/essential-use-cases/essential-use-cases/360026559613-how-to-create-a-scrolling-strip-or-bar.md",
     "category": "Essential Use Cases",
     "category_slug": "essential-use-cases",
     "section": "Essential Use Cases",
     "section_slug": "essential-use-cases",
-    "openai_file_id": "file-KHWGSYXMfboifKQwEeTheJ"
+    "openai_file_id": "file-DxfTsnNaaoh6gqhmMytqE3"
   },
   "360026559573": {
     "id": 360026559573,
@@ -2804,14 +2804,14 @@
     "title": "How Can I Remove/Delete Uploaded Files or Assets?",
     "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
     "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-    "updated_at": "2026-09-04T11:07:56Z",
-    "hash": "8bb3849726ef6b6166f82897865a3f2661f85fe2826f34e83a5e69f46f48e7cd",
+    "updated_at": "2026-09-08T20:49:51Z",
+    "hash": "06a5d8ec743f21eb8ca3a95a92cf177d23dff8253da3f8a9be68bae9d6756177",
     "file": "articles/how-to-faqs/files-assets-management/360025661053-how-can-i-remove-delete-uploaded-files-or-assets.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Files/Assets Management",
     "section_slug": "files-assets-management",
-    "openai_file_id": "file-Fm2DNKY9rZmoZoXicEAXJY"
+    "openai_file_id": "file-Jg2wZZjp8osT3BMP9s7WFu"
   },
   "360025626853": {
     "id": 360025626853,
@@ -3042,14 +3042,14 @@
     "title": "View Billing History and Download Receipts",
     "slug": "view-billing-history-and-download-receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
-    "updated_at": "2025-09-04T15:43:44Z",
-    "hash": "115f2dd515fe5ad90508d7cea1ea7caa77d98c711ccaeab8d790c93db8f4a23e",
+    "updated_at": "2026-09-08T21:26:23Z",
+    "hash": "f2beb6536195894b3af43a296fd6a93fa39ca1400fc99048b09113d773c70bf3",
     "file": "articles/accounts-security/billing-account-management/360054557434-view-billing-history-and-download-receipts.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-MbWcAiXw9TNEY6uFLaqTG6"
+    "openai_file_id": "file-Q3W4Qc4LvXtq4YGm2LZNUT"
   },
   "360050855313": {
     "id": 360050855313,
@@ -3770,14 +3770,14 @@
     "title": "Amazon Signage Stick",
     "slug": "amazon-signage-stick",
     "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2025-09-02T18:43:56Z",
-    "hash": "264fa834454c252bc3559ce364d04bf126ebd1b5cad0959039c06aa1723e436f",
+    "updated_at": "2026-09-09T07:45:55Z",
+    "hash": "d675b2cb22fe3337e7e9e3c02b5d5edb60e5e6f3116af2dabd705381e098ac8d",
     "file": "articles/setup-screens/use-your-players/34087061669523-amazon-signage-stick.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-VUFmAXeL46h3JdQSm1zfie"
+    "openai_file_id": "file-YMLeRFjGHcqYtSVjzzF71Q"
   },
   "14502723487379": {
     "id": 14502723487379,
@@ -4008,14 +4008,14 @@
     "title": "Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script",
     "slug": "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script",
     "url": "https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script",
-    "updated_at": "2025-09-02T20:33:55Z",
-    "hash": "003ba933d6abf4e1e2cace1b8ec2fd36f0b2216ad0ceabb017c0078ee9e0e0a4",
+    "updated_at": "2026-09-08T21:23:44Z",
+    "hash": "f8b4df9a305f1c06cf137953aa2ce5e7a21c329b6b96c8dfd633f766bff552a2",
     "file": "articles/troubleshooting/optisigns-players/21449362442003-update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Players",
     "section_slug": "optisigns-players",
-    "openai_file_id": "file-XeZqsLJmv91KtJLHh4VN2K"
+    "openai_file_id": "file-Nj7WjhPNJWo3d8WdqrmsVr"
   },
   "12454101966355": {
     "id": 12454101966355,
@@ -4036,14 +4036,14 @@
     "title": "Pagination",
     "slug": "pagination",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination",
-    "updated_at": "2025-09-04T16:16:44Z",
-    "hash": "cf35d7575acf934e78b24cf4954282774b0ecb292ef0563697761742f50cb91b",
+    "updated_at": "2026-09-08T21:23:42Z",
+    "hash": "6a76ca339bb76e5f132be245624799090579dbc31b1fbfc7998973ca8faafc01",
     "file": "articles/advanced-features/optisigns-api/4414558369811-pagination.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "OptiSigns API",
     "section_slug": "optisigns-api",
-    "openai_file_id": "file-Ld2SJztTNJofbK6XxGKv7G"
+    "openai_file_id": "file-GVW4ggDp9qC7iQegdQEjTv"
   },
   "1500009498782": {
     "id": 1500009498782,
@@ -4064,14 +4064,14 @@
     "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
     "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-    "updated_at": "2025-09-02T20:43:39Z",
-    "hash": "c7046cfff37e7e981c8a68ad28e71babdd224af47a633e8b6de3c307e81c5800",
+    "updated_at": "2026-09-08T08:33:10Z",
+    "hash": "e6ccc0a77cb5c5b0018a0c75141728071fd95cc44b789fc2316cf2269e5b4287",
     "file": "articles/setup-screens/use-your-players/1500009042742-fireos-tvs-amazon-insigna-toshiba-tcl.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-69JwErYsHrkdnCQYjNpHjz"
+    "openai_file_id": "file-UrgJjrVWn2vFRUCUSQCsCL"
   },
   "1500003244381": {
     "id": 1500003244381,
@@ -4218,14 +4218,14 @@
     "title": "How to display Google Slide in Portrait Mode",
     "slug": "how-to-display-google-slide-in-portrait-mode",
     "url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
-    "updated_at": "2025-09-04T15:42:07Z",
-    "hash": "e7e4f5275300959be024230a757c4d58ebb151376d7e3e8d6375e2a8b81097dd",
+    "updated_at": "2026-09-08T21:26:00Z",
+    "hash": "362547a68318ef46555c669e2dedec987f1972feca39fc4506ca3ede5fdc98b5",
     "file": "articles/how-to-faqs/how-to-use-apps/360019710493-how-to-display-google-slide-in-portrait-mode.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "How To Use Apps",
     "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-44EnbcFixhuSehUXbbVNj3"
+    "openai_file_id": "file-B6JnXXBzsDUkkHjZjx4oVj"
   },
   "360016376793": {
     "id": 360016376793,
@@ -4327,17 +4327,17 @@
   },
   "10259143299219": {
     "id": 10259143299219,
-    "title": "How to use Website Screenshot app",
-    "slug": "how-to-use-website-screenshot-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app",
-    "updated_at": "2026-06-25T19:46:15Z",
-    "hash": "2ac9a258746302852168d82d5431e5366fdbb3bf55d6b16d91e48a124d5af233",
-    "file": "articles/apps-integrations/websites-urls/10259143299219-how-to-use-website-screenshot-app.md",
+    "title": "How to Use the Website Screenshot app",
+    "slug": "how-to-use-the-website-screenshot-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-Use-the-Website-Screenshot-app",
+    "updated_at": "2026-09-08T21:51:42Z",
+    "hash": "5a9146df929551f21b13371c47a3e11f9f134fb9ce8cdd1a3e820a69c528d082",
+    "file": "articles/apps-integrations/websites-urls/10259143299219-how-to-use-the-website-screenshot-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Websites & URLs",
     "section_slug": "websites-urls",
-    "openai_file_id": "file-SW9ZeE47v7ebSgeFfkxYZF"
+    "openai_file_id": "file-JzC3E2nvKwp9orVbqdvN6V"
   },
   "4414496579475": {
     "id": 4414496579475,
@@ -5223,31 +5223,31 @@
   },
   "360049156234": {
     "id": 360049156234,
-    "title": "How to use Currency Exchange App",
-    "slug": "how-to-use-currency-exchange-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-use-Currency-Exchange-App",
-    "updated_at": "2025-09-04T15:14:58Z",
-    "hash": "0c4716b624e97d6ae801e9193439d9d72c0b9c80c6c7d53d58e813947ff21bd8",
-    "file": "articles/apps-integrations/stock-market-apps/360049156234-how-to-use-currency-exchange-app.md",
+    "title": "How to Use the Currency Exchange App",
+    "slug": "how-to-use-the-currency-exchange-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App",
+    "updated_at": "2026-09-08T19:52:57Z",
+    "hash": "dc7f36d346b873f4c967a6e0b6cef7812a9538c3dc80dc1500186e2917bbe91b",
+    "file": "articles/apps-integrations/stock-market-apps/360049156234-how-to-use-the-currency-exchange-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Stock Market Apps",
     "section_slug": "stock-market-apps",
-    "openai_file_id": "file-2q4s5BquTy3SPpgtcbNq6V"
+    "openai_file_id": "file-6AEhxsKXMqo7NdEZWgWYCz"
   },
   "360049919933": {
     "id": 360049919933,
-    "title": "How to use Crypto Index & Crypto Exchange App",
-    "slug": "how-to-use-crypto-index-crypto-exchange-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-use-Crypto-Index-Crypto-Exchange-App",
-    "updated_at": "2025-08-29T21:36:03Z",
-    "hash": "9ea2f150d43ca184f002cdc6e28ebf258d695f006317e147c2c1d81ae270ac67",
-    "file": "articles/apps-integrations/stock-market-apps/360049919933-how-to-use-crypto-index-crypto-exchange-app.md",
+    "title": "How to Use the Crypto Index & Crypto Exchange App",
+    "slug": "how-to-use-the-crypto-index-crypto-exchange-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App",
+    "updated_at": "2026-09-08T20:18:39Z",
+    "hash": "1fcd5cb5416ae711d0f20ba180cd85cb5d42cd7ab411fb37fe2f1f99b25e30a6",
+    "file": "articles/apps-integrations/stock-market-apps/360049919933-how-to-use-the-crypto-index-crypto-exchange-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Stock Market Apps",
     "section_slug": "stock-market-apps",
-    "openai_file_id": "file-SMF6KJv3mPeMBKecv3o7Ra"
+    "openai_file_id": "file-385RtnjptUomAjZVaxeHMo"
   },
   "360049155994": {
     "id": 360049155994,
@@ -5475,17 +5475,17 @@
   },
   "360041481553": {
     "id": 360041481553,
-    "title": "How to use Simple Calendar App",
-    "slug": "how-to-use-simple-calendar-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-use-Simple-Calendar-App",
-    "updated_at": "2025-08-29T18:57:26Z",
-    "hash": "5ade2b828189999bd9474e1c9adf28aba4dfd688f6ffdbd2a632eb846d04c8b8",
-    "file": "articles/apps-integrations/calendar/360041481553-how-to-use-simple-calendar-app.md",
+    "title": "How to Use the Simple Calendar App",
+    "slug": "how-to-use-the-simple-calendar-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App",
+    "updated_at": "2026-09-08T19:14:39Z",
+    "hash": "04f90a18bd9b49e3f39d4f9fd767ca05ccbf373131565645a31362652b8a69b5",
+    "file": "articles/apps-integrations/calendar/360041481553-how-to-use-the-simple-calendar-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Calendar",
     "section_slug": "calendar",
-    "openai_file_id": "file-FcjzoGoL4y8LWNUcQ2YwFE"
+    "openai_file_id": "file-3TuujMyHw82DzWsCGRr3hn"
   },
   "360040991534": {
     "id": 360040991534,
@@ -5545,17 +5545,17 @@
   },
   "360038769394": {
     "id": 360038769394,
-    "title": "How to create and use Yelp Reviews Wall",
-    "slug": "how-to-create-and-use-yelp-reviews-wall",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-create-and-use-Yelp-Reviews-Wall",
-    "updated_at": "2025-09-02T20:21:49Z",
-    "hash": "7a60881efbeec6dce07c7dc79ba68ccb5b3d3a754461afc39cc27e1737389128",
-    "file": "articles/apps-integrations/social-media/360038769394-how-to-create-and-use-yelp-reviews-wall.md",
+    "title": "How to Create and Use the Yelp App",
+    "slug": "how-to-create-and-use-the-yelp-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
+    "updated_at": "2026-09-08T20:18:24Z",
+    "hash": "48967be16adf4d9367262613ecbc07dce12a5b0d7e03716d5dc257a0bccff67c",
+    "file": "articles/apps-integrations/social-media/360038769394-how-to-create-and-use-the-yelp-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-L87KYuKQD1hqGZ24wBb4Fp"
+    "openai_file_id": "file-QmaR85oABMuf8o1z4yxuZ8"
   },
   "360037463934": {
     "id": 360037463934,
