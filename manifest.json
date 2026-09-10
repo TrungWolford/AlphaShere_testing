@@ -939,17 +939,17 @@
   },
   "24338756617747": {
     "id": 24338756617747,
-    "title": "What Are Feeds and How to Use It",
-    "slug": "what-are-feeds-and-how-to-use-it",
-    "url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It",
-    "updated_at": "2025-08-28T18:46:57Z",
-    "hash": "1012bfd8038cf0924644e07295b08b661180639fd66b17bdde76545975d09423",
-    "file": "articles/create-manage-contents/feeds/24338756617747-what-are-feeds-and-how-to-use-it.md",
+    "title": "Feeds and How to Use Them",
+    "slug": "feeds-and-how-to-use-them",
+    "url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
+    "updated_at": "2026-09-09T21:11:45Z",
+    "hash": "4cb4a694a42d59aabd0ecddb8e2c35dc0e148bac96c1c3a7f5e12fb20f894c2e",
+    "file": "articles/create-manage-contents/feeds/24338756617747-feeds-and-how-to-use-them.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Feeds",
     "section_slug": "feeds",
-    "openai_file_id": "file-UV4Mg4z1TnBTVqC1xpi5TA"
+    "openai_file_id": "file-1etyRUhm46zNw89btCJcQ6"
   },
   "23629657318547": {
     "id": 23629657318547,
@@ -1124,14 +1124,14 @@
     "title": "External Storage on OptiSigns Devices",
     "slug": "external-storage-on-optisigns-devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
-    "updated_at": "2026-06-05T16:36:27Z",
-    "hash": "370a9713162183ce6f102529e44a2e3cfbb01626892ae16eaf14cfc2488980b7",
+    "updated_at": "2026-09-09T14:46:27Z",
+    "hash": "9e95023b371cefc056d2974a5f991ee2735c06c69193a16122869a225dde35a9",
     "file": "articles/how-to-faqs/advanced-topics/20153471319187-external-storage-on-optisigns-devices.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Advanced Topics",
     "section_slug": "advanced-topics",
-    "openai_file_id": "file-92GySyB1FdQjNt8cy3uizf"
+    "openai_file_id": "file-GMRkYaiasav7bNR2MhkFLK"
   },
   "20062273670163": {
     "id": 20062273670163,
@@ -1502,14 +1502,14 @@
     "title": "Host your HTML/JS or Create your own Web App with Hosted Website",
     "slug": "host-your-html-js-or-create-your-own-web-app-with-hosted-website",
     "url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
-    "updated_at": "2025-08-29T20:55:40Z",
-    "hash": "67773642644d38a6777a14e6e5821ccffb98ad1dbcd1d29198894cceb10d2fc8",
+    "updated_at": "2026-09-09T19:14:29Z",
+    "hash": "e179eefbf8e5cc818349753f8282763df98d8ca36024b30d8d12fc17b41a2127",
     "file": "articles/advanced-features/enterprise-app-api-integrations/7592123111699-host-your-html-js-or-create-your-own-web-app-with-hosted-website.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-UmkgyumECKH7rPpXL4kcXT"
+    "openai_file_id": "file-4BFA3qyo6VSX1xhmnd1AN1"
   },
   "7589195635219": {
     "id": 7589195635219,
@@ -2673,20 +2673,6 @@
     "section_slug": "web-scripting-secured-dashboard",
     "openai_file_id": "file-5XajhqTcttMtHZsVVxQvQy"
   },
-  "360036465673": {
-    "id": 360036465673,
-    "title": "Adjusting social, news wall speeds",
-    "slug": "adjusting-social-news-wall-speeds",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds",
-    "updated_at": "2025-09-04T16:12:31Z",
-    "hash": "e3f68dbd9946b94dd0a62f03b74e9127c7cebbea88bc7a0f02eb62b833bff782",
-    "file": "articles/apps-integrations/social-media/360036465673-adjusting-social-news-wall-speeds.md",
-    "category": "Apps & Integrations",
-    "category_slug": "apps-integrations",
-    "section": "Social Media",
-    "section_slug": "social-media",
-    "openai_file_id": "file-5AYzgm6huxdnFF49UnaY5x"
-  },
   "360035538093": {
     "id": 360035538093,
     "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
@@ -3025,17 +3011,17 @@
   },
   "4414563797139": {
     "id": 4414563797139,
-    "title": "Generate & Manage OptiSigns API Key",
-    "slug": "generate-manage-optisigns-api-key",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key",
-    "updated_at": "2025-09-04T18:50:38Z",
-    "hash": "a5b822eb99e51ab9cf6903b57d351b445ee019f30de0a4899a7bf44365bf511f",
-    "file": "articles/advanced-features/optisigns-api/4414563797139-generate-manage-optisigns-api-key.md",
+    "title": "Generate & Manage an OptiSigns API Key",
+    "slug": "generate-manage-an-optisigns-api-key",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
+    "updated_at": "2026-09-09T21:49:12Z",
+    "hash": "b8f9d0e43458c7f3a471231d1a61b8168b4a431702844aaae5d7e7dcb53f83a5",
+    "file": "articles/advanced-features/optisigns-api/4414563797139-generate-manage-an-optisigns-api-key.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "OptiSigns API",
     "section_slug": "optisigns-api",
-    "openai_file_id": "file-VyrnAuUdMErmDwY3a178s9"
+    "openai_file_id": "file-5hNJTop4fv8UfS6AzuQVCm"
   },
   "360054557434": {
     "id": 360054557434,
@@ -3532,14 +3518,14 @@
     "title": "How to Use Weather Apps in OptiSigns",
     "slug": "how-to-use-weather-apps-in-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-    "updated_at": "2025-09-02T19:43:55Z",
-    "hash": "b1e294e91ca1bbcb3e8392ae49ee485cdaf6acf79f2256acd31ecfba2327b0d8",
+    "updated_at": "2026-09-09T16:30:11Z",
+    "hash": "d6aa195d63e7deb17ea5c946d69d87202568d8a77cc73a47df71bdb1f54baca0",
     "file": "articles/apps-integrations/weather/360017964153-how-to-use-weather-apps-in-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Weather",
     "section_slug": "weather",
-    "openai_file_id": "file-WSqYUy23UqhCkojMqpFUpU"
+    "openai_file_id": "file-3uR6hARf8X9oDSqpY9F1JT"
   },
   "360016375153": {
     "id": 360016375153,
@@ -4232,7 +4218,7 @@
     "title": "What happen if internet connection is lost?",
     "slug": "what-happen-if-internet-connection-is-lost",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
-    "updated_at": "2026-05-26T18:14:07Z",
+    "updated_at": "2026-09-10T04:00:57Z",
     "hash": "3fa048690260ed4f7691c089aa66c0302817d823fe75b5ca9f6b084368a23ac5",
     "file": "articles/troubleshooting/networking/360016376793-what-happen-if-internet-connection-is-lost.md",
     "category": "Troubleshooting",
@@ -4719,17 +4705,17 @@
   },
   "4408052949139": {
     "id": 4408052949139,
-    "title": "How to use Calendar Mix app",
-    "slug": "how-to-use-calendar-mix-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app",
-    "updated_at": "2025-09-04T14:10:19Z",
-    "hash": "49f82caef8d2045c0f6185388104ee9f3f6cbc425abf7db5a8f35b38f91f00e7",
-    "file": "articles/apps-integrations/calendar/4408052949139-how-to-use-calendar-mix-app.md",
+    "title": "How to Use the Calendar Mix app",
+    "slug": "how-to-use-the-calendar-mix-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+    "updated_at": "2026-09-09T15:32:17Z",
+    "hash": "c1f98a338a4ae6cf7081b1be68243e7c097f386adf69edabeb86f02e322c4524",
+    "file": "articles/apps-integrations/calendar/4408052949139-how-to-use-the-calendar-mix-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Calendar",
     "section_slug": "calendar",
-    "openai_file_id": "file-49HtE2q1oHPvnp1Beh18Cv"
+    "openai_file_id": "file-K2GF5nrbiRyMmMwX6RuHpe"
   },
   "4407335862931": {
     "id": 4407335862931,
@@ -4806,14 +4792,14 @@
     "title": "How to use the CBC News App",
     "slug": "how-to-use-the-cbc-news-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
-    "updated_at": "2025-10-10T18:50:47Z",
-    "hash": "d77fe071f62e8181b4e7e16044b912bfde9a2d114e2e307594c9f8a61a03447c",
+    "updated_at": "2026-09-09T19:26:10Z",
+    "hash": "18a60ebb11b32e9acb1534d8df34a44754067da8a3803af12aca84ababd137ff",
     "file": "articles/apps-integrations/news-rss/1500011611322-how-to-use-the-cbc-news-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-YRML8LykndX2niMEbJCtaK"
+    "openai_file_id": "file-EbTTr5GxakokSCTwCxDAum"
   },
   "1500009492202": {
     "id": 1500009492202,
@@ -5156,14 +5142,14 @@
     "title": "How to use Facebook Video App",
     "slug": "how-to-use-facebook-video-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
-    "updated_at": "2025-09-05T14:55:21Z",
-    "hash": "69e29adf2340088c0d5a6545d70e92e6c09e92bc496a4db483dce77f0dc84402",
+    "updated_at": "2026-09-10T02:31:21Z",
+    "hash": "5ec1a155f14a441997e0ab4af857a0665cbe689fa7686336a5fbfea2bf89da6a",
     "file": "articles/apps-integrations/social-media/360049872414-how-to-use-facebook-video-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-KEe5odHL5Gnmvym3LtjghK"
+    "openai_file_id": "file-SwGoF9pJqjpqeWFbWdYozG"
   },
   "360050665413": {
     "id": 360050665413,
@@ -5282,14 +5268,14 @@
     "title": "How to use the Motivational Quote App",
     "slug": "how-to-use-the-motivational-quote-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
-    "updated_at": "2025-08-29T21:33:29Z",
-    "hash": "a3aa1e3672cba3e6a90fe6be1916c822fc43971aa8522550181e6d7cc40b65c7",
+    "updated_at": "2026-09-09T20:46:35Z",
+    "hash": "6af280980343360c89f3e2865252a3533d2f6ece57ec92e2c2baeabc123c3fc2",
     "file": "articles/apps-integrations/collaboration-productivity-apps/360049030453-how-to-use-the-motivational-quote-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-PYXZ1sY6xrtbkYYRjgBrC1"
+    "openai_file_id": "file-SHjeGzhk6Bf2Fcm9hBxk6p"
   },
   "360048660813": {
     "id": 360048660813,
@@ -5349,17 +5335,17 @@
   },
   "360044619014": {
     "id": 360044619014,
-    "title": "How to use the Facebook Counter App",
+    "title": "How to Use the Facebook Counter App",
     "slug": "how-to-use-the-facebook-counter-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App",
-    "updated_at": "2026-02-02T15:31:45Z",
-    "hash": "422f9c1e4de02dacd701bb83d09c78f8bf8bb69d72c67539a9b03e8255c200f4",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
+    "updated_at": "2026-09-09T15:32:49Z",
+    "hash": "d49e3b6ba49ec661b50da7403c428b5f06f33a3a10f4a4038ec82bc382ec2150",
     "file": "articles/apps-integrations/social-media/360044619014-how-to-use-the-facebook-counter-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-54vBseTA9SRYuF5ZgLyUJP"
+    "openai_file_id": "file-XgviB1HyyYZnYSvsNKGtkF"
   },
   "360045121233": {
     "id": 360045121233,
@@ -5377,17 +5363,17 @@
   },
   "360044613874": {
     "id": 360044613874,
-    "title": "How to use the Guardian App",
-    "slug": "how-to-use-the-guardian-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App",
-    "updated_at": "2025-10-10T19:42:20Z",
-    "hash": "a8a284f771fc71f62670d294b986dda9f9416a8749e4f03ab160e5e84014a63f",
-    "file": "articles/apps-integrations/news-rss/360044613874-how-to-use-the-guardian-app.md",
+    "title": "How to Use the Guardian News App",
+    "slug": "how-to-use-the-guardian-news-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App",
+    "updated_at": "2026-09-09T21:32:02Z",
+    "hash": "32d7c6c129abbde1dd5eaaf93c40683af87d12080ed773a39c16103d753f36dc",
+    "file": "articles/apps-integrations/news-rss/360044613874-how-to-use-the-guardian-news-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-4BoMW9umrzqkGQDefyE43U"
+    "openai_file_id": "file-1KCR6j89kmduDEFAFWiszW"
   },
   "360045120133": {
     "id": 360045120133,
@@ -5408,14 +5394,14 @@
     "title": "How to Use the Stock App",
     "slug": "how-to-use-the-stock-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
-    "updated_at": "2026-01-26T17:43:31Z",
-    "hash": "b5feeaa63b49430f9fa23d94e62083f1a8b06c3b0c00c948078c67f2ee800562",
+    "updated_at": "2026-09-09T19:22:54Z",
+    "hash": "0a3a1c0d766f9f8f8a34756d63043435a68b7a008e8cd7d0433182398a6930e6",
     "file": "articles/apps-integrations/stock-market-apps/360044115513-how-to-use-the-stock-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Stock Market Apps",
     "section_slug": "stock-market-apps",
-    "openai_file_id": "file-U6f3Lz2P4uNUBS5GTSjYHU"
+    "openai_file_id": "file-EWv5PWEFTgiUDQ11eNYLAS"
   },
   "360042950593": {
     "id": 360042950593,
@@ -5492,42 +5478,42 @@
     "title": "How to use the TechCrunch News App",
     "slug": "how-to-use-the-techcrunch-news-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
-    "updated_at": "2025-10-10T19:57:42Z",
-    "hash": "9b2e2dc697d7f7bad00d5a4bbcb3632ea014186f6a4ca6286b0b8911c78d98e2",
+    "updated_at": "2026-09-09T20:54:43Z",
+    "hash": "9731dbe19f4c39bdc6a5f3cbecc4091ce9bc68202598843509d1447dfcd4d79a",
     "file": "articles/apps-integrations/news-rss/360040991534-how-to-use-the-techcrunch-news-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-ARU4r4DxBN2fe7dP83JEde"
+    "openai_file_id": "file-FbyjJ3LdyyfHmrA8xnzFWD"
   },
   "360040991474": {
     "id": 360040991474,
-    "title": "How to use the ESPN News App",
+    "title": "How to Use the ESPN News App",
     "slug": "how-to-use-the-espn-news-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App",
-    "updated_at": "2025-10-10T18:54:38Z",
-    "hash": "c9a0744b80648399f3247b12c7838f052aaad5f03a2b5952cdf6addd6263718c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App",
+    "updated_at": "2026-09-09T21:57:39Z",
+    "hash": "87fb6246a67e5c797ece97b1e49d494b3f3005844d1c2d7d4ce905613b0d47fb",
     "file": "articles/apps-integrations/news-rss/360040991474-how-to-use-the-espn-news-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-Pe8YjP28Xz5XXFmSR6gstU"
+    "openai_file_id": "file-4yjnQbgAQUKBqWPDQkaDSL"
   },
   "360041476213": {
     "id": 360041476213,
-    "title": "How to use the CNN News App",
-    "slug": "how-to-use-the-cnn-news-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App",
-    "updated_at": "2025-09-30T20:41:34Z",
-    "hash": "7b197cd3cae2e62b680b5cb83bb9c2895856df88c362376c9688af9a14bb03fb",
-    "file": "articles/apps-integrations/news-rss/360041476213-how-to-use-the-cnn-news-app.md",
+    "title": "How to use the CNN Wall App",
+    "slug": "how-to-use-the-cnn-wall-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App",
+    "updated_at": "2026-09-09T17:00:22Z",
+    "hash": "c3da557007d6d42b2839cdc0c483fc8b3ba09e9030883fdd864d957a7f174551",
+    "file": "articles/apps-integrations/news-rss/360041476213-how-to-use-the-cnn-wall-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-4xbCWtHnXNidj3Wie8e8kC"
+    "openai_file_id": "file-7krLEUxFEhQGCngyUywwZJ"
   },
   "360039264133": {
     "id": 360039264133,
@@ -5548,7 +5534,7 @@
     "title": "How to Create and Use the Yelp App",
     "slug": "how-to-create-and-use-the-yelp-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
-    "updated_at": "2026-09-08T20:18:24Z",
+    "updated_at": "2026-09-10T06:59:29Z",
     "hash": "48967be16adf4d9367262613ecbc07dce12a5b0d7e03716d5dc257a0bccff67c",
     "file": "articles/apps-integrations/social-media/360038769394-how-to-create-and-use-the-yelp-app.md",
     "category": "Apps & Integrations",
@@ -5632,14 +5618,14 @@
     "title": "How to Use the Facebook Page App",
     "slug": "how-to-use-the-facebook-page-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
-    "updated_at": "2026-02-02T17:17:28Z",
-    "hash": "89ba60b278f71e107f2a9ea19e6499749d3deb598b9f292515996fdd948df688",
+    "updated_at": "2026-09-10T02:49:33Z",
+    "hash": "7a9abfba73d5b540ba4db194c6cfc6b41c041c308d3e5d43321392b219b7fa80",
     "file": "articles/apps-integrations/social-media/360023848334-how-to-use-the-facebook-page-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-FmNyR6DNJq3pio3sUbRytc"
+    "openai_file_id": "file-Rk7PzhSKRhzhKkgRiD8Apt"
   },
   "360016375573": {
     "id": 360016375573,
@@ -5657,17 +5643,17 @@
   },
   "360022393473": {
     "id": 360022393473,
-    "title": "How to use the News App",
+    "title": "How to Use the News App",
     "slug": "how-to-use-the-news-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App",
-    "updated_at": "2025-09-30T20:42:39Z",
-    "hash": "45479042349458390e8f03eb9e48e27a290e8a8f1d529901984a1af3d7e3c97c",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
+    "updated_at": "2026-09-09T21:52:52Z",
+    "hash": "79d62223ef086d109163591867bf31b748253f50443e1db10ed895930104199d",
     "file": "articles/apps-integrations/news-rss/360022393473-how-to-use-the-news-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "News & RSS",
     "section_slug": "news-rss",
-    "openai_file_id": "file-QzEtttUfk4WZ5p2H3USYaz"
+    "openai_file_id": "file-56v5kdv2ab36GXHnTcwNRi"
   },
   "360019517953": {
     "id": 360019517953,
