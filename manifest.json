@@ -746,14 +746,14 @@
     "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
     "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
     "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "updated_at": "2026-07-30T00:40:11Z",
-    "hash": "a23426378d7d98df0076f01e2196a7afd33fc3fcdd09f6c947ac57b746acc7ea",
+    "updated_at": "2026-09-11T20:59:10Z",
+    "hash": "34f721b2c526c88d0ce7b88e1b749c297ca243edc6d657915b38a9d9d308b34f",
     "file": "articles/troubleshooting/screens-management/28598173096723-how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Screens Management",
     "section_slug": "screens-management",
-    "openai_file_id": "file-HFXmQ5uHKm2nCsYCRUPFGK"
+    "openai_file_id": "file-GsLtUqA44M84kME68J4X17"
   },
   "28427819992979": {
     "id": 28427819992979,
@@ -1012,14 +1012,14 @@
     "title": "How to setup AeriCast Meet (Wireless Video Conferencing)",
     "slug": "how-to-setup-aericast-meet-wireless-video-conferencing",
     "url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-    "updated_at": "2026-09-10T09:50:26Z",
-    "hash": "180fc915c9f9f0ff1cdf2b1299f63f7c7982166392558a8b7a446345f303df3a",
+    "updated_at": "2026-09-11T17:16:28Z",
+    "hash": "4e2c0d959449823c518598de3958fe99c979ded9011c82d07b27660c3bb597fc",
     "file": "articles/wireless-presentation-conferences/wireless-presentation-conferences/23030445716883-how-to-setup-aericast-meet-wireless-video-conferencing.md",
     "category": "Wireless Presentation & Conferences",
     "category_slug": "wireless-presentation-conferences",
     "section": "Wireless Presentation & Conferences",
     "section_slug": "wireless-presentation-conferences",
-    "openai_file_id": "file-JyBuwce9ubzPEuSLfCx5Jx"
+    "openai_file_id": "file-QHBr7iawo3BYDVb4gEiUJ4"
   },
   "22875592994195": {
     "id": 22875592994195,
@@ -1051,31 +1051,31 @@
   },
   "21708242980755": {
     "id": 21708242980755,
-    "title": "How to Share Playlist and Folder with External Users",
-    "slug": "how-to-share-playlist-and-folder-with-external-users",
-    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
-    "updated_at": "2026-09-10T09:50:19Z",
-    "hash": "cd51b9ca320ebb400fa09076e22ed9f8717ba3686d2373f25aae6e9cf6dc83a6",
-    "file": "articles/teams-collaboration/teams-collaboration/21708242980755-how-to-share-playlist-and-folder-with-external-users.md",
+    "title": "Sharing Playlists and Folders with External Users",
+    "slug": "sharing-playlists-and-folders-with-external-users",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
+    "updated_at": "2026-09-11T17:02:25Z",
+    "hash": "95ec6efbc22cf7633c4df1e7dfd9f10023b8a97f0f32cfe50cffd947cb381651",
+    "file": "articles/teams-collaboration/teams-collaboration/21708242980755-sharing-playlists-and-folders-with-external-users.md",
     "category": "Teams & Collaboration",
     "category_slug": "teams-collaboration",
     "section": "Teams & Collaboration",
     "section_slug": "teams-collaboration",
-    "openai_file_id": "file-4vYHiB6Pkufnhpx3B1VVYe"
+    "openai_file_id": "file-U6jHAv39rpH9JHy1WCMft4"
   },
   "20879903340947": {
     "id": 20879903340947,
     "title": "How to Use Content Tags in The Playlist",
     "slug": "how-to-use-content-tags-in-the-playlist",
     "url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-    "updated_at": "2026-09-10T09:50:16Z",
-    "hash": "6ea583f87c43bd972200dc16ba85ce1017f95b3ae593582296ebdd79c9a8bfb5",
+    "updated_at": "2026-09-11T11:22:47Z",
+    "hash": "9fde793bc16af43e1a32ce83b5fb4f36bff978682191f521c33a332ec967a7ed",
     "file": "articles/advanced-features/playback-control-campaign-management/20879903340947-how-to-use-content-tags-in-the-playlist.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Playback Control & Campaign Management",
     "section_slug": "playback-control-campaign-management",
-    "openai_file_id": "file-Hx9RcApdw4xNtBNgw5fgUe"
+    "openai_file_id": "file-YUQcvyJneFJkVvcxMj8TAV"
   },
   "20750060900883": {
     "id": 20750060900883,
@@ -2524,7 +2524,7 @@
     "title": "How to set an asset to Live or Expire at specific time",
     "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
     "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-    "updated_at": "2026-09-10T09:42:05Z",
+    "updated_at": "2026-09-11T20:37:05Z",
     "hash": "7b9a1031a1e61aa4b0e709371ffce90799ab974328a82bf9aa30981531c60380",
     "file": "articles/create-manage-contents/schedule/360042736794-how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
     "category": "Create & Manage Contents",
@@ -2748,7 +2748,7 @@
     "title": "How to Create a Scrolling Strip or Bar",
     "slug": "how-to-create-a-scrolling-strip-or-bar",
     "url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
-    "updated_at": "2026-09-10T09:40:43Z",
+    "updated_at": "2026-09-11T08:02:40Z",
     "hash": "3949a4072cfdd82989c41ab405c23aa308fea1744c2619ee618e4fe4ff71d2bb",
     "file": "articles/essential-use-cases/essential-use-cases/360026559613-how-to-create-a-scrolling-strip-or-bar.md",
     "category": "Essential Use Cases",
@@ -3196,7 +3196,7 @@
     "title": "How to install OptiSigns Player on Apple TV",
     "slug": "how-to-install-optisigns-player-on-apple-tv",
     "url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
-    "updated_at": "2026-09-11T07:28:25Z",
+    "updated_at": "2026-09-11T11:00:02Z",
     "hash": "61a5dd5c33cd7416e3e0a637f0da8c8b1ffccc018b306c5279368f62313d1f90",
     "file": "articles/setup-screens/more-ways-to-run-optisigns-players/6636047009427-how-to-install-optisigns-player-on-apple-tv.md",
     "category": "Setup Screens",
@@ -3602,14 +3602,14 @@
     "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
     "slug": "tutorial-create-update-add-remove-items-from-playlists",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
-    "updated_at": "2026-09-10T09:47:44Z",
-    "hash": "5527cd063d136612794ed71436901a89780d8893e7c8d69f4a62ff0943da6553",
+    "updated_at": "2026-09-11T10:15:55Z",
+    "hash": "0cb6bbce420607be6b4d1bf4608bb46b9a26332147775edeeb937ec9daca4ac1",
     "file": "articles/advanced-features/optisigns-api/4414558295955-tutorial-create-update-add-remove-items-from-playlists.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "OptiSigns API",
     "section_slug": "optisigns-api",
-    "openai_file_id": "file-2Bj4jqomcdn1cPK48uZGHq"
+    "openai_file_id": "file-2QGSQo355hjBo254bpNg3T"
   },
   "4411762539027": {
     "id": 4411762539027,
@@ -4890,14 +4890,14 @@
     "title": "How to Use the Local Folder App in OptiSigns",
     "slug": "how-to-use-the-local-folder-app-in-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-    "updated_at": "2026-09-10T09:45:24Z",
-    "hash": "dc9eae332e1399af901d636484e6bb90bb9ab6c85be4781d69dd3ea582c67bd5",
+    "updated_at": "2026-09-11T11:30:23Z",
+    "hash": "30f7a1c8c11b1e2cf0963881d2aff9da86fb3e129b844ef20254906a2fe171f2",
     "file": "articles/apps-integrations/collaboration-productivity-apps/1500001985341-how-to-use-the-local-folder-app-in-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-7Wta11ZV4VfrFd1j3WwcW1"
+    "openai_file_id": "file-2a8oRf4pMCi5LpoLa8Y7GT"
   },
   "360060284174": {
     "id": 360060284174,
@@ -4974,14 +4974,14 @@
     "title": "How to use Scrolling Website App",
     "slug": "how-to-use-scrolling-website-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
-    "updated_at": "2026-09-10T09:44:30Z",
-    "hash": "b70a04518b3066c88c84e9a32c4ed7340cf8fc1d2dbe75f03a9999c43fc009c5",
+    "updated_at": "2026-09-11T16:16:33Z",
+    "hash": "e793b596ee1c9f61899b2a275e11658bc93a41a1cb47f33f5c0dd6e0b8663e32",
     "file": "articles/apps-integrations/websites-urls/360056356414-how-to-use-scrolling-website-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Websites & URLs",
     "section_slug": "websites-urls",
-    "openai_file_id": "file-46gZDdssFpWu1NuJVvKGfT"
+    "openai_file_id": "file-S5KcUQ5saoqPYb4wp16zW4"
   },
   "360055900513": {
     "id": 360055900513,
