@@ -1306,14 +1306,14 @@
     "title": "How to use Streaming App with OptiSigns",
     "slug": "how-to-use-streaming-app-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
-    "updated_at": "2026-09-10T09:49:25Z",
-    "hash": "533c2d4378d3a8348d1a30bc1f6265b9a5fa5185b9dcb021bbbd064ef0ad7a21",
+    "updated_at": "2026-09-14T16:05:11Z",
+    "hash": "34cc6f675bb5851298f1e8d45855a300e3c445377eb9e1457f5e34821b0e186a",
     "file": "articles/apps-integrations/youtube-other-video-platforms/16364134190355-how-to-use-streaming-app-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-YZ42pMdbpG1ZHLVRY8pmDM"
+    "openai_file_id": "file-TLvScvBFBRyXgrmRdsrxjr"
   },
   "15861880059283": {
     "id": 15861880059283,
@@ -1373,31 +1373,31 @@
   },
   "13320135306515": {
     "id": 13320135306515,
-    "title": "Build Integration Using OptiSigns Enterprise App",
-    "slug": "build-integration-using-optisigns-enterprise-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App",
-    "updated_at": "2026-09-10T09:49:12Z",
-    "hash": "e8757903fed2287d55b3d9a7ca0f63b4b3de81da4b817b0d81227be081320dda",
-    "file": "articles/advanced-features/enterprise-app-api-integrations/13320135306515-build-integration-using-optisigns-enterprise-app.md",
+    "title": "Build Integrations Using the OptiSigns Enterprise App",
+    "slug": "build-integrations-using-the-optisigns-enterprise-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+    "updated_at": "2026-09-14T15:53:06Z",
+    "hash": "f58044082c50fc1a52e1550084045427fcd2c5348518076858fe626593fcac2c",
+    "file": "articles/advanced-features/enterprise-app-api-integrations/13320135306515-build-integrations-using-the-optisigns-enterprise-app.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-JtDVgabvCS2QkTmBGqz1tp"
+    "openai_file_id": "file-A2Rs9GUhy1uv9TkfekBamA"
   },
   "13097501958291": {
     "id": 13097501958291,
     "title": "OptiSigns IoT Sensor Add-on - Quick Start",
     "slug": "optisigns-iot-sensor-add-on-quick-start",
     "url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-    "updated_at": "2025-09-02T18:16:29Z",
-    "hash": "0cda66de11c523d69aa64f0a58c6a7db49846dc004d736a2c4cc599d950bf335",
+    "updated_at": "2026-09-14T18:49:07Z",
+    "hash": "a45876301f1e9ec39f847281f061c49a582a8f67be7ba688d93c073684608259",
     "file": "articles/engage-kiosk/sensors-iot/13097501958291-optisigns-iot-sensor-add-on-quick-start.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Sensors & IoT",
     "section_slug": "sensors-iot",
-    "openai_file_id": "file-KPEwYDNN3vgANkAHCvzWEZ"
+    "openai_file_id": "file-TBPuqmXzn1cNqqpvZgSfto"
   },
   "12947300131731": {
     "id": 12947300131731,
@@ -1457,17 +1457,17 @@
   },
   "9061950942995": {
     "id": 9061950942995,
-    "title": "Using RS-232 to Schedule TV Power On/Off or other commands",
-    "slug": "using-rs-232-to-schedule-tv-power-on-off-or-other-commands",
-    "url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands",
-    "updated_at": "2026-09-10T09:48:39Z",
-    "hash": "953c266e13c12f16de629af0b61136020eec0c9bed5188eca55191c8d071aadc",
-    "file": "articles/advanced-features/device-management/9061950942995-using-rs-232-to-schedule-tv-power-on-off-or-other-commands.md",
+    "title": "Using RS232 to Schedule TV Power On/Off or other commands",
+    "slug": "using-rs232-to-schedule-tv-power-on-off-or-other-commands",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
+    "updated_at": "2026-09-14T20:13:11Z",
+    "hash": "aee499160afdaf1964164930b319fb8034d7ab22c2328edb8fa1bd5a0c63a2f6",
+    "file": "articles/advanced-features/device-management/9061950942995-using-rs232-to-schedule-tv-power-on-off-or-other-commands.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Device Management",
     "section_slug": "device-management",
-    "openai_file_id": "file-H4GCawH3yLnJZYENyT74Kg"
+    "openai_file_id": "file-GLiudNsad26CYo7Jup89Tn"
   },
   "8099928867475": {
     "id": 8099928867475,
@@ -2045,17 +2045,17 @@
   },
   "360059386254": {
     "id": 360059386254,
-    "title": "How to use YouTube Playlist with OptiSigns",
-    "slug": "how-to-use-youtube-playlist-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns",
-    "updated_at": "2026-09-10T09:44:51Z",
-    "hash": "84a9e6804283646213b1b560f8263c0dc206d55d3a10861499ae7b045a8f7875",
-    "file": "articles/how-to-faqs/youtube-social-media-integrations/360059386254-how-to-use-youtube-playlist-with-optisigns.md",
+    "title": "How to Use the YouTube Playlist App with OptiSigns",
+    "slug": "how-to-use-the-youtube-playlist-app-with-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
+    "updated_at": "2026-09-14T18:47:59Z",
+    "hash": "dc640b59a6d5fe9ab9455f0f3d031ae0e8f5eb86faa29bc8541cb0a85b8fdceb",
+    "file": "articles/how-to-faqs/youtube-social-media-integrations/360059386254-how-to-use-the-youtube-playlist-app-with-optisigns.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Youtube & Social Media Integrations",
     "section_slug": "youtube-social-media-integrations",
-    "openai_file_id": "file-4cmQrrYyauusuyjkNQKrJW"
+    "openai_file_id": "file-DjEnxRQHB7sA9vZybXoV5n"
   },
   "1500000493782": {
     "id": 1500000493782,
@@ -2930,14 +2930,14 @@
     "title": "How to Manage and Edit Your Playlist Settings",
     "slug": "how-to-manage-and-edit-your-playlist-settings",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-06-04T22:14:32Z",
-    "hash": "f7cedd5f4fe9a7d0f8acad17ad7bd23a0a5cabe2891481afd86d509cc9d45513",
+    "updated_at": "2026-09-14T16:01:05Z",
+    "hash": "f715798f4d9e60fd98372789e07ee9a2b0378da5eab31b37a6dea5e59a3bbd3d",
     "file": "articles/create-manage-contents/playlist/28295074995859-how-to-manage-and-edit-your-playlist-settings.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Playlist",
     "section_slug": "playlist",
-    "openai_file_id": "file-1QcBRpThPmNxkQD8zvBrD5"
+    "openai_file_id": "file-HeLv7eNWFve2Tibw3j9nmQ"
   },
   "28026588373139": {
     "id": 28026588373139,
@@ -3252,14 +3252,14 @@
     "title": "Show YouTube video's subtitle/closed caption",
     "slug": "show-youtube-video-s-subtitle-closed-caption",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
-    "updated_at": "2026-09-10T09:43:30Z",
-    "hash": "ccb168410e20d62bb0040021cafd2edc8851100cbd033e4db45fbed821590a99",
+    "updated_at": "2026-09-14T11:06:00Z",
+    "hash": "713a0c5998b1756ff2a1ebccf64ab2639c6a62ab4872ddd1eb539cd78a92a239",
     "file": "articles/how-to-faqs/youtube-social-media-integrations/360051014773-show-youtube-video-s-subtitle-closed-caption.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Youtube & Social Media Integrations",
     "section_slug": "youtube-social-media-integrations",
-    "openai_file_id": "file-E9AJvVFmR3KpKW5Qw9h6B2"
+    "openai_file_id": "file-EaYfY6hJNJ1RJMLiVdcmnw"
   },
   "360034379573": {
     "id": 360034379573,
@@ -3476,7 +3476,7 @@
     "title": "What hardware and devices are supported?",
     "slug": "what-hardware-and-devices-are-supported",
     "url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-    "updated_at": "2026-09-10T09:40:28Z",
+    "updated_at": "2026-09-14T15:11:31Z",
     "hash": "d14e96ec15aad68e042476755b894d43bdf70418f25099020f592ce34ae2e45d",
     "file": "articles/how-to-faqs/faq/360021855653-what-hardware-and-devices-are-supported.md",
     "category": "How-to / FAQs",
@@ -4652,14 +4652,14 @@
     "title": "How to Use the Emergency Feed App",
     "slug": "how-to-use-the-emergency-feed-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
-    "updated_at": "2026-09-10T09:47:27Z",
-    "hash": "dd8ef52454c9e23e2eeb1b38bff1eb76eb18f814b6fad39d02dbe49fc36f6b22",
+    "updated_at": "2026-09-14T21:00:39Z",
+    "hash": "e31522e8605a9ea3fe8b96e69b6e1578951b4a3c3eac62e2edc5ff4f9c11aeb8",
     "file": "articles/apps-integrations/emergency-alert-apps/4409673381011-how-to-use-the-emergency-feed-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Emergency Alert Apps",
     "section_slug": "emergency-alert-apps",
-    "openai_file_id": "file-1au5m6QnHLE26ZB556ikCq"
+    "openai_file_id": "file-85wmHZjZgFeifexWDozSC9"
   },
   "4409607912211": {
     "id": 4409607912211,
@@ -4789,17 +4789,17 @@
   },
   "1500009492202": {
     "id": 1500009492202,
-    "title": "How to use On This Day app",
-    "slug": "how-to-use-on-this-day-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app",
-    "updated_at": "2026-09-10T09:46:01Z",
-    "hash": "70a8e6cc608d9a7148408fc413e6484449d12d11a02907d4c0059b9c0142019d",
-    "file": "articles/apps-integrations/others/1500009492202-how-to-use-on-this-day-app.md",
+    "title": "How to Use the On This Day App",
+    "slug": "how-to-use-the-on-this-day-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
+    "updated_at": "2026-09-14T20:35:04Z",
+    "hash": "5ceade2cb3382c364107193425221d4d295bd8c29537c0013bc557392553f3f7",
+    "file": "articles/apps-integrations/others/1500009492202-how-to-use-the-on-this-day-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-KEpKHgXg87br634f36PwjR"
+    "openai_file_id": "file-NoRhVy9zksmSqss1k8TUHN"
   },
   "1500009343862": {
     "id": 1500009343862,
