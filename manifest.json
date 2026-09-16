@@ -1,4 +1,46 @@
 {
+  "55450681344915": {
+    "id": 55450681344915,
+    "title": "Connect SharePoint News to OptiSigns Digital Signage",
+    "slug": "connect-sharepoint-news-to-optisigns-digital-signage",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-09-15T23:09:01Z",
+    "hash": "4e81ef9446fdfa32b8c32e03f010c6ca49d2bd594722dc85a3454956887680ec",
+    "file": "articles/apps-integrations/microsoft-apps/55450681344915-connect-sharepoint-news-to-optisigns-digital-signage.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Microsoft Apps",
+    "section_slug": "microsoft-apps",
+    "openai_file_id": "file-7wdcJAbRAKYW1MGswySfMB"
+  },
+  "55416186918163": {
+    "id": 55416186918163,
+    "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+    "slug": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "updated_at": "2026-09-15T17:33:06Z",
+    "hash": "7db4307b5a77547eebda382f19d3becba7abfbdc20726ad892ec5580f6abae3f",
+    "file": "articles/apps-integrations/microsoft-apps/55416186918163-how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Microsoft Apps",
+    "section_slug": "microsoft-apps",
+    "openai_file_id": "file-LjD5uV3VVnpxHo6Q3jy1T7"
+  },
+  "55416185869331": {
+    "id": 55416185869331,
+    "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+    "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "updated_at": "2026-09-15T15:34:23Z",
+    "hash": "c67066960215e652be1a4807ee684118e9d429331a2aa246fc600a05c04b797c",
+    "file": "articles/advanced-features/reporting-analytics/55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+    "category": "Advanced Features",
+    "category_slug": "advanced-features",
+    "section": "Reporting & Analytics",
+    "section_slug": "reporting-analytics",
+    "openai_file_id": "file-EWdUZPhb5TTFmuVi1K9jiP"
+  },
   "54095075680275": {
     "id": 54095075680275,
     "title": "OptiDev Add-on - Free Trial and Pricing",
@@ -4960,14 +5002,14 @@
     "title": "How to use Google Sheets with OptiSigns",
     "slug": "how-to-use-google-sheets-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-    "updated_at": "2025-12-12T21:10:43Z",
-    "hash": "beb150b09382ad601f27c08d96f7acdfe7dcb33705786c7e450c2d3623eed9a4",
+    "updated_at": "2026-09-15T14:05:54Z",
+    "hash": "0d3de16cc0e008cd34701bdecb64f2e307bc8a585834467fdcc86e9f5102e2a5",
     "file": "articles/apps-integrations/google-apps/360056977214-how-to-use-google-sheets-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Google Apps",
     "section_slug": "google-apps",
-    "openai_file_id": "file-BSefdWzeL8swQ15YNSBgKv"
+    "openai_file_id": "file-Aj13gvNhocRoYVhcGQjnvR"
   },
   "360056356414": {
     "id": 360056356414,
@@ -5100,7 +5142,7 @@
     "title": "How to Use YouTube with OptiSigns",
     "slug": "how-to-use-youtube-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-09-10T09:43:28Z",
+    "updated_at": "2026-09-15T09:51:14Z",
     "hash": "dac68765ed7d1d456f2760be11840417fe897b7a5192b58575d4b3871e4f8fd5",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360051014713-how-to-use-youtube-with-optisigns.md",
     "category": "Apps & Integrations",
@@ -5170,14 +5212,14 @@
     "title": "How to use Google Trends App",
     "slug": "how-to-use-google-trends-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
-    "updated_at": "2026-09-10T09:43:12Z",
-    "hash": "b4afc5a1d808f135537e073efbebf2dc22974dadd15f248e61a42dd965346c0f",
+    "updated_at": "2026-09-16T03:55:59Z",
+    "hash": "7aed84e92a34b135821416ef0ebc6e5003599493d2ed6befa22b6f999c10f239",
     "file": "articles/apps-integrations/google-apps/360050664913-how-to-use-google-trends-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Google Apps",
     "section_slug": "google-apps",
-    "openai_file_id": "file-7r53iCwuaFQ7KnmxZqSsPC"
+    "openai_file_id": "file-Mtpy3dbjAD5JnGvTX6EAyB"
   },
   "360049159814": {
     "id": 360049159814,
@@ -5296,14 +5338,14 @@
     "title": "How to use Google Traffic App",
     "slug": "how-to-use-google-traffic-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
-    "updated_at": "2026-09-10T09:42:33Z",
-    "hash": "eca307f4df9d682482c145af323a9c77b7628dfe7fac97bfceb07cc0ec5da2f1",
+    "updated_at": "2026-09-15T11:32:26Z",
+    "hash": "efc7d5d758ac5ee23e9884bb98a04a274b1193906386ee56b65554996f982a6a",
     "file": "articles/apps-integrations/google-apps/360047499893-how-to-use-google-traffic-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Google Apps",
     "section_slug": "google-apps",
-    "openai_file_id": "file-V1A81dpMpuCL9eHjdfysef"
+    "openai_file_id": "file-TWGL7Ayko1frbpvdz278FB"
   },
   "360046859534": {
     "id": 360046859534,
