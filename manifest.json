@@ -1474,14 +1474,14 @@
     "title": "How to put Live TV on your screens with OptiSigns",
     "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-    "updated_at": "2026-09-10T09:48:47Z",
-    "hash": "a00de0da644ef7f65be2f7914d649e283dc9f0961f296b378cd7e0e9efa57ac7",
+    "updated_at": "2026-09-17T05:00:57Z",
+    "hash": "2e0bea07ab03704ca2b013f21e88addab07041d3629a7918ee4ef339034fc29a",
     "file": "articles/engage-kiosk/live-tv-with-ads/10159088954387-how-to-put-live-tv-on-your-screens-with-optisigns.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Live TV with Ads",
     "section_slug": "live-tv-with-ads",
-    "openai_file_id": "file-LBLHdrfu945zwLnjUG3JaH"
+    "openai_file_id": "file-88uMcEaXQAyY2n1n4R8v9t"
   },
   "9169378546195": {
     "id": 9169378546195,
@@ -2468,14 +2468,14 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-10T09:42:30Z",
-    "hash": "4869f7a316e05e6d33a239312da3f22038ee0e8a9e9f576e1deed7d400d7237b",
+    "updated_at": "2026-09-17T05:36:01Z",
+    "hash": "279c548eb4c56a429b9cf532b79ea18afd4eb49ad5b5c18137b74d05b12d054e",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-Kf1HTHBuExnNaZKM3FZGio"
+    "openai_file_id": "file-6PJHKczGzHYEnxkg3deXvz"
   },
   "360047232054": {
     "id": 360047232054,
@@ -3322,14 +3322,14 @@
     "title": "Changing screen's orientation (portrait & landscape)",
     "slug": "changing-screen-s-orientation-portrait-landscape",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-    "updated_at": "2025-09-04T15:18:11Z",
-    "hash": "bea6f681179444d156db68cda7208a7595f89372db0e638bedc9cf150e1c0b7e",
+    "updated_at": "2026-09-17T04:18:56Z",
+    "hash": "194394eaa62c8ab53e8bde2561db300bb12f238f4ad80c22b9c1e4f9a96b1a0a",
     "file": "articles/essential-use-cases/essential-use-cases/360016833514-changing-screen-s-orientation-portrait-landscape.md",
     "category": "Essential Use Cases",
     "category_slug": "essential-use-cases",
     "section": "Essential Use Cases",
     "section_slug": "essential-use-cases",
-    "openai_file_id": "file-DnB47vNRdFvtLUffBQ3zqY"
+    "openai_file_id": "file-2vjkBfC2WPh5ExghKRbg9r"
   },
   "360016485633": {
     "id": 360016485633,
