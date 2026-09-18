@@ -2468,14 +2468,14 @@
     "title": "Whitelist OptiSigns IP addresses & ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
     "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-17T05:36:01Z",
-    "hash": "279c548eb4c56a429b9cf532b79ea18afd4eb49ad5b5c18137b74d05b12d054e",
+    "updated_at": "2026-09-17T15:37:11Z",
+    "hash": "8573dda90a6c9211f20da176c3254c39473df1114cee4631c7fa03fa4c781895",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-6PJHKczGzHYEnxkg3deXvz"
+    "openai_file_id": "file-KRwN3MsqcJgmkY6j3wooEE"
   },
   "360047232054": {
     "id": 360047232054,
@@ -3560,14 +3560,14 @@
     "title": "Assign content to your screens",
     "slug": "assign-content-to-your-screens",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-    "updated_at": "2026-09-10T09:39:44Z",
-    "hash": "c481c2d1e490ae37654b976f144cdd1e3ef2d9d61148dd5557eaf7f136e66aea",
+    "updated_at": "2026-09-17T10:07:46Z",
+    "hash": "fdd560ee25db6726f35a5283da281a4bec81b0b070a7af92bb50f9c6f1b6a1ad",
     "file": "articles/how-to-faqs/how-to-use-apps/360016375153-assign-content-to-your-screens.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "How To Use Apps",
     "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-8YDNWmz3CHfF5RdcRh7JLi"
+    "openai_file_id": "file-AAi2UtFnDSyquZ9Q7GktoP"
   },
   "44669013147923": {
     "id": 44669013147923,
