@@ -1,4 +1,18 @@
 {
+  "55640830295187": {
+    "id": 55640830295187,
+    "title": "Using the Japan Transit App",
+    "slug": "using-the-japan-transit-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+    "updated_at": "2026-09-21T20:41:52Z",
+    "hash": "a02dc7d97f9f0e6deee27754f990f975bdbe76e73ade0a1ac13016cf0a87aad3",
+    "file": "articles/apps-integrations/news-rss/55640830295187-using-the-japan-transit-app.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "News & RSS",
+    "section_slug": "news-rss",
+    "openai_file_id": "file-QUH8zBag447P73GYCoTumX"
+  },
   "55450681344915": {
     "id": 55450681344915,
     "title": "Connect SharePoint News to OptiSigns Digital Signage",
@@ -648,14 +662,14 @@
     "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
     "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
-    "updated_at": "2025-08-29T17:04:07Z",
-    "hash": "75bfda8f681fdbd5396710c71a23dd71d91e9e061720ffac3e7c6dea1e524e35",
+    "updated_at": "2026-09-21T19:42:14Z",
+    "hash": "28aaa9896ba810c0c1d9bd98c9b65e355d55cd241a2797183d80508e39610ba0",
     "file": "articles/how-to-faqs/hw-player-setup/31695220475283-configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "HW & Player Setup",
     "section_slug": "hw-player-setup",
-    "openai_file_id": "file-BNMAso87iNVxmvUhLYA5SB"
+    "openai_file_id": "file-VL1Ciw7C8rTpyJKrszQJkk"
   },
   "31449657955347": {
     "id": 31449657955347,
@@ -1863,17 +1877,17 @@
   },
   "4403332894867": {
     "id": 4403332894867,
-    "title": "How to set up Audit Log for your account",
-    "slug": "how-to-set-up-audit-log-for-your-account",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
-    "updated_at": "2026-09-10T09:46:28Z",
-    "hash": "31b3950ecfabf750c2da98b6b5be114dd6f97a8f9336cd6e73f9989ac5617138",
-    "file": "articles/accounts-security/security-teams/4403332894867-how-to-set-up-audit-log-for-your-account.md",
+    "title": "Setting Up Audit Logging",
+    "slug": "setting-up-audit-logging",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+    "updated_at": "2026-09-21T20:44:11Z",
+    "hash": "7b5d1eb008a3cb11bdf33c788066e7973f6c81a67edf95490c7c7a6b61c4e0a9",
+    "file": "articles/accounts-security/security-teams/4403332894867-setting-up-audit-logging.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Security & Teams",
     "section_slug": "security-teams",
-    "openai_file_id": "file-NCZndqUSYmatb5jLe5ogUq"
+    "openai_file_id": "file-6AmdFA6KzxcFAe7BY41Yp1"
   },
   "4403306341523": {
     "id": 4403306341523,
@@ -3655,17 +3669,17 @@
   },
   "4411762539027": {
     "id": 4411762539027,
-    "title": "Multilingual and multi-currency",
-    "slug": "multilingual-and-multi-currency",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency",
-    "updated_at": "2025-09-04T15:30:19Z",
-    "hash": "17718194417b19e84b3a233610fbf82eed4960631ec10c1a0c7cb6b5f2f15178",
-    "file": "articles/accounts-security/billing-account-management/4411762539027-multilingual-and-multi-currency.md",
+    "title": "Multilingual and Multi-Currency Options",
+    "slug": "multilingual-and-multi-currency-options",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+    "updated_at": "2026-09-21T17:51:53Z",
+    "hash": "13d18bc18843ef37a6894ed082fa5e71a949e9610566b01d7682504f45739eec",
+    "file": "articles/accounts-security/billing-account-management/4411762539027-multilingual-and-multi-currency-options.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-Wdn6et4wGhdnwuFhg7dfzo"
+    "openai_file_id": "file-Jnfomd4hMzbdBfxhCzRnww"
   },
   "1500008112642": {
     "id": 1500008112642,
@@ -3924,14 +3938,14 @@
     "title": "OptiSigns Pro Player Advanced Features",
     "slug": "optisigns-pro-player-advanced-features",
     "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-    "updated_at": "2026-03-30T17:22:38Z",
-    "hash": "b817cb05b823e2be18733f3a9bf49d4dd6b9659499ca3f08f95a9e50309198cd",
+    "updated_at": "2026-09-21T15:11:34Z",
+    "hash": "de65479aaf52d240be3bce1e41ef5dc801151a7a2d679bfb9579904a01765226",
     "file": "articles/setup-screens/use-optisigns-players/35577511423635-optisigns-pro-player-advanced-features.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-VQSXiVyH4hKa1CJgmch8mq"
+    "openai_file_id": "file-UC3X7QSyDuCtuHDkx1nN6u"
   },
   "18500083191059": {
     "id": 18500083191059,
