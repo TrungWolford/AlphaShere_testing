@@ -1,4 +1,18 @@
 {
+  "55669121864979": {
+    "id": 55669121864979,
+    "title": "Using the Flight Schedule App",
+    "slug": "using-the-flight-schedule-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
+    "updated_at": "2026-09-22T18:59:24Z",
+    "hash": "df95ecd58cded135ba80bf235711394f84f9f3256280695d2c64f11e6132f68e",
+    "file": "articles/apps-integrations/news-rss/55669121864979-using-the-flight-schedule-app.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "News & RSS",
+    "section_slug": "news-rss",
+    "openai_file_id": "file-JqPGZNC6wV6bT3VUxTqTTa"
+  },
   "55640830295187": {
     "id": 55640830295187,
     "title": "Using the Japan Transit App",
@@ -26,6 +40,20 @@
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
     "openai_file_id": "file-7wdcJAbRAKYW1MGswySfMB"
+  },
+  "55447693635731": {
+    "id": 55447693635731,
+    "title": "How to Display Grafana Dashboards on OptiSigns",
+    "slug": "how-to-display-grafana-dashboards-on-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+    "updated_at": "2026-09-22T14:14:49Z",
+    "hash": "cf2eae2bbb358d02a29909a528789f53c2be2e7ec45508634e3003664665b1e4",
+    "file": "articles/apps-integrations/others/55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Others",
+    "section_slug": "others",
+    "openai_file_id": "file-HdMrdAwSKBsCmTcYwAzAPg"
   },
   "55416186918163": {
     "id": 55416186918163,
@@ -4946,14 +4974,14 @@
     "title": "How to Use the Local Folder App in OptiSigns",
     "slug": "how-to-use-the-local-folder-app-in-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-    "updated_at": "2026-09-11T11:30:23Z",
-    "hash": "30f7a1c8c11b1e2cf0963881d2aff9da86fb3e129b844ef20254906a2fe171f2",
+    "updated_at": "2026-09-22T15:01:01Z",
+    "hash": "a0fd3d002d125404ca78226ca0ac0ddb13ed954a44c295183023336b2ee3b430",
     "file": "articles/apps-integrations/collaboration-productivity-apps/1500001985341-how-to-use-the-local-folder-app-in-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-2a8oRf4pMCi5LpoLa8Y7GT"
+    "openai_file_id": "file-2SXskAiEW4yWL5sTK7MjMw"
   },
   "360060284174": {
     "id": 360060284174,
@@ -5324,14 +5352,14 @@
     "title": "How to use Facebook Live Stream App",
     "slug": "how-to-use-facebook-live-stream-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
-    "updated_at": "2026-09-10T09:42:38Z",
-    "hash": "0708427ffb9abb7f1479db6c31ba0b977443d43bb655578017f0427ff134fa8e",
+    "updated_at": "2026-09-22T09:12:00Z",
+    "hash": "5786d2ad01557f03e6b3b6c200671bfddd1841a593277efb3285d3ba5e14725d",
     "file": "articles/apps-integrations/social-media/360048660813-how-to-use-facebook-live-stream-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-CwkwY8S5qGMDAwzMt478rq"
+    "openai_file_id": "file-WkxUwmtAouk7P5iQ9AhtWk"
   },
   "360047501233": {
     "id": 360047501233,
