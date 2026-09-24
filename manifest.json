@@ -1,4 +1,18 @@
 {
+  "55709616003219": {
+    "id": 55709616003219,
+    "title": "Using the X Social App / Add-On",
+    "slug": "using-the-x-social-app-add-on",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+    "updated_at": "2026-09-23T19:58:50Z",
+    "hash": "d69fbbd1483330fe1d10ababfb293cbcee3ace21c0dbd286ce36702a07aa3c42",
+    "file": "articles/apps-integrations/social-media/55709616003219-using-the-x-social-app-add-on.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Social Media",
+    "section_slug": "social-media",
+    "openai_file_id": "file-ReqYq5RMn3jBydgMvXxF5q"
+  },
   "55669121864979": {
     "id": 55669121864979,
     "title": "Using the Flight Schedule App",
@@ -74,14 +88,14 @@
     "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
     "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
     "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-    "updated_at": "2026-09-15T15:34:23Z",
-    "hash": "c67066960215e652be1a4807ee684118e9d429331a2aa246fc600a05c04b797c",
+    "updated_at": "2026-09-23T16:24:51Z",
+    "hash": "2c49529d6e3f410a87491b5bf876cc0897990a8fb6cf437336ecc8e879a04098",
     "file": "articles/advanced-features/reporting-analytics/55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Reporting & Analytics",
     "section_slug": "reporting-analytics",
-    "openai_file_id": "file-EWdUZPhb5TTFmuVi1K9jiP"
+    "openai_file_id": "file-3CZSoXCjakYcTN2JWrPhHP"
   },
   "54095075680275": {
     "id": 54095075680275,
@@ -2762,7 +2776,7 @@
     "title": "Working with Teams and Security Levels",
     "slug": "working-with-teams-and-security-levels",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-    "updated_at": "2026-09-18T10:36:31Z",
+    "updated_at": "2026-09-23T12:25:53Z",
     "hash": "6e4e9b2e73a4399ed2ef533397ea6d9c0e82f653d9c82edffe82214be69d6ab9",
     "file": "articles/accounts-security/security-teams/360034883113-working-with-teams-and-security-levels.md",
     "category": "Accounts & Security",
@@ -4176,14 +4190,14 @@
     "title": "Where to Buy OptiSigns Devices",
     "slug": "where-to-buy-optisigns-devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-    "updated_at": "2026-09-10T09:51:39Z",
-    "hash": "f8a687a0a4dffe94e786e895786d1dde16460dceb316cc86a7f8847f666f584a",
+    "updated_at": "2026-09-23T19:17:01Z",
+    "hash": "d85d22317b6d7a3b7957f426c1e114877d21d4c3c6250105c04e8bb04ccf02e8",
     "file": "articles/setup-screens/use-optisigns-players/32129032857875-where-to-buy-optisigns-devices.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-5afJr2KSYyWWc8UPxbDfK7"
+    "openai_file_id": "file-RzV6AuWRwBPLQhwpfrHNyh"
   },
   "11784310183571": {
     "id": 11784310183571,
