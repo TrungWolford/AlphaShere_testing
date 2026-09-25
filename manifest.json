@@ -1,4 +1,18 @@
 {
+  "55719322614803": {
+    "id": 55719322614803,
+    "title": "Inbound Webhook DataSources in Designer",
+    "slug": "inbound-webhook-datasources-in-designer",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
+    "updated_at": "2026-09-24T17:00:10Z",
+    "hash": "196dc6a663918497b5fd7f24616a1e87f6cab4114e57494fa46cbb15f85be352",
+    "file": "articles/designer/datasources-and-repeaters/55719322614803-inbound-webhook-datasources-in-designer.md",
+    "category": "Designer",
+    "category_slug": "designer",
+    "section": "DataSources and Repeaters",
+    "section_slug": "datasources-and-repeaters",
+    "openai_file_id": "file-1dKkyV2dX1yBnbXjUz3PAj"
+  },
   "55709616003219": {
     "id": 55709616003219,
     "title": "Using the X Social App / Add-On",
@@ -1264,14 +1278,14 @@
     "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-    "updated_at": "2026-08-21T18:40:48Z",
-    "hash": "abaf3d51c0fe727a89e9987246be2ed7dd912ad7487f965ccdc8f7cd4137a53c",
+    "updated_at": "2026-09-24T08:59:57Z",
+    "hash": "7973ecbe1bcf9c008bc924ab87b18067ac6c37870c8ac4d8412b1d98c7d81a5c",
     "file": "articles/apps-integrations/collaboration-productivity-apps/19171222981523-how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-S4Fry3p8GhjyPGNb2ZiVTz"
+    "openai_file_id": "file-BaeFLhU78rwAfYASZ49FVK"
   },
   "18988049363859": {
     "id": 18988049363859,
@@ -4792,7 +4806,7 @@
     "title": "How to Use the Calendar Mix app",
     "slug": "how-to-use-the-calendar-mix-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
-    "updated_at": "2026-09-09T15:32:17Z",
+    "updated_at": "2026-09-25T07:45:20Z",
     "hash": "c1f98a338a4ae6cf7081b1be68243e7c097f386adf69edabeb86f02e322c4524",
     "file": "articles/apps-integrations/calendar/4408052949139-how-to-use-the-calendar-mix-app.md",
     "category": "Apps & Integrations",
@@ -5198,14 +5212,14 @@
     "title": "How to Use YouTube with OptiSigns",
     "slug": "how-to-use-youtube-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-09-15T09:51:14Z",
-    "hash": "dac68765ed7d1d456f2760be11840417fe897b7a5192b58575d4b3871e4f8fd5",
+    "updated_at": "2026-09-24T14:52:18Z",
+    "hash": "73622c6279501010981b25bf264699647b2e90797102e27c9095ef4fcc830189",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360051014713-how-to-use-youtube-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-4N73rF7ZGreL7mTsiXBLRX"
+    "openai_file_id": "file-QJpaKEDG2Z5nMYdaAknC3w"
   },
   "360049875794": {
     "id": 360049875794,
