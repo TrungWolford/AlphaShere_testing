@@ -1,4 +1,32 @@
 {
+  "55906396437523": {
+    "id": 55906396437523,
+    "title": "How to Use the Weather Radar App",
+    "slug": "how-to-use-the-weather-radar-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+    "updated_at": "2026-09-29T19:04:57Z",
+    "hash": "be0140c3a58d7147e3de5cfc23fa05a3cbf4116033120c844762101418ddaec2",
+    "file": "articles/apps-integrations/weather/55906396437523-how-to-use-the-weather-radar-app.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Weather",
+    "section_slug": "weather",
+    "openai_file_id": "file-XTMX6dpoKrgjRtLnGkU84n"
+  },
+  "55895814798739": {
+    "id": 55895814798739,
+    "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+    "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+    "updated_at": "2026-09-29T19:44:32Z",
+    "hash": "bc194ed8141d93ff1c5fdc57df81c16c7f0219336b74c14711c8a496293f5df3",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Collaboration & Productivity Apps",
+    "section_slug": "collaboration-productivity-apps",
+    "openai_file_id": "file-3J9VsnRYTZqeLCrDnHjBsP"
+  },
   "55719322614803": {
     "id": 55719322614803,
     "title": "Inbound Webhook DataSources in Designer",
@@ -2944,14 +2972,14 @@
     "title": "Does OptiSigns offer Non-profit/Education discount?",
     "slug": "does-optisigns-offer-non-profit-education-discount",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-    "updated_at": "2026-09-10T09:39:31Z",
-    "hash": "b2055778e37217572d180f1782b501b93cab9021bf541e5f2fac72802d52303b",
+    "updated_at": "2026-09-29T17:04:04Z",
+    "hash": "61a1fca34fdc1f1695607d0ea01ccf06000fccd6c8d5500801ffd291e9b3d1eb",
     "file": "articles/how-to-faqs/others/360016252654-does-optisigns-offer-non-profit-education-discount.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-2FHsRUWfJBzTdMUrLZ2tEd"
+    "openai_file_id": "file-Vns2w27cHLFMrjLpEXPVvZ"
   },
   "360016247974": {
     "id": 360016247974,
@@ -3616,14 +3644,14 @@
     "title": "How to Use Weather Apps in OptiSigns",
     "slug": "how-to-use-weather-apps-in-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-    "updated_at": "2026-09-10T09:40:16Z",
-    "hash": "d6aa195d63e7deb17ea5c946d69d87202568d8a77cc73a47df71bdb1f54baca0",
+    "updated_at": "2026-09-29T19:54:35Z",
+    "hash": "78d01586dfdae088ace1fd1b9cd98e6d17b440a53d2dda175b6c8fce9bf3b55b",
     "file": "articles/apps-integrations/weather/360017964153-how-to-use-weather-apps-in-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Weather",
     "section_slug": "weather",
-    "openai_file_id": "file-3uR6hARf8X9oDSqpY9F1JT"
+    "openai_file_id": "file-9tvHQXnCzLs1p2QEWiH4oX"
   },
   "360016375153": {
     "id": 360016375153,
@@ -4064,14 +4092,14 @@
     "title": "Kiosk Setup Hub",
     "slug": "kiosk-setup-hub",
     "url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-    "updated_at": "2026-03-30T17:22:38Z",
-    "hash": "afb708161be2b3d121f05bfd401459b4487c893e1908ee3f088ec1d25c43ac51",
+    "updated_at": "2026-09-29T12:54:41Z",
+    "hash": "cd976d7d316bf4d71f91ea8f3701cc790ce3e55eddc1c08e126f406efb7a1bfd",
     "file": "articles/setup-screens/use-optisigns-players/44650391786131-kiosk-setup-hub.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-RwMwuvTVFSgX2ZFdcrNYJa"
+    "openai_file_id": "file-D5V96vwZke1w85pq1SJ99c"
   },
   "42313875427859": {
     "id": 42313875427859,
