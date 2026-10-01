@@ -592,14 +592,14 @@
     "title": "How to Use OptiSigns with Microsoft Teams Rooms",
     "slug": "how-to-use-optisigns-with-microsoft-teams-rooms",
     "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-    "updated_at": "2026-09-10T10:46:24Z",
-    "hash": "1ae20b8d2f6300b8f84b31554574130015d5786f008c8a9388f7ac05e755114b",
+    "updated_at": "2026-09-30T21:54:02Z",
+    "hash": "32c25ed53df39137a2400e07685320659c7204d1134f5e100632fd30c3cedba3",
     "file": "articles/apps-integrations/microsoft-apps/36911639377683-how-to-use-optisigns-with-microsoft-teams-rooms.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-D1ZFj375xF2RA4kqMgep2o"
+    "openai_file_id": "file-Uk4eovn17tVvUY1v9sak6C"
   },
   "36501302096915": {
     "id": 36501302096915,
@@ -4705,17 +4705,17 @@
   },
   "4529298306963": {
     "id": 4529298306963,
-    "title": "How to use Microsoft Excel Online with OptiSigns",
+    "title": "How to Use Microsoft Excel Online with OptiSigns",
     "slug": "how-to-use-microsoft-excel-online-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns",
-    "updated_at": "2025-08-29T19:58:56Z",
-    "hash": "39c731d08dda778e56a8d4ff35269349abec031dc16f60b9bd64f0d41db4bf44",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+    "updated_at": "2026-09-30T20:03:12Z",
+    "hash": "e1ac2770fa243dfccf0627065582f2efcae6cf425f85627e874bf5a61a1e060c",
     "file": "articles/apps-integrations/microsoft-apps/4529298306963-how-to-use-microsoft-excel-online-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-JA5nV1yJsFJdZp8gujgS9j"
+    "openai_file_id": "file-VLBorPjrPsaSjTqBkqF4P4"
   },
   "4417940565139": {
     "id": 4417940565139,
@@ -4750,28 +4750,28 @@
     "title": "How to Use Microsoft PowerPoint with OptiSigns",
     "slug": "how-to-use-microsoft-powerpoint-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-    "updated_at": "2026-02-05T17:57:12Z",
-    "hash": "ea59474d0045d3e2d43d60c6170e64517883844a2e5c7b460e8e734fd11b8632",
+    "updated_at": "2026-09-30T15:53:27Z",
+    "hash": "060968e8e832684bf4f9d9862223056f0d70f072ec255827e04e1760419a11e8",
     "file": "articles/apps-integrations/microsoft-apps/4414355658899-how-to-use-microsoft-powerpoint-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-SwD65RoNVzTU3FiaVT1wF1"
+    "openai_file_id": "file-NCuZFJy2gbJXGtP2wpdJwh"
   },
   "4411530012307": {
     "id": 4411530012307,
-    "title": "How to use Microsoft Teams Live app with OptiSigns",
+    "title": "How to Use Microsoft Teams Live app with OptiSigns",
     "slug": "how-to-use-microsoft-teams-live-app-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns",
-    "updated_at": "2026-09-10T09:47:32Z",
-    "hash": "7cb2e15cd8be30afc11c360e0572ad84911cae60967337ad9a7510a4b0ba6b40",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+    "updated_at": "2026-09-30T18:46:41Z",
+    "hash": "d46b58ac421741499222b3833dfe1e3a9c68bc860152b17856257517957d4a4e",
     "file": "articles/apps-integrations/microsoft-apps/4411530012307-how-to-use-microsoft-teams-live-app-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-6hDG1Hza76FNeV7TjvLL5s"
+    "openai_file_id": "file-KytZag7u7YCojzQS3td2Zx"
   },
   "4410655948563": {
     "id": 4410655948563,
@@ -5293,17 +5293,17 @@
   },
   "360050665253": {
     "id": 360050665253,
-    "title": "How to use the OneDrive App",
+    "title": "How to Use the OneDrive App",
     "slug": "how-to-use-the-onedrive-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App",
-    "updated_at": "2026-09-10T09:43:15Z",
-    "hash": "130b6f415ba358806cb6b9dcae2eb1a6221e3f28ba13c2411d41e558630930ed",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+    "updated_at": "2026-09-30T18:35:21Z",
+    "hash": "3943161439f8f1b907a84f122cf91384f0d1c1dfbb14dea5dc8c9d346d1c6619",
     "file": "articles/apps-integrations/microsoft-apps/360050665253-how-to-use-the-onedrive-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-L8vgAYf9spSWKXgK3n9s9X"
+    "openai_file_id": "file-DofjACTr4QdQBsftH6bqhp"
   },
   "360050664913": {
     "id": 360050664913,
