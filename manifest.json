@@ -1023,17 +1023,17 @@
   },
   "27356288211859": {
     "id": 27356288211859,
-    "title": "How to use iCloud Calendar with OptiSigns",
+    "title": "How to Use iCloud Calendar with OptiSigns",
     "slug": "how-to-use-icloud-calendar-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
-    "updated_at": "2026-03-26T16:45:12Z",
-    "hash": "ad131386c5d2b04e7cb7f84296e13a54e663d8c0b56907d7950c251de5181295",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+    "updated_at": "2026-10-01T19:37:52Z",
+    "hash": "f63b172307c2406955d1a786cf2b19988ab4264e3acd6b5bd4e9f8eb12652f7f",
     "file": "articles/apps-integrations/calendar/27356288211859-how-to-use-icloud-calendar-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Calendar",
     "section_slug": "calendar",
-    "openai_file_id": "file-6yusDP5t2JdgYAwKCghpFJ"
+    "openai_file_id": "file-FVyvijwR8dfd4d6Wb7hhyG"
   },
   "27267311796243": {
     "id": 27267311796243,
@@ -1768,14 +1768,14 @@
     "title": "How to Integrate Bonusly Digital Signage with Optisigns",
     "slug": "how-to-integrate-bonusly-digital-signage-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-    "updated_at": "2026-09-10T09:47:16Z",
-    "hash": "f8ae0637ccd78f306ad7d64ef6d37d60289c993e06cd5e00f492428281d55808",
+    "updated_at": "2026-10-01T20:21:01Z",
+    "hash": "7a72f9df14f7fddb79a27cd40bb8338cb73c5c25fdb8a4867675a3436c6852b7",
     "file": "articles/apps-integrations/collaboration-productivity-apps/4408946045715-how-to-integrate-bonusly-digital-signage-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-1WGW6mHYQZo8mzFW8shiti"
+    "openai_file_id": "file-WVht2CNzP954y9cL1MRz7A"
   },
   "4408658251027": {
     "id": 4408658251027,
@@ -4719,31 +4719,31 @@
   },
   "4417940565139": {
     "id": 4417940565139,
-    "title": "How to display Microsoft Teams on OptiSigns",
-    "slug": "how-to-display-microsoft-teams-on-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
-    "updated_at": "2026-09-10T09:47:53Z",
-    "hash": "4b908c21f700e8cca3ade8bb95621d43451441a37f328ec653b4d7ae9909d9a7",
-    "file": "articles/apps-integrations/microsoft-apps/4417940565139-how-to-display-microsoft-teams-on-optisigns.md",
+    "title": "How to Display Microsoft Teams Chat on OptiSigns",
+    "slug": "how-to-display-microsoft-teams-chat-on-optisigns",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+    "updated_at": "2026-10-01T20:13:18Z",
+    "hash": "ac42d5a380629fbaf97e6c786509fc6beb972a9fb98e22c477fdc007cc37236c",
+    "file": "articles/apps-integrations/microsoft-apps/4417940565139-how-to-display-microsoft-teams-chat-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-Dif179wY34FpTFpzWG9s5U"
+    "openai_file_id": "file-Dz4wT9zFnngb6GhmkVDch7"
   },
   "4414539282067": {
     "id": 4414539282067,
     "title": "Displaying SharePoint Sites on OptiSigns",
     "slug": "displaying-sharepoint-sites-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-09-10T09:47:40Z",
-    "hash": "8634110c464852424911a3a63262e7cf584becfd52fc2c963333d1d40e46164e",
+    "updated_at": "2026-10-01T16:01:20Z",
+    "hash": "cee225af886d5e599d3f0e360b29995056b66d45acf7d09349f1a273da882a0f",
     "file": "articles/apps-integrations/microsoft-apps/4414539282067-displaying-sharepoint-sites-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-TrPpNH23XuGrA1u9KzfCp6"
+    "openai_file_id": "file-Agq2VHmMHViA59BnsE8U49"
   },
   "4414355658899": {
     "id": 4414355658899,
@@ -4845,17 +4845,17 @@
   },
   "4407335862931": {
     "id": 4407335862931,
-    "title": "How to use Slack App",
-    "slug": "how-to-use-slack-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App",
-    "updated_at": "2026-09-10T09:47:03Z",
-    "hash": "a870c483508c38a681ad0a4fdd6202872bb26f952a8574029e0f36e9d84ef1c3",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/4407335862931-how-to-use-slack-app.md",
+    "title": "How to Use the Slack App",
+    "slug": "how-to-use-the-slack-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
+    "updated_at": "2026-10-01T21:46:16Z",
+    "hash": "eabe8575974a9ca44abfd207a77a62b492160172ca3276e51a12d9e4f311ec05",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/4407335862931-how-to-use-the-slack-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-5awRCJAaZtyjSFtAAHZgnY"
+    "openai_file_id": "file-1TV5CnVLGvH5CEfqqhRonJ"
   },
   "4406214738707": {
     "id": 4406214738707,
@@ -4887,17 +4887,17 @@
   },
   "4404053129619": {
     "id": 4404053129619,
-    "title": "How to use Microsoft Teams Meeting app with OptiSigns",
-    "slug": "how-to-use-microsoft-teams-meeting-app-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns",
-    "updated_at": "2026-09-10T09:46:32Z",
-    "hash": "3cb2c16de684a91b4ecce97af45a18ad28c715335ab02ef3093d48c8ae55e9c0",
-    "file": "articles/apps-integrations/microsoft-apps/4404053129619-how-to-use-microsoft-teams-meeting-app-with-optisigns.md",
+    "title": "How to Use the Microsoft Teams Meeting App",
+    "slug": "how-to-use-the-microsoft-teams-meeting-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+    "updated_at": "2026-10-01T19:33:01Z",
+    "hash": "96184f90bea6fbdeed79c743db70043d664cee11793ed2abba8b85a85dd11988",
+    "file": "articles/apps-integrations/microsoft-apps/4404053129619-how-to-use-the-microsoft-teams-meeting-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-12vQ6s4x1YcWkbjY5fLnPh"
+    "openai_file_id": "file-PtmYemF6FdqGX8vrYdqJeN"
   },
   "4403267825171": {
     "id": 4403267825171,
@@ -5279,17 +5279,17 @@
   },
   "360050665413": {
     "id": 360050665413,
-    "title": "How to use Dropbox App",
-    "slug": "how-to-use-dropbox-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App",
-    "updated_at": "2026-09-10T09:43:16Z",
-    "hash": "905e088770bb2601dce78b2c07aa29c9770d596f01321befeedee37cbb90fb69",
-    "file": "articles/apps-integrations/microsoft-apps/360050665413-how-to-use-dropbox-app.md",
+    "title": "How to Use the Dropbox App",
+    "slug": "how-to-use-the-dropbox-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
+    "updated_at": "2026-10-01T21:20:35Z",
+    "hash": "5b85484f1d1db42f63904ad8a9f9bd0381f7021e27e6962dac63b6ae11900628",
+    "file": "articles/apps-integrations/microsoft-apps/360050665413-how-to-use-the-dropbox-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-57jMfp2qTLZ66KQzPWtYcD"
+    "openai_file_id": "file-VNfNwg75iB8gdkGsovcoee"
   },
   "360050665253": {
     "id": 360050665253,
@@ -5562,7 +5562,7 @@
     "title": "How to Use the CountUp App",
     "slug": "how-to-use-the-countup-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-    "updated_at": "2026-09-10T09:41:44Z",
+    "updated_at": "2026-10-01T17:24:51Z",
     "hash": "5c5f0c623031211e222f1f056e09af829df71cbd1b9e9ca19894bd131897173e",
     "file": "articles/apps-integrations/social-media/360041222994-how-to-use-the-countup-app.md",
     "category": "Apps & Integrations",
@@ -5688,14 +5688,14 @@
     "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
     "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "updated_at": "2026-03-25T21:28:19Z",
-    "hash": "059eb82148265974fb1992865e9221ca06c4a208140c0a446ef8d4095a50b9c3",
+    "updated_at": "2026-10-01T15:00:40Z",
+    "hash": "af5b083b3648aa70b86e813a7620e53b106a8cff3fb31fd2e47574a26a2aa24a",
     "file": "articles/apps-integrations/microsoft-apps/360036250853-how-to-use-microsoft-outlook-calendar-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-K9LwqZwsrGqrNQvjScwR3r"
+    "openai_file_id": "file-Asz3psJ1XMw8WH9fdRPJ4h"
   },
   "360037965133": {
     "id": 360037965133,
