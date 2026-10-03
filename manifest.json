@@ -699,20 +699,6 @@
     "section_slug": "enterprise-app-api-integrations",
     "openai_file_id": "file-Xsu9zkXY2XV7nWXAXpcJaL"
   },
-  "32839794222099": {
-    "id": 32839794222099,
-    "title": "Display Salesforce Dashboards with MFA using Web Scripting",
-    "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
-    "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-    "updated_at": "2026-09-10T09:51:44Z",
-    "hash": "6cedd51b8bf3e59afb44151e01a7b4ac2db1ca2f7d55284373f07250a33d32c7",
-    "file": "articles/how-to-faqs/advanced-topics/32839794222099-display-salesforce-dashboards-with-mfa-using-web-scripting.md",
-    "category": "How-to / FAQs",
-    "category_slug": "how-to-faqs",
-    "section": "Advanced Topics",
-    "section_slug": "advanced-topics",
-    "openai_file_id": "file-Exrdp329SEA2YfDzq1Z8qj"
-  },
   "31960461758611": {
     "id": 31960461758611,
     "title": "How to Order a Preconfigured OptiSigns Android Stick",
@@ -998,7 +984,7 @@
     "title": "Amazon TV / FireStick Troubleshooting Guide",
     "slug": "amazon-tv-firestick-troubleshooting-guide",
     "url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-    "updated_at": "2026-09-10T09:50:48Z",
+    "updated_at": "2026-10-02T14:02:01Z",
     "hash": "1d8b7b068c87d38c3fd3153bd197d6e96071bf36880275ff4c5f3384755a0517",
     "file": "articles/troubleshooting/fire-tv/27463953562899-amazon-tv-firestick-troubleshooting-guide.md",
     "category": "Troubleshooting",
@@ -4383,17 +4369,17 @@
   },
   "11032964830227": {
     "id": 11032964830227,
-    "title": "How to use Monday.com App",
-    "slug": "how-to-use-monday-com-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App",
-    "updated_at": "2026-09-10T09:48:51Z",
-    "hash": "47b443bfa74b343347ffee1dd75271c16b471df8f34f65b03378deaab9e6ff74",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/11032964830227-how-to-use-monday-com-app.md",
+    "title": "How to Use the Monday.com App",
+    "slug": "how-to-use-the-monday-com-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+    "updated_at": "2026-10-02T15:17:32Z",
+    "hash": "b059da9f5908850b3b88b374bda0345354202a7f640a6f3d055ab8487a68133a",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/11032964830227-how-to-use-the-monday-com-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-7Qmj2b5wqJrGozXCe7heTv"
+    "openai_file_id": "file-MBrt5mxh4swRcjvd8xqdaX"
   },
   "4414558392339": {
     "id": 4414558392339,
@@ -4498,14 +4484,14 @@
     "title": "How to use Airtable with OptiSigns",
     "slug": "how-to-use-airtable-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
-    "updated_at": "2026-09-10T08:01:00Z",
-    "hash": "0aff8e2a1b45aedf52402d66fb4f9500030d6a8991a39b45d7810ec481fa3ffd",
+    "updated_at": "2026-10-02T15:09:00Z",
+    "hash": "2348f5901b1ec4dd86897f9ffad923cc4800990f7f00b72a5f4444fb6f016369",
     "file": "articles/apps-integrations/others/9392587446675-how-to-use-airtable-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-DjsNTFcYm13P8z9Pd5cU1R"
+    "openai_file_id": "file-AWc2cs1LQNb1q1J8n7bkum"
   },
   "4404879296403": {
     "id": 4404879296403,
@@ -4957,31 +4943,31 @@
   },
   "1500005889381": {
     "id": 1500005889381,
-    "title": "How to use the MindMeister App",
+    "title": "How to Use the MindMeister App",
     "slug": "how-to-use-the-mindmeister-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App",
-    "updated_at": "2026-09-10T09:45:44Z",
-    "hash": "40ee0a1d3af65f50dac8204321260c5caa44116c8de9b8de672b7a7341893f3e",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+    "updated_at": "2026-10-02T18:17:46Z",
+    "hash": "6f998cde4758740220025c302a3f788ca663f17051a3dfbd043ea4a98e6ca727",
     "file": "articles/apps-integrations/collaboration-productivity-apps/1500005889381-how-to-use-the-mindmeister-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-3k5K5qWvZVQVgmdNJk7EbY"
+    "openai_file_id": "file-FVAJxnr3uf4U5fv9b8gvke"
   },
   "1500005888781": {
     "id": 1500005888781,
     "title": "How to Best Use Canva with OptiSigns",
     "slug": "how-to-best-use-canva-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
-    "updated_at": "2026-09-10T09:45:39Z",
-    "hash": "2921e51d84b749ae02b2259df3ae9781cb9c6ac442dd64844278c0964bfdf2c0",
+    "updated_at": "2026-10-02T15:05:25Z",
+    "hash": "05dcdc91bf4ae26ce6dce605c628c76b5945cc3e6a3c6c9c811f33a16ab58e63",
     "file": "articles/apps-integrations/canva-other-design-platforms/1500005888781-how-to-best-use-canva-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Canva & Other Design Platforms",
     "section_slug": "canva-other-design-platforms",
-    "openai_file_id": "file-HqdTM1uC7477Yp5goUo3mM"
+    "openai_file_id": "file-3R79p8vFn16LGSo6LRVLft"
   },
   "1500002233221": {
     "id": 1500002233221,
