@@ -102,14 +102,14 @@
     "title": "How to Display Grafana Dashboards on OptiSigns",
     "slug": "how-to-display-grafana-dashboards-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-    "updated_at": "2026-09-22T14:14:49Z",
-    "hash": "cf2eae2bbb358d02a29909a528789f53c2be2e7ec45508634e3003664665b1e4",
+    "updated_at": "2026-10-08T16:32:47Z",
+    "hash": "d41d43ebb0744233105f7d2c15a430de1a223c2a91620618a0fa09ac1a2e32dc",
     "file": "articles/apps-integrations/others/55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-HdMrdAwSKBsCmTcYwAzAPg"
+    "openai_file_id": "file-KVBvCJtje7Esp9wc1jeCbk"
   },
   "55416186918163": {
     "id": 55416186918163,
@@ -662,14 +662,14 @@
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-10-07T22:30:11Z",
-    "hash": "a0c0a57cb3b26e28f7f68615f4aa31379c595752d920baf963f852d613262885",
+    "updated_at": "2026-10-08T16:57:16Z",
+    "hash": "f0438d420d39744edce862a324f5c6bbfac24a914f3bc3ac78e85caddf03921a",
     "file": "articles/how-to-faqs/faq/33940834613139-what-do-i-get-with-an-optisigns-free-plan.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "FAQ",
     "section_slug": "faq",
-    "openai_file_id": "file-CiY7ZMuNeBqgJfAJrEXWbw"
+    "openai_file_id": "file-8Cibn9dvzmfwzdrVkPiKTt"
   },
   "33382537925267": {
     "id": 33382537925267,
@@ -2944,7 +2944,7 @@
     "title": "How to Install an APK file on your Fire TV",
     "slug": "how-to-install-an-apk-file-on-your-fire-tv",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-10-05T21:09:30Z",
+    "updated_at": "2026-10-09T06:17:18Z",
     "hash": "ee484b35ea4bbfa1d5eebdb77d1772a1cf9690012ee88d620f746fa41c457504",
     "file": "articles/troubleshooting/fire-tv/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
     "category": "Troubleshooting",
