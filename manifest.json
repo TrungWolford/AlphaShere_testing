@@ -3056,14 +3056,14 @@
     "title": "How to Manage and Edit Your Playlist Settings",
     "slug": "how-to-manage-and-edit-your-playlist-settings",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-09-14T16:01:05Z",
-    "hash": "f715798f4d9e60fd98372789e07ee9a2b0378da5eab31b37a6dea5e59a3bbd3d",
+    "updated_at": "2026-10-12T07:27:37Z",
+    "hash": "dd9a8defa313296b8c065c50d5a13f6748eb03588b2b1d20dc846263f29f1d98",
     "file": "articles/create-manage-contents/playlist/28295074995859-how-to-manage-and-edit-your-playlist-settings.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Playlist",
     "section_slug": "playlist",
-    "openai_file_id": "file-HeLv7eNWFve2Tibw3j9nmQ"
+    "openai_file_id": "file-Qev8UCsbM8EVHUhAxGmySL"
   },
   "28026588373139": {
     "id": 28026588373139,
@@ -3602,7 +3602,7 @@
     "title": "What hardware and devices are supported?",
     "slug": "what-hardware-and-devices-are-supported",
     "url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-    "updated_at": "2026-09-14T15:11:31Z",
+    "updated_at": "2026-10-12T06:20:04Z",
     "hash": "d14e96ec15aad68e042476755b894d43bdf70418f25099020f592ce34ae2e45d",
     "file": "articles/how-to-faqs/faq/360021855653-what-hardware-and-devices-are-supported.md",
     "category": "How-to / FAQs",
