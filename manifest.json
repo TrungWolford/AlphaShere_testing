@@ -984,7 +984,7 @@
     "title": "Amazon TV / FireStick Troubleshooting Guide",
     "slug": "amazon-tv-firestick-troubleshooting-guide",
     "url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-    "updated_at": "2026-10-02T14:02:01Z",
+    "updated_at": "2026-10-13T13:00:37Z",
     "hash": "1d8b7b068c87d38c3fd3153bd197d6e96071bf36880275ff4c5f3384755a0517",
     "file": "articles/troubleshooting/fire-tv/27463953562899-amazon-tv-firestick-troubleshooting-guide.md",
     "category": "Troubleshooting",
@@ -2759,17 +2759,17 @@
   },
   "360037416494": {
     "id": 360037416494,
-    "title": "How to use the Jira (formerly Atlassian JIRA) app",
-    "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-    "updated_at": "2026-09-10T09:41:23Z",
-    "hash": "8c3e43ee103354213750f33a411b0ec72344cd134a95e61e4af1feff9e09b2e5",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/360037416494-how-to-use-the-jira-formerly-atlassian-jira-app.md",
+    "title": "How to Use the Jira App",
+    "slug": "how-to-use-the-jira-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+    "updated_at": "2026-10-13T21:50:54Z",
+    "hash": "9b77f0fb2f7f9c81c12c9f1efd7cf8edfd05123b1a81615fe348b50680505b33",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/360037416494-how-to-use-the-jira-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-1rdfyTYbPBdbnmHq2TU3ep"
+    "openai_file_id": "file-X8CSekwvd54LgUvLifaUUJ"
   },
   "360037391854": {
     "id": 360037391854,
@@ -4017,20 +4017,6 @@
     "section_slug": "use-optisigns-players",
     "openai_file_id": "file-UC3X7QSyDuCtuHDkx1nN6u"
   },
-  "18500083191059": {
-    "id": 18500083191059,
-    "title": "How to add captions to Vimeo videos",
-    "slug": "how-to-add-captions-to-vimeo-videos",
-    "url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos",
-    "updated_at": "2026-09-10T09:49:54Z",
-    "hash": "8f0d8066e62b73c222196a35c1c96df295db288eb768e3ac22953fe014e19e3b",
-    "file": "articles/how-to-faqs/youtube-social-media-integrations/18500083191059-how-to-add-captions-to-vimeo-videos.md",
-    "category": "How-to / FAQs",
-    "category_slug": "how-to-faqs",
-    "section": "Youtube & Social Media Integrations",
-    "section_slug": "youtube-social-media-integrations",
-    "openai_file_id": "file-Ns94eTCzgyqurGph9fUpoq"
-  },
   "14502378549907": {
     "id": 14502378549907,
     "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
@@ -4117,17 +4103,17 @@
   },
   "12454101966355": {
     "id": 12454101966355,
-    "title": "How to use the MustHaveMenus  app with OptiSigns",
-    "slug": "how-to-use-the-musthavemenus-app-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns",
-    "updated_at": "2026-09-10T09:49:08Z",
-    "hash": "c5485c67e01c177ee5908f95e9a2ffcaf1e1318398aeaaa2c94297ac39e6cffe",
-    "file": "articles/apps-integrations/others/12454101966355-how-to-use-the-musthavemenus-app-with-optisigns.md",
+    "title": "How to Use the MustHaveMenus App",
+    "slug": "how-to-use-the-musthavemenus-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
+    "updated_at": "2026-10-13T20:53:34Z",
+    "hash": "40430a5c301eed6ec28dc7938d2dcd6adad9de33b65efaa2e67df5b9766f7efd",
+    "file": "articles/apps-integrations/others/12454101966355-how-to-use-the-musthavemenus-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-6zAfnLKMA9UFJJ3M9Gp8uu"
+    "openai_file_id": "file-84924ymk15ugaKJGmB2Baj"
   },
   "4414558369811": {
     "id": 4414558369811,
@@ -4635,17 +4621,17 @@
   },
   "6091289267475": {
     "id": 6091289267475,
-    "title": "How to use Matterport App",
-    "slug": "how-to-use-matterport-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App",
-    "updated_at": "2026-09-10T09:48:13Z",
-    "hash": "647c8bbfa0665dd2f990db74ac424e96654b36f88c0b79363573448d4b94ce0b",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/6091289267475-how-to-use-matterport-app.md",
+    "title": "How to Use the Matterport App",
+    "slug": "how-to-use-the-matterport-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
+    "updated_at": "2026-10-13T20:37:01Z",
+    "hash": "e6fc3f236f7869a84c42ec81e2a029c23eef8f047cf79d20b3f73255f89e96d2",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/6091289267475-how-to-use-the-matterport-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-LoyoQ6EhZiSJfz4evAXxoG"
+    "openai_file_id": "file-Cn93SNWr13cD94AZzLNtiS"
   },
   "6086986017299": {
     "id": 6086986017299,
@@ -4677,17 +4663,17 @@
   },
   "5119724468371": {
     "id": 5119724468371,
-    "title": "How to use Notion App",
-    "slug": "how-to-use-notion-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App",
-    "updated_at": "2026-09-10T09:48:04Z",
-    "hash": "04393d00a539e6b6cd0408416f9c6cf1953cca31d8f6e977a72b60a8aad9f905",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/5119724468371-how-to-use-notion-app.md",
+    "title": "How to Use the Notion App",
+    "slug": "how-to-use-the-notion-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
+    "updated_at": "2026-10-13T17:37:02Z",
+    "hash": "4376f75b5915920035cf57d74d3c18e6238cb9430ec57bbbcd5638b03cff7541",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/5119724468371-how-to-use-the-notion-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-CEhFahUuYhxVyySbwMCPpe"
+    "openai_file_id": "file-YJZmwVMAywHPb91Kd6VuDg"
   },
   "4529298306963": {
     "id": 4529298306963,
@@ -4971,17 +4957,17 @@
   },
   "1500002233221": {
     "id": 1500002233221,
-    "title": "How to use Asana App",
-    "slug": "how-to-use-asana-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App",
-    "updated_at": "2026-09-10T09:45:28Z",
-    "hash": "45ff276c1d413d13ffc93bd15415ece3b5decfdef657ffca419572839ed3bb42",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/1500002233221-how-to-use-asana-app.md",
+    "title": "How to Use the Asana App",
+    "slug": "how-to-use-the-asana-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
+    "updated_at": "2026-10-13T16:34:14Z",
+    "hash": "c2164d1b2cce3b493ba1e9163cab8e06a620b61d3794d43a72d804088344ee05",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/1500002233221-how-to-use-the-asana-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-1NQyhwGkeEgBoPTxzkJ1md"
+    "openai_file_id": "file-XwJsz5XN2oWET9wYoedbAa"
   },
   "1500002131621": {
     "id": 1500002131621,
@@ -5209,17 +5195,17 @@
   },
   "360050244454": {
     "id": 360050244454,
-    "title": "How to use Trello App",
-    "slug": "how-to-use-trello-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App",
-    "updated_at": "2026-09-10T09:43:03Z",
-    "hash": "d3da4622b92c84f7c9681eac2762e2c288394807d0d056078719195db560fe22",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/360050244454-how-to-use-trello-app.md",
+    "title": "How to Use the Trello App",
+    "slug": "how-to-use-the-trello-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
+    "updated_at": "2026-10-13T21:49:36Z",
+    "hash": "722796b38473e45428c92d3cdfed4c1dfd75243bc154858dfbcdcdf918c57dad",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/360050244454-how-to-use-the-trello-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-YBsrPi1Nt8faQdJiq8t8oM"
+    "openai_file_id": "file-4ebicT8mBFEom8nTuCUhbg"
   },
   "360051014713": {
     "id": 360051014713,
@@ -5433,17 +5419,17 @@
   },
   "360046859534": {
     "id": 360046859534,
-    "title": "How to use Twitch App",
-    "slug": "how-to-use-twitch-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App",
-    "updated_at": "2025-09-05T14:57:13Z",
-    "hash": "6606f8e02311f0e472508c7c2063b11b43eeea743b0845981f429b663efee8b3",
-    "file": "articles/apps-integrations/youtube-other-video-platforms/360046859534-how-to-use-twitch-app.md",
+    "title": "How to Use the Twitch App",
+    "slug": "how-to-use-the-twitch-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
+    "updated_at": "2026-10-13T17:00:14Z",
+    "hash": "46027022bd6b54c53de5c5c38cc81f6b0388a95f6399506f554ef24c0b5fc0fe",
+    "file": "articles/apps-integrations/youtube-other-video-platforms/360046859534-how-to-use-the-twitch-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-WmCsGzEthsJSxaPv9tQcS2"
+    "openai_file_id": "file-WVWNQXFjscjASMw35QUe6T"
   },
   "360044619014": {
     "id": 360044619014,
@@ -5786,14 +5772,14 @@
     "title": "How to Display Vimeo Videos with OptiSigns",
     "slug": "how-to-display-vimeo-videos-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-    "updated_at": "2026-10-12T20:49:41Z",
-    "hash": "f04c766153f2462e0731edc1ac90bb3b960f569f3f2a7087d961b53d8cbaba39",
+    "updated_at": "2026-10-13T17:40:15Z",
+    "hash": "568c58587397e8fff8d0f7ee5b9360efdf798db6374fc28ce0e80abbab430550",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360016254994-how-to-display-vimeo-videos-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-3ZoUa9Bb7Wt1XyNd2NWG9L"
+    "openai_file_id": "file-57rDP4GLycWFMrxppPYFUS"
   },
   "360016382473": {
     "id": 360016382473,
