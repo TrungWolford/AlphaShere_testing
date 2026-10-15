@@ -326,14 +326,14 @@
     "title": "ChromeOS PWA Instructions",
     "slug": "chromeos-pwa-instructions",
     "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-    "updated_at": "2026-05-05T15:48:27Z",
-    "hash": "e887eaa9614144db84790f2a963c912bb7b3f8d9a47678ffdc4ee2cda59312c6",
+    "updated_at": "2026-10-14T19:21:13Z",
+    "hash": "7ca88f755e8fc08c64a1c50ead201a6333d460471b88e0a39783fdfe9173e4c1",
     "file": "articles/setup-screens/use-your-players/49039295567891-chromeos-pwa-instructions.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-1y8nkg1GoarDS365zo4GXS"
+    "openai_file_id": "file-KAZkzUXyuhe9xynE2hz8JJ"
   },
   "48751096814995": {
     "id": 48751096814995,
@@ -480,14 +480,14 @@
     "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
     "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
     "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-    "updated_at": "2026-09-18T13:02:26Z",
-    "hash": "7fe12d092f72832457e45579d2caf0a3271654ce4c13edb65bc55cd729e547ca",
+    "updated_at": "2026-10-14T21:03:18Z",
+    "hash": "2abb45d1d6c608526bb8b7f344e8d53dbc2a23cbd6a340a89fc06e9624e9fd7f",
     "file": "articles/essential-use-cases/essential-use-cases/40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
     "category": "Essential Use Cases",
     "category_slug": "essential-use-cases",
     "section": "Essential Use Cases",
     "section_slug": "essential-use-cases",
-    "openai_file_id": "file-Pw2uNff61kXeoTi8spaDWK"
+    "openai_file_id": "file-Th8oUPgpcJKzymDZ8VS63k"
   },
   "40212027797523": {
     "id": 40212027797523,
@@ -2538,14 +2538,14 @@
     "title": "Edit Screen: What does each option do?",
     "slug": "edit-screen-what-does-each-option-do",
     "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-    "updated_at": "2026-09-10T09:42:40Z",
-    "hash": "86fc0d3a3383e5c02117077b78370a7fb19e75c0016975acaba8418456f0f378",
+    "updated_at": "2026-10-14T18:02:17Z",
+    "hash": "0ffe2a9b238666c8430fd25cb9a90449a85bdc0a9e3780d24c5014d01391731f",
     "file": "articles/troubleshooting/optisigns-player-software/360048914673-edit-screen-what-does-each-option-do.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
-    "openai_file_id": "file-RYYnmEDBZcYDoqFSxFF56Q"
+    "openai_file_id": "file-2wgA9a8eDGZHihLJcbiQo3"
   },
   "360047275934": {
     "id": 360047275934,
@@ -3056,14 +3056,14 @@
     "title": "How to Manage and Edit Your Playlist Settings",
     "slug": "how-to-manage-and-edit-your-playlist-settings",
     "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-10-12T21:22:30Z",
-    "hash": "f7b605f2ddd9865cead4547bfc1f781c931d52984e5e4679448528fb423d9ff2",
+    "updated_at": "2026-10-14T18:00:33Z",
+    "hash": "97bbb87acb0a556440687397e2418973bcfcc418822c5d5dcc9b8e5d3ab1f983",
     "file": "articles/create-manage-contents/playlist/28295074995859-how-to-manage-and-edit-your-playlist-settings.md",
     "category": "Create & Manage Contents",
     "category_slug": "create-manage-contents",
     "section": "Playlist",
     "section_slug": "playlist",
-    "openai_file_id": "file-PJyni73YNphUJzc3xAsrWe"
+    "openai_file_id": "file-WLd3BAEr3iPWsEZ5Si98N4"
   },
   "28026588373139": {
     "id": 28026588373139,
@@ -5041,17 +5041,17 @@
   },
   "360060919453": {
     "id": 360060919453,
-    "title": "How to put ZenDesk Dashboard on your signs",
-    "slug": "how-to-put-zendesk-dashboard-on-your-signs",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs",
-    "updated_at": "2026-09-10T09:45:01Z",
-    "hash": "7a4adbe06bd8605bbf60414b87b16a975db59715ba82abf8fcb52f0fb4353f1a",
-    "file": "articles/apps-integrations/collaboration-productivity-apps/360060919453-how-to-put-zendesk-dashboard-on-your-signs.md",
+    "title": "How to Use the Zendesk App",
+    "slug": "how-to-use-the-zendesk-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+    "updated_at": "2026-10-14T18:07:38Z",
+    "hash": "17a69c8e77bfb0e4dbdd6ac0ee3ca4bdc543579eb01fcc88266d492ab49ca798",
+    "file": "articles/apps-integrations/collaboration-productivity-apps/360060919453-how-to-use-the-zendesk-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-FJFXjrunF9DK7rihHGp5WL"
+    "openai_file_id": "file-TQs6gnNiobfMFd8sb8VDqP"
   },
   "360058855273": {
     "id": 360058855273,
