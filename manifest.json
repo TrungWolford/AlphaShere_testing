@@ -172,14 +172,14 @@
     "title": "Device Management and Mass Provisioning",
     "slug": "device-management-and-mass-provisioning",
     "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-    "updated_at": "2026-07-16T16:39:52Z",
-    "hash": "9f4365baf2b0e395b975d3a3b65b04fa11702880f37cc47519ebdc057388a4b8",
+    "updated_at": "2026-10-15T16:10:20Z",
+    "hash": "b7a32d416ff3bd0d0422eef5ffc2a1d79ebef1c04a259a7c6a22ee299ea489aa",
     "file": "articles/setup-screens/more-ways-to-run-optisigns-players/53497007807251-device-management-and-mass-provisioning.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "More ways to run OptiSigns Players",
     "section_slug": "more-ways-to-run-optisigns-players",
-    "openai_file_id": "file-8fkqjzLEzPiL3gcfN94zWT"
+    "openai_file_id": "file-D2MbNfktJgiiAvAiFEHfHc"
   },
   "53293393593491": {
     "id": 53293393593491,
@@ -2855,20 +2855,6 @@
     "section_slug": "video-playback-resolutions",
     "openai_file_id": "file-UHqG7YaJbxxzrTFB7Prsru"
   },
-  "360026610194": {
-    "id": 360026610194,
-    "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
-    "slug": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
-    "updated_at": "2026-09-10T09:40:48Z",
-    "hash": "43200adafef8a533242957c666039b22529a5abf3beca44c437d499bae13285c",
-    "file": "articles/essential-use-cases/essential-use-cases/360026610194-stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md",
-    "category": "Essential Use Cases",
-    "category_slug": "essential-use-cases",
-    "section": "Essential Use Cases",
-    "section_slug": "essential-use-cases",
-    "openai_file_id": "file-Pd4t22chEgH1L6pRaqiV66"
-  },
   "360026559613": {
     "id": 360026559613,
     "title": "How to Create a Scrolling Strip or Bar",
@@ -4845,17 +4831,17 @@
   },
   "4406180781203": {
     "id": 4406180781203,
-    "title": "How to use LinkedIn App",
-    "slug": "how-to-use-linkedin-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App",
-    "updated_at": "2025-09-04T18:05:53Z",
-    "hash": "e808fc454dd6db606f9a4bfe33ee03477a57b75bef42aa848f07c4c51549e52c",
-    "file": "articles/apps-integrations/social-media/4406180781203-how-to-use-linkedin-app.md",
+    "title": "How to Use the LinkedIn App",
+    "slug": "how-to-use-the-linkedin-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+    "updated_at": "2026-10-15T21:52:35Z",
+    "hash": "bc67864a76d34f1bab4d058637d7ed06148a41b52aa70692f3b566f266393e63",
+    "file": "articles/apps-integrations/social-media/4406180781203-how-to-use-the-linkedin-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-PmtvP9p4femANtraTXv4gK"
+    "openai_file_id": "file-C1vVDJuPrYY8vmYh6Mp8zA"
   },
   "4404053129619": {
     "id": 4404053129619,
@@ -4873,17 +4859,17 @@
   },
   "4403267825171": {
     "id": 4403267825171,
-    "title": "How to use the Social Mix App",
+    "title": "How to Use the Social Mix App",
     "slug": "how-to-use-the-social-mix-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App",
-    "updated_at": "2026-09-10T09:46:24Z",
-    "hash": "348dfde0f71ed0dab78c167a5b132d61bca8245b317496a0ef0eb3cbce627c38",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+    "updated_at": "2026-10-15T21:07:28Z",
+    "hash": "b8125d3a63bd15719fed5f53eba0063bba0e68b5decacc29e9be58078de430e0",
     "file": "articles/apps-integrations/social-media/4403267825171-how-to-use-the-social-mix-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-KPyHgK5gNTRgCQCsCr8iMp"
+    "openai_file_id": "file-NBaHKNkUhbzCVAqcdypHXZ"
   },
   "1500011611322": {
     "id": 1500011611322,
@@ -4915,17 +4901,17 @@
   },
   "1500009343862": {
     "id": 1500009343862,
-    "title": "How to use the Taggbox Display app with OptiSigns",
-    "slug": "how-to-use-the-taggbox-display-app-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns",
-    "updated_at": "2025-09-04T15:16:41Z",
-    "hash": "b3e76e0e4aed18a9cf31e5dd841c3412ea3c868fc84eb24ea30e9a792b0a4731",
-    "file": "articles/apps-integrations/social-media/1500009343862-how-to-use-the-taggbox-display-app-with-optisigns.md",
+    "title": "How to Use the Taggbox Display App",
+    "slug": "how-to-use-the-taggbox-display-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+    "updated_at": "2026-10-15T22:17:54Z",
+    "hash": "bcdef89d984909602d433976f22e303a740ff5a3b2105431b02f96e474f761ae",
+    "file": "articles/apps-integrations/social-media/1500009343862-how-to-use-the-taggbox-display-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-Kd81GFbmZ3b65GSrnxxvxX"
+    "openai_file_id": "file-3zb8S4jPqeSRJrYrxcJBbd"
   },
   "1500005889381": {
     "id": 1500005889381,
@@ -5181,17 +5167,17 @@
   },
   "360051495193": {
     "id": 360051495193,
-    "title": "How to use Instagram Business App",
-    "slug": "how-to-use-instagram-business-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App",
-    "updated_at": "2026-09-10T09:43:33Z",
-    "hash": "6008f1e70cc86c8470a357175d1f0b396e5f9b5c2abc0642891696adac195ede",
-    "file": "articles/apps-integrations/social-media/360051495193-how-to-use-instagram-business-app.md",
+    "title": "How to Use the Instagram Business App",
+    "slug": "how-to-use-the-instagram-business-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+    "updated_at": "2026-10-15T19:29:03Z",
+    "hash": "e8aa4d10718339bc302bbf9f0b61c5b87b59a3e56faf3a2f9b09e0abf7af9d55",
+    "file": "articles/apps-integrations/social-media/360051495193-how-to-use-the-instagram-business-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-Q7c3J6X5M4R24pZR7XycNq"
+    "openai_file_id": "file-9CgeE1tx22WGxDJNi9tweu"
   },
   "360050244454": {
     "id": 360050244454,
@@ -5223,17 +5209,17 @@
   },
   "360049875794": {
     "id": 360049875794,
-    "title": "How to use Follow Us App",
-    "slug": "how-to-use-follow-us-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
-    "updated_at": "2026-09-10T09:42:59Z",
-    "hash": "d466769e697dba747fb8871fd3e42b994fb73f97a9d06e61ffbde1dc943874ef",
-    "file": "articles/apps-integrations/social-media/360049875794-how-to-use-follow-us-app.md",
+    "title": "How to Use the Follow Us App",
+    "slug": "how-to-use-the-follow-us-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+    "updated_at": "2026-10-15T21:48:40Z",
+    "hash": "9cbaecb15b875e5fd5c33aa8d5eb4493b454d80801ff6fc6761d608ffa681ca0",
+    "file": "articles/apps-integrations/social-media/360049875794-how-to-use-the-follow-us-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-1gm4DT3jg4JZJwdruNndBS"
+    "openai_file_id": "file-96CbyQJ3CaiCRqUhKi3R6T"
   },
   "360049872414": {
     "id": 360049872414,
@@ -5534,28 +5520,28 @@
     "title": "How to Use the CountUp App",
     "slug": "how-to-use-the-countup-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-    "updated_at": "2026-10-01T17:24:51Z",
-    "hash": "5c5f0c623031211e222f1f056e09af829df71cbd1b9e9ca19894bd131897173e",
+    "updated_at": "2026-10-15T16:20:51Z",
+    "hash": "c49cf5f570846cf8e662483dfbb6d3a13952eb8936b5c2cb3c0d2ffb6c1ea135",
     "file": "articles/apps-integrations/social-media/360041222994-how-to-use-the-countup-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-M7pL99hnyND5CxaHDnHDKD"
+    "openai_file_id": "file-3eKy8SYRhmUXLTDUwjN7qt"
   },
   "360041638433": {
     "id": 360041638433,
-    "title": "How to use the CountDown App",
+    "title": "How to Use the CountDown App",
     "slug": "how-to-use-the-countdown-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-    "updated_at": "2026-09-11T04:37:51Z",
-    "hash": "08e4c8e69302beffe96d9419e77f3c7c24a42cbff051e59a13acbde9966d7ff0",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+    "updated_at": "2026-10-15T18:24:17Z",
+    "hash": "0e67f6a6de1a0ceffce3d892338e52836f2274c4b3d08fd08c5797d562c8d99f",
     "file": "articles/apps-integrations/others/360041638433-how-to-use-the-countdown-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-XSmwD1CYRLC86aTXZRPTRF"
+    "openai_file_id": "file-2gPYj1NJBMx7mNMK64HtLt"
   },
   "360041481553": {
     "id": 360041481553,
