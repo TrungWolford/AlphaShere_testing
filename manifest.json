@@ -1544,14 +1544,14 @@
     "title": "Build Integrations Using the OptiSigns Enterprise App",
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-09-14T15:53:06Z",
-    "hash": "f58044082c50fc1a52e1550084045427fcd2c5348518076858fe626593fcac2c",
+    "updated_at": "2026-10-26T08:22:44Z",
+    "hash": "15c5427f4312cf8341aa1cc9603e7ceba5d71c886b4af939e46807002e1b93aa",
     "file": "articles/advanced-features/enterprise-app-api-integrations/13320135306515-build-integrations-using-the-optisigns-enterprise-app.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-A2Rs9GUhy1uv9TkfekBamA"
+    "openai_file_id": "file-Xrsfiu79segtvvxraY9rcG"
   },
   "13097501958291": {
     "id": 13097501958291,
@@ -4176,7 +4176,7 @@
     "title": "About the OnHold Devices Folder",
     "slug": "about-the-onhold-devices-folder",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-09-07T11:26:40Z",
+    "updated_at": "2026-10-25T15:48:03Z",
     "hash": "a8b603cdd46c74bcf86f3b54fa11f2bf1aaecce4fb9ac68ede89b75a73f7153e",
     "file": "articles/accounts-security/billing-account-management/1500003244381-about-the-onhold-devices-folder.md",
     "category": "Accounts & Security",
