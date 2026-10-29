@@ -704,14 +704,14 @@
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-10-08T16:57:16Z",
-    "hash": "f0438d420d39744edce862a324f5c6bbfac24a914f3bc3ac78e85caddf03921a",
+    "updated_at": "2026-10-28T15:43:14Z",
+    "hash": "f1a941338ed29d37d597fdb100d87e0e6cca4592ab63582805f2788ee049d460",
     "file": "articles/how-to-faqs/faq/33940834613139-what-do-i-get-with-an-optisigns-free-plan.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "FAQ",
     "section_slug": "faq",
-    "openai_file_id": "file-8Cibn9dvzmfwzdrVkPiKTt"
+    "openai_file_id": "file-LqXGXu285rGtJNLr3g4DAk"
   },
   "33382537925267": {
     "id": 33382537925267,
@@ -1068,14 +1068,14 @@
     "title": "OptiStick",
     "slug": "optistick",
     "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-    "updated_at": "2026-09-13T02:35:58Z",
-    "hash": "17acd7bb746e702392009cfcc61f51b0435236f26e99d51b8b3bcbaa96dde03c",
+    "updated_at": "2026-10-28T19:34:03Z",
+    "hash": "1a0395d23882f91a751371cd6a4f7061853582f265058f973dbf54391ec9d8bb",
     "file": "articles/setup-screens/use-optisigns-players/27267311796243-optistick.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-S748BuNi4GteEUFDokBEZT"
+    "openai_file_id": "file-Qtd4QQd3Y1YkBr1dAALcx3"
   },
   "25273043501587": {
     "id": 25273043501587,
@@ -1499,17 +1499,17 @@
   },
   "15808407287315": {
     "id": 15808407287315,
-    "title": "The OptiSigns app keeps turning on the TV screen",
-    "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen",
-    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen",
-    "updated_at": "2026-09-10T09:49:23Z",
-    "hash": "5d6809f2d028f050a6202b5a8a484ccb0ba3d1767e4519a2c3014781fbe3571a",
-    "file": "articles/troubleshooting/optisigns-player-software/15808407287315-the-optisigns-app-keeps-turning-on-the-tv-screen.md",
+    "title": "Preventing the OptiSigns App from Turning On your Screen",
+    "slug": "preventing-the-optisigns-app-from-turning-on-your-screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
+    "updated_at": "2026-10-28T18:52:26Z",
+    "hash": "7510e52219da2153921cb1d9aef4a5b92fbfddf255761be2809f60f12b48acd2",
+    "file": "articles/troubleshooting/optisigns-player-software/15808407287315-preventing-the-optisigns-app-from-turning-on-your-screen.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
-    "openai_file_id": "file-6SUbgrtd4TAizdFPz6rp2D"
+    "openai_file_id": "file-B4WPkGpFZsu6WDtYozBPcr"
   },
   "15313086319763": {
     "id": 15313086319763,
@@ -2241,24 +2241,24 @@
   },
   "1500000485202": {
     "id": 1500000485202,
-    "title": "Custom Branding Settings",
-    "slug": "custom-branding-settings",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-    "updated_at": "2026-09-10T09:45:11Z",
-    "hash": "1eab13fd9d1d3903e67b5b656c88d21faada6cc917d2a3a34c68fc4b4da3df21",
-    "file": "articles/advanced-features/branding-control/1500000485202-custom-branding-settings.md",
+    "title": "Custom Branding Settings and Branded Portals",
+    "slug": "custom-branding-settings-and-branded-portals",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
+    "updated_at": "2026-10-28T16:37:29Z",
+    "hash": "e7b314ab44d88c59cf6e281d534e76354f4f27322ce7116e0fa2e03f45583417",
+    "file": "articles/advanced-features/branding-control/1500000485202-custom-branding-settings-and-branded-portals.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Branding Control",
     "section_slug": "branding-control",
-    "openai_file_id": "file-EjfQC18rNTvoDn54oqJdUJ"
+    "openai_file_id": "file-EDCWT2SxkhXMs5h5ZHSe4p"
   },
   "1500000480302": {
     "id": 1500000480302,
     "title": "Advanced: Custom Domain Mapping",
     "slug": "advanced-custom-domain-mapping",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
-    "updated_at": "2026-09-10T09:45:10Z",
+    "updated_at": "2026-10-28T20:58:49Z",
     "hash": "90901a24230becfa2190b6703515730213334c0c8c894a7d197ab4605888d004",
     "file": "articles/advanced-features/branding-control/1500000480302-advanced-custom-domain-mapping.md",
     "category": "Advanced Features",
@@ -2846,14 +2846,14 @@
     "title": "Windows",
     "slug": "windows",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows",
-    "updated_at": "2026-09-10T09:40:58Z",
-    "hash": "47c15f106368fa845c30906b8dde8eaac3e969626d2717ea7dfce0939153b636",
+    "updated_at": "2026-10-28T21:29:33Z",
+    "hash": "f43a4f0e2e6708e3d2ba849749dccf0d5d0450a28e2f89c6d18b247170d796a8",
     "file": "articles/setup-screens/use-your-players/360034379293-windows.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-94c7oaTNYRmCaoMHJoVvst"
+    "openai_file_id": "file-XAeCgAxbHbJrwimhtYsv5a"
   },
   "360034219593": {
     "id": 360034219593,
@@ -3196,14 +3196,14 @@
     "title": "MacOS",
     "slug": "macos",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS",
-    "updated_at": "2026-09-10T09:41:51Z",
-    "hash": "5d268dee97fec1d346b6093f954038966a4d446a2d702f0502668896bbe64dc3",
+    "updated_at": "2026-10-28T22:17:31Z",
+    "hash": "f2493953bee7584c88ead0407a052f14ecab4bc788f9e1182967dd93cae34e0d",
     "file": "articles/setup-screens/use-your-players/360041501494-macos.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-4guPout3MBiHb1W9wLXVY3"
+    "openai_file_id": "file-9xneuyLRvSuMbKZgjcL47i"
   },
   "360035739414": {
     "id": 360035739414,
@@ -3406,14 +3406,14 @@
     "title": "Linux",
     "slug": "linux",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux",
-    "updated_at": "2026-09-10T09:41:00Z",
-    "hash": "05c07dc1106a7bbbef89f421ba7e7092051c182abb55a7bd9145a75a485d60b6",
+    "updated_at": "2026-10-28T20:03:55Z",
+    "hash": "82cd6bfb08c7b0fc4e5fe5463f05320748cb8b95d8a339b4d66da762c5a75c4c",
     "file": "articles/setup-screens/use-your-players/360034379573-linux.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-1v72c6KuvHH7pikfKu4MaW"
+    "openai_file_id": "file-X91Ck6hUPzKU7eDEbeNJAV"
   },
   "360016833514": {
     "id": 360016833514,
@@ -3588,14 +3588,14 @@
     "title": "Android TV / ChromeCast",
     "slug": "android-tv-chromecast",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast",
-    "updated_at": "2025-09-02T19:55:41Z",
-    "hash": "297f4b3a58655d3c3a5f6f8e4e4ea8f2105d7d9bb7de27b9937d2334f1fc68a6",
+    "updated_at": "2026-10-28T21:05:51Z",
+    "hash": "2bc0a35497d2d2e8eabeea872d21a497bcefc1f6f296ad41d0aea8c3f1e9a6b4",
     "file": "articles/setup-screens/use-your-players/1500004699122-android-tv-chromecast.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-Egvjbp4AQvpNwHsAPsx52c"
+    "openai_file_id": "file-PtWecKdXPgJfYRKW47YBLM"
   },
   "360063693093": {
     "id": 360063693093,
@@ -4162,14 +4162,14 @@
     "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
     "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-    "updated_at": "2026-09-10T09:45:55Z",
-    "hash": "e6ccc0a77cb5c5b0018a0c75141728071fd95cc44b789fc2316cf2269e5b4287",
+    "updated_at": "2026-10-28T21:12:21Z",
+    "hash": "e33b4cdfc042caf95204a54ae774756d5d311cd3226a86e66e14eb6645fd946f",
     "file": "articles/setup-screens/use-your-players/1500009042742-fireos-tvs-amazon-insigna-toshiba-tcl.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-UrgJjrVWn2vFRUCUSQCsCL"
+    "openai_file_id": "file-8J4dTwK9C1wLvUGvsk7LMr"
   },
   "1500003244381": {
     "id": 1500003244381,
@@ -5030,7 +5030,7 @@
     "title": "How to use YouTube Live Schedule with OptiSigns",
     "slug": "how-to-use-youtube-live-schedule-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
-    "updated_at": "2026-01-22T15:44:40Z",
+    "updated_at": "2026-10-29T06:24:09Z",
     "hash": "42bf3ef25c34d66909635b4698d5de024d69674ee103a869b3e7b1f3a42ee936",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360060284174-how-to-use-youtube-live-schedule-with-optisigns.md",
     "category": "Apps & Integrations",
