@@ -1,4 +1,18 @@
 {
+  "56946344474003": {
+    "id": 56946344474003,
+    "title": "LG webOS Smart TVs (Consumer Grade)",
+    "slug": "lg-webos-smart-tvs-consumer-grade",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+    "updated_at": "2026-10-29T16:54:08Z",
+    "hash": "3f5474bbe85d40bfb9d0324691600b8edbc5a4dff6ad4f1d09a5b3eee4c1e84d",
+    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/56946344474003-lg-webos-smart-tvs-consumer-grade.md",
+    "category": "Setup Screens",
+    "category_slug": "setup-screens",
+    "section": "More ways to run OptiSigns Players",
+    "section_slug": "more-ways-to-run-optisigns-players",
+    "openai_file_id": "file-NfjSkuBYhwtqmLv2iyWS9L"
+  },
   "56498391179667": {
     "id": 56498391179667,
     "title": "How to Use the Eventbrite Events App",
@@ -2759,17 +2773,17 @@
   },
   "360039566974": {
     "id": 360039566974,
-    "title": "How to install OptiSigns as channel/app on Roku",
-    "slug": "how-to-install-optisigns-as-channel-app-on-roku",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-    "updated_at": "2026-09-10T09:41:32Z",
-    "hash": "dfdd5b086a8d7933b7fc48353ca73fef8da3ce3c0a7e3f396b6ae7b84e0d50bb",
-    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/360039566974-how-to-install-optisigns-as-channel-app-on-roku.md",
+    "title": "Install OptiSigns as Channel or App on Roku",
+    "slug": "install-optisigns-as-channel-or-app-on-roku",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+    "updated_at": "2026-10-29T16:45:01Z",
+    "hash": "3f6f24ba4a500de1ab9a8f3dc30341362d0e795088d26d340f56de9fede8a9d0",
+    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/360039566974-install-optisigns-as-channel-or-app-on-roku.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "More ways to run OptiSigns Players",
     "section_slug": "more-ways-to-run-optisigns-players",
-    "openai_file_id": "file-Y2wa18M12fUu3V4yw6axK8"
+    "openai_file_id": "file-NASnfp11gKYsEBUhyKCsvz"
   },
   "360038992973": {
     "id": 360038992973,
@@ -3543,17 +3557,17 @@
   },
   "14726570281875": {
     "id": 14726570281875,
-    "title": "How to install OptiSigns on Samsung Tizen Smart TVs",
-    "slug": "how-to-install-optisigns-on-samsung-tizen-smart-tvs",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs",
-    "updated_at": "2026-09-10T09:49:19Z",
-    "hash": "65891b579f51a66f15445a54e6902a59d003a93f9c0c38e1c73cca03299ee2c3",
-    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/14726570281875-how-to-install-optisigns-on-samsung-tizen-smart-tvs.md",
+    "title": "Installing OptiSigns on Samsung Tizen Smart TVs",
+    "slug": "installing-optisigns-on-samsung-tizen-smart-tvs",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+    "updated_at": "2026-10-29T20:45:27Z",
+    "hash": "e2b37470c626f7787a037f76cb533436a7b8149896dc5b340c4f284f13539c4b",
+    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/14726570281875-installing-optisigns-on-samsung-tizen-smart-tvs.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "More ways to run OptiSigns Players",
     "section_slug": "more-ways-to-run-optisigns-players",
-    "openai_file_id": "file-YQoDWxoLxx6rrZpHpZPEZf"
+    "openai_file_id": "file-FANxbkf9rW2Si3VM9yuice"
   },
   "4414553099667": {
     "id": 4414553099667,
@@ -3784,14 +3798,14 @@
     "title": "Raspberry Pi",
     "slug": "raspberry-pi",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
-    "updated_at": "2025-10-07T15:03:02Z",
-    "hash": "49e11fc6305667bf3745c82055ed110d44a5a42cf239e82c6b3fa28d56ab63a0",
+    "updated_at": "2026-10-29T17:18:19Z",
+    "hash": "88b4dda6c91cdd6fa5c684d0dc26b4741f9b96ae9c5407b833617b1dd7fc3e97",
     "file": "articles/setup-screens/use-your-players/360034379693-raspberry-pi.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-Ha6HoyBg3y416SNr6h7Nm7"
+    "openai_file_id": "file-Cm5UDq5fNR3jHLEbQ7DdRL"
   },
   "360016990233": {
     "id": 360016990233,
@@ -3882,14 +3896,14 @@
     "title": "Amazon Signage Stick",
     "slug": "amazon-signage-stick",
     "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-10-25T02:01:21Z",
-    "hash": "d675b2cb22fe3337e7e9e3c02b5d5edb60e5e6f3116af2dabd705381e098ac8d",
+    "updated_at": "2026-10-29T20:18:17Z",
+    "hash": "94cf1e55aba60c72ed839ed231f7f35f0bc987ae17af674b8f95684a1bc2daa0",
     "file": "articles/setup-screens/use-your-players/34087061669523-amazon-signage-stick.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-YMLeRFjGHcqYtSVjzzF71Q"
+    "openai_file_id": "file-8KdEqLKu77PggidZtW97By"
   },
   "14502723487379": {
     "id": 14502723487379,
@@ -4218,14 +4232,14 @@
     "title": "Where to Buy OptiSigns Devices",
     "slug": "where-to-buy-optisigns-devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-    "updated_at": "2026-09-23T19:17:01Z",
-    "hash": "d85d22317b6d7a3b7957f426c1e114877d21d4c3c6250105c04e8bb04ccf02e8",
+    "updated_at": "2026-10-29T15:32:35Z",
+    "hash": "9280b187c59a2bd90a07eeaa4f62ea83fa149a642582e371e520b09e1ab98c1a",
     "file": "articles/setup-screens/use-optisigns-players/32129032857875-where-to-buy-optisigns-devices.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use OptiSigns Players",
     "section_slug": "use-optisigns-players",
-    "openai_file_id": "file-RzV6AuWRwBPLQhwpfrHNyh"
+    "openai_file_id": "file-RZ6DWJU8Wnxp1ETHXFb8fe"
   },
   "11784310183571": {
     "id": 11784310183571,
@@ -4246,14 +4260,14 @@
     "title": "BrightSign Players",
     "slug": "brightsign-players",
     "url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
-    "updated_at": "2026-05-05T15:50:07Z",
-    "hash": "cb68fbb24c31dbd117313be171cbeea9d321a403e2079ef0853490573f9bc30d",
+    "updated_at": "2026-10-29T17:44:28Z",
+    "hash": "a91bedebc7eea90556947ec479bc1abef9d8e4c4f0902a38914df74363bc8d50",
     "file": "articles/setup-screens/use-your-players/5090125683219-brightsign-players.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-X72Bhxs1rv2XuWYjjfgGnx"
+    "openai_file_id": "file-6aYiTVoNi4VgSJc4UhqJz2"
   },
   "4414564078995": {
     "id": 4414564078995,
@@ -4358,14 +4372,14 @@
     "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
     "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
     "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-    "updated_at": "2026-09-10T09:48:53Z",
-    "hash": "10ba3e7de918a833eb98c0cad18c346e2f431123daa8d6d67beb007f8e10ed28",
+    "updated_at": "2026-10-29T20:48:30Z",
+    "hash": "2a2146e4f89808326298dd8e76aa02c9b9b12066c828a441e5eb51546617d6e3",
     "file": "articles/setup-screens/use-your-players/11116333259283-setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-5kZtDEwPzEQ91DQp327y7L"
+    "openai_file_id": "file-HxtPat4zzdDw18bUKXQXVq"
   },
   "11032964830227": {
     "id": 11032964830227,
@@ -4442,14 +4456,14 @@
     "title": "LG WebOS Signage (Commercial Grade)",
     "slug": "lg-webos-signage-commercial-grade",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-    "updated_at": "2026-09-10T09:47:39Z",
-    "hash": "8266d359b3b0e983247366f8d7c8b332bda3873c307dddf5d3abfc8a2c7ffa6b",
+    "updated_at": "2026-10-29T16:49:32Z",
+    "hash": "73fbb34a89d086a4b56c27a076e2921d08bfc5b2bd9163808851193e2298ea8e",
     "file": "articles/setup-screens/use-your-players/4414496579475-lg-webos-signage-commercial-grade.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-3RpPvWcbXbeWEbuP4bgutv"
+    "openai_file_id": "file-JPwK8AYC96127ityzYhzS7"
   },
   "360016253694": {
     "id": 360016253694,
