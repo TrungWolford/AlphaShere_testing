@@ -1,4 +1,18 @@
 {
+  "56987330525587": {
+    "id": 56987330525587,
+    "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+    "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+    "updated_at": "2026-10-30T19:28:50Z",
+    "hash": "41b5e6c56deddb6a4951087d1fce4d7b489836749c89d1363abbadeb8ad3345d",
+    "file": "articles/advanced-features/enterprise-app-api-integrations/56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+    "category": "Advanced Features",
+    "category_slug": "advanced-features",
+    "section": "Enterprise App & API Integrations",
+    "section_slug": "enterprise-app-api-integrations",
+    "openai_file_id": "file-5JPXQUWf1G22DZxe9ywR7S"
+  },
   "56946344474003": {
     "id": 56946344474003,
     "title": "LG webOS Smart TVs (Consumer Grade)",
@@ -1558,14 +1572,14 @@
     "title": "Build Integrations Using the OptiSigns Enterprise App",
     "slug": "build-integrations-using-the-optisigns-enterprise-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-10-26T08:22:44Z",
-    "hash": "15c5427f4312cf8341aa1cc9603e7ceba5d71c886b4af939e46807002e1b93aa",
+    "updated_at": "2026-10-30T17:06:59Z",
+    "hash": "1276ee2745dbb73dad4cac6c93819ac543a01843a70c19e118db915cdf73cb08",
     "file": "articles/advanced-features/enterprise-app-api-integrations/13320135306515-build-integrations-using-the-optisigns-enterprise-app.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-Xrsfiu79segtvvxraY9rcG"
+    "openai_file_id": "file-3kuDs1ij2gV7yr82TSyEC5"
   },
   "13097501958291": {
     "id": 13097501958291,
@@ -2552,14 +2566,14 @@
     "title": "How to Set up an Instagram Business/Creator account",
     "slug": "how-to-set-up-an-instagram-business-creator-account",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
-    "updated_at": "2026-09-10T09:43:35Z",
-    "hash": "05a5deab3da261347ef750a29da4cebc4a268ffed9bc4e19f4128b233fb3975b",
+    "updated_at": "2026-10-30T17:23:15Z",
+    "hash": "4b257dd25bad3117f2efc5a719c79714dcefb963d162f615c1a77befc7980d29",
     "file": "articles/troubleshooting/optisigns-player-software/360051745633-how-to-set-up-an-instagram-business-creator-account.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
-    "openai_file_id": "file-71PMuM4oStjB96LwRYV3go"
+    "openai_file_id": "file-P3dgKeLNDrXhvUtQkDCAvh"
   },
   "360050602413": {
     "id": 360050602413,
@@ -2591,17 +2605,17 @@
   },
   "360047275934": {
     "id": 360047275934,
-    "title": "Whitelist OptiSigns IP addresses & ports",
+    "title": "Whitelist OptiSigns IP Addresses & Ports",
     "slug": "whitelist-optisigns-ip-addresses-ports",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-17T15:37:11Z",
-    "hash": "8573dda90a6c9211f20da176c3254c39473df1114cee4631c7fa03fa4c781895",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+    "updated_at": "2026-10-30T16:09:57Z",
+    "hash": "30ef6a148b88c9f81d9795cccbd4e355729c9f8ec0341f714b664e0336bf2fe9",
     "file": "articles/troubleshooting/networking/360047275934-whitelist-optisigns-ip-addresses-ports.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Networking",
     "section_slug": "networking",
-    "openai_file_id": "file-KRwN3MsqcJgmkY6j3wooEE"
+    "openai_file_id": "file-R8bHzTFBUdDHjDSkDF1zA8"
   },
   "360047232054": {
     "id": 360047232054,
@@ -3462,14 +3476,14 @@
     "title": "How to Use the Instagram App",
     "slug": "how-to-use-the-instagram-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
-    "updated_at": "2026-10-26T09:15:39Z",
-    "hash": "b9c9182a76e382df129d5c47cbf8717a26b0c849631be967e6e002f87129570a",
+    "updated_at": "2026-10-30T20:24:26Z",
+    "hash": "ecbff80e08be859e6c11039729e90cb53b3771cd7b13b576a7d05a28539ec500",
     "file": "articles/apps-integrations/social-media/360016388733-how-to-use-the-instagram-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Social Media",
     "section_slug": "social-media",
-    "openai_file_id": "file-89wHN6Ksg5Mb4eyGVf1TBX"
+    "openai_file_id": "file-BsFV3jpsqfDSX3igBH4YFa"
   },
   "360016219114": {
     "id": 360016219114,
@@ -5240,14 +5254,14 @@
     "title": "How to Use YouTube with OptiSigns",
     "slug": "how-to-use-youtube-with-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-10-26T13:22:13Z",
-    "hash": "73622c6279501010981b25bf264699647b2e90797102e27c9095ef4fcc830189",
+    "updated_at": "2026-10-30T20:44:00Z",
+    "hash": "1df6c9f7955a9cc39007ff26f189bdc2b48fa03ee18285843b95d44335759023",
     "file": "articles/apps-integrations/youtube-other-video-platforms/360051014713-how-to-use-youtube-with-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Youtube & Other Video Platforms",
     "section_slug": "youtube-other-video-platforms",
-    "openai_file_id": "file-QJpaKEDG2Z5nMYdaAknC3w"
+    "openai_file_id": "file-QNtejj9encVAzofC6whcmy"
   },
   "360049875794": {
     "id": 360049875794,
