@@ -1642,14 +1642,14 @@
     "title": "Data Residency and OptiSigns",
     "slug": "data-residency-and-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-09-10T09:48:42Z",
-    "hash": "1e15ac140d25970a0ec3ecdf1e3045ec4d54ed2a81abca4c710d7ec70ca2f289",
+    "updated_at": "2026-11-02T17:03:51Z",
+    "hash": "7aa826450161da38ecf865e30c40f3ca09d83e8e72c2acef691aab208bb61f42",
     "file": "articles/accounts-security/security-teams/9169378546195-data-residency-and-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Security & Teams",
     "section_slug": "security-teams",
-    "openai_file_id": "file-HdJipWY1ZLoM6rdrsn7Aqy"
+    "openai_file_id": "file-MqhiZczbeyKwy9ndt3CLsD"
   },
   "9061950942995": {
     "id": 9061950942995,
@@ -3308,7 +3308,7 @@
     "title": "How to Contact OptiSigns Support",
     "slug": "how-to-contact-optisigns-support",
     "url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-    "updated_at": "2026-09-10T10:46:17Z",
+    "updated_at": "2026-11-02T19:05:18Z",
     "hash": "219614fbc8829343e5babbca49bdd1935c30dd153e74fd89af2dd17f5366e697",
     "file": "articles/welcome-to-optisigns/getting-started/35626165056787-how-to-contact-optisigns-support.md",
     "category": "Welcome to OptiSigns",
