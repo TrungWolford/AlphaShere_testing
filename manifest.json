@@ -13,20 +13,6 @@
     "section_slug": "enterprise-app-api-integrations",
     "openai_file_id": "file-5JPXQUWf1G22DZxe9ywR7S"
   },
-  "56946344474003": {
-    "id": 56946344474003,
-    "title": "LG webOS Smart TVs (Consumer Grade)",
-    "slug": "lg-webos-smart-tvs-consumer-grade",
-    "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
-    "updated_at": "2026-10-29T16:54:08Z",
-    "hash": "3f5474bbe85d40bfb9d0324691600b8edbc5a4dff6ad4f1d09a5b3eee4c1e84d",
-    "file": "articles/setup-screens/more-ways-to-run-optisigns-players/56946344474003-lg-webos-smart-tvs-consumer-grade.md",
-    "category": "Setup Screens",
-    "category_slug": "setup-screens",
-    "section": "More ways to run OptiSigns Players",
-    "section_slug": "more-ways-to-run-optisigns-players",
-    "openai_file_id": "file-NfjSkuBYhwtqmLv2iyWS9L"
-  },
   "56498391179667": {
     "id": 56498391179667,
     "title": "How to Use the Eventbrite Events App",
@@ -1399,20 +1385,6 @@
     "section_slug": "getting-started",
     "openai_file_id": "file-R6HMo34uRV1ctSg8qJdxhm"
   },
-  "18470994953363": {
-    "id": 18470994953363,
-    "title": "How to keep OptiSigns running on Fire Stick",
-    "slug": "how-to-keep-optisigns-running-on-fire-stick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick",
-    "updated_at": "2026-09-10T09:49:53Z",
-    "hash": "39ab547b96f36c50c21b65a99f2e115c4980ee127dfa5ac86c4cc2ef622858e4",
-    "file": "articles/troubleshooting/fire-tv/18470994953363-how-to-keep-optisigns-running-on-fire-stick.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-9ep8f4RV1bRgKvsYRh9QpZ"
-  },
   "18399492388371": {
     "id": 18399492388371,
     "title": "How to Customize the Thumbnail of Files, Assets, and Folders",
@@ -2225,20 +2197,6 @@
     "section_slug": "security-teams",
     "openai_file_id": "file-HWKdKxp9NaZdkgERU29kHw"
   },
-  "1500000941981": {
-    "id": 1500000941981,
-    "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
-    "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick",
-    "updated_at": "2026-09-10T09:45:19Z",
-    "hash": "e0c7e89104a5307cfacd8539955fa1c05bc9c86c704eccf0296131e38b1596d4",
-    "file": "articles/troubleshooting/fire-tv/1500000941981-how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-FhpEcvrP9fz9et68mxcagb"
-  },
   "360059386254": {
     "id": 360059386254,
     "title": "How to Use the YouTube Playlist App with OptiSigns",
@@ -2407,20 +2365,6 @@
     "section_slug": "device-management",
     "openai_file_id": "file-SWDHNSVj5XSjb7umeq6tWA"
   },
-  "360055328454": {
-    "id": 360055328454,
-    "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
-    "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
-    "updated_at": "2026-09-10T09:44:02Z",
-    "hash": "57dd4f8c6d85cb9d7a5345f18e912d2bccfcc36228790e8673d0d61ee11994e6",
-    "file": "articles/troubleshooting/fire-tv/360055328454-how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-Fq2AFHpWXbpmDMkfDuR6UY"
-  },
   "360057146573": {
     "id": 360057146573,
     "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
@@ -2434,20 +2378,6 @@
     "section": "Raspberry Pi / Linux",
     "section_slug": "raspberry-pi-linux",
     "openai_file_id": "file-BayfHEsBsdqMwGnR7RCHk3"
-  },
-  "360055080914": {
-    "id": 360055080914,
-    "title": "How to Use USB HUB Adaptor Connect to Your Fire Stick",
-    "slug": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick",
-    "updated_at": "2026-09-10T09:44:01Z",
-    "hash": "856c63ca7e92107a9fa579e607b8e1c953162f51163d1320e2227e73b650d583",
-    "file": "articles/troubleshooting/fire-tv/360055080914-how-to-use-usb-hub-adaptor-connect-to-your-fire-stick.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-6NXi9uAeoDmDjwGFSLUrUM"
   },
   "360056655633": {
     "id": 360056655633,
@@ -2490,76 +2420,6 @@
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
     "openai_file_id": "file-8w4Ag9CsmshWJcrRqFZ4th"
-  },
-  "360054298754": {
-    "id": 360054298754,
-    "title": "How to Factory Reset Your Fire Stick device ",
-    "slug": "how-to-factory-reset-your-fire-stick-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-    "updated_at": "2026-09-10T09:43:55Z",
-    "hash": "28a7fefe1a3a6184b2e8a0709ea294cdcb768221a8599b3704bd8542e6996915",
-    "file": "articles/troubleshooting/fire-tv/360054298754-how-to-factory-reset-your-fire-stick-device.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-4whVJezudXot6wNnUr9QPG"
-  },
-  "360056087613": {
-    "id": 360056087613,
-    "title": "How to Clear Cache on Your Fire Stick device",
-    "slug": "how-to-clear-cache-on-your-fire-stick-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
-    "updated_at": "2026-09-10T09:44:22Z",
-    "hash": "c06403560a9216fddfefe7286ce02a256c98358abae7a9ef7d197c5c257418c0",
-    "file": "articles/troubleshooting/fire-tv/360056087613-how-to-clear-cache-on-your-fire-stick-device.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-GyP1bApzdwAfBqthtGk7G4"
-  },
-  "360056086653": {
-    "id": 360056086653,
-    "title": "How to Change Time Zone on Your Fire Stick device",
-    "slug": "how-to-change-time-zone-on-your-fire-stick-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "updated_at": "2026-11-01T14:18:06Z",
-    "hash": "3abc1c038d920d9efeb61ea03530b617e43f86cf1bc679b5dd19b48ec439e1e2",
-    "file": "articles/troubleshooting/fire-tv/360056086653-how-to-change-time-zone-on-your-fire-stick-device.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-DeQX1Uyg7afpJNmiQB3eGP"
-  },
-  "360053198573": {
-    "id": 360053198573,
-    "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
-    "slug": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device",
-    "updated_at": "2026-09-10T09:43:43Z",
-    "hash": "f9e6d355a226fe57993f5c0bd41602869f7de879b27361bd429a2fe8104d49e8",
-    "file": "articles/troubleshooting/fire-tv/360053198573-how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-3pYXY7E8Xc9Jt4RtskSziK"
-  },
-  "360052361293": {
-    "id": 360052361293,
-    "title": "How to Update Fire TV OS to latest version",
-    "slug": "how-to-update-fire-tv-os-to-latest-version",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-    "updated_at": "2026-09-10T09:43:37Z",
-    "hash": "9dca664f609163d5bba9cc200fc1da7cdc12f713d142fd88b489843697359723",
-    "file": "articles/troubleshooting/fire-tv/360052361293-how-to-update-fire-tv-os-to-latest-version.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-RWD1Ss5yfcTTvWBwXNyMqG"
   },
   "360051745633": {
     "id": 360051745633,
@@ -2860,7 +2720,7 @@
     "title": "Working with Teams and Security Levels",
     "slug": "working-with-teams-and-security-levels",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-    "updated_at": "2026-10-13T01:44:24Z",
+    "updated_at": "2026-11-03T15:01:24Z",
     "hash": "6e4e9b2e73a4399ed2ef533397ea6d9c0e82f653d9c82edffe82214be69d6ab9",
     "file": "articles/accounts-security/security-teams/360034883113-working-with-teams-and-security-levels.md",
     "category": "Accounts & Security",
@@ -2980,20 +2840,6 @@
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
     "openai_file_id": "file-NeZJi3KTLj2q4WF8eqoq9d"
-  },
-  "360016313754": {
-    "id": 360016313754,
-    "title": "How to Install an APK file on your Fire TV",
-    "slug": "how-to-install-an-apk-file-on-your-fire-tv",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-10-09T06:17:18Z",
-    "hash": "ee484b35ea4bbfa1d5eebdb77d1772a1cf9690012ee88d620f746fa41c457504",
-    "file": "articles/troubleshooting/fire-tv/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-BMTR8xn6q6pRN36zunYwbx"
   },
   "360016252654": {
     "id": 360016252654,
@@ -3443,34 +3289,6 @@
     "section_slug": "use-your-players",
     "openai_file_id": "file-X91Ck6hUPzKU7eDEbeNJAV"
   },
-  "360016833514": {
-    "id": 360016833514,
-    "title": "Changing screen's orientation (portrait & landscape)",
-    "slug": "changing-screen-s-orientation-portrait-landscape",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-    "updated_at": "2026-09-17T04:18:56Z",
-    "hash": "194394eaa62c8ab53e8bde2561db300bb12f238f4ad80c22b9c1e4f9a96b1a0a",
-    "file": "articles/essential-use-cases/essential-use-cases/360016833514-changing-screen-s-orientation-portrait-landscape.md",
-    "category": "Essential Use Cases",
-    "category_slug": "essential-use-cases",
-    "section": "Essential Use Cases",
-    "section_slug": "essential-use-cases",
-    "openai_file_id": "file-2vjkBfC2WPh5ExghKRbg9r"
-  },
-  "360016485633": {
-    "id": 360016485633,
-    "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
-    "slug": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV",
-    "updated_at": "2026-09-10T09:40:05Z",
-    "hash": "2a151955c4ca6f46e59b0cdeab7b8aa370ddbb56754de9f3ff0fc2d36fce2d5b",
-    "file": "articles/troubleshooting/fire-tv/360016485633-how-can-i-remotely-start-restart-optisigns-app-on-fire-tv.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Fire TV",
-    "section_slug": "fire-tv",
-    "openai_file_id": "file-1df27JikdKFKDJ3AhRmwkb"
-  },
   "360016388733": {
     "id": 360016388733,
     "title": "How to Use the Instagram App",
@@ -3837,17 +3655,17 @@
   },
   "360016374813": {
     "id": 360016374813,
-    "title": "Set up & add a screen",
-    "slug": "set-up-add-a-screen",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen",
-    "updated_at": "2025-09-04T16:14:45Z",
-    "hash": "788e6d7e2d9a68b4d3468b843f92df0f4fa2d3a729b8862c475c42cf07ffd11c",
-    "file": "articles/how-to-faqs/how-to-use-apps/360016374813-set-up-add-a-screen.md",
+    "title": "Set Up, Add, or Unpair a Screen",
+    "slug": "set-up-add-or-unpair-a-screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen",
+    "updated_at": "2026-11-04T18:12:14Z",
+    "hash": "49925359588f914f1bc20eb9eceeea834c4d37faeec1aa13e38713048d646638",
+    "file": "articles/how-to-faqs/how-to-use-apps/360016374813-set-up-add-or-unpair-a-screen.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "How To Use Apps",
     "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-JdNd9KndAP8hHQeLVj1EPD"
+    "openai_file_id": "file-5foizVyLTJBYuAiRKMxQWW"
   },
   "46299245284243": {
     "id": 46299245284243,
@@ -3960,20 +3778,6 @@
     "section": "More ways to run OptiSigns Players",
     "section_slug": "more-ways-to-run-optisigns-players",
     "openai_file_id": "file-Q677KvJ9nvHQ4VN5q5uLFy"
-  },
-  "360058700673": {
-    "id": 360058700673,
-    "title": "How to unpair a device, screen?",
-    "slug": "how-to-unpair-a-device-screen",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen",
-    "updated_at": "2026-09-10T09:44:43Z",
-    "hash": "29919b55cfdc8bd7945f21cfa454c33ec4e38d8418461b54834de26aac5d0c09",
-    "file": "articles/how-to-faqs/how-to-use-apps/360058700673-how-to-unpair-a-device-screen.md",
-    "category": "How-to / FAQs",
-    "category_slug": "how-to-faqs",
-    "section": "How To Use Apps",
-    "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-Qcnr3LzLLdHgLwbzFY3Ms4"
   },
   "360042424294": {
     "id": 360042424294,
@@ -4089,17 +3893,17 @@
   },
   "360016174554": {
     "id": 360016174554,
-    "title": "Amazon Firestick",
-    "slug": "amazon-firestick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
-    "updated_at": "2026-09-10T09:39:18Z",
-    "hash": "5289c015dbd0719d2235c8831243ecf598622ee5aae74a977023b6c36d0ecba5",
-    "file": "articles/setup-screens/use-your-players/360016174554-amazon-firestick.md",
+    "title": "How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks",
+    "slug": "how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+    "updated_at": "2026-11-04T17:44:59Z",
+    "hash": "8a976ed893d57984952f4275c7332ed934189045cc935edd7add3c6181551c0b",
+    "file": "articles/setup-screens/use-your-players/360016174554-how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-GSEwt3oibNiBVBfEsiTVmM"
+    "openai_file_id": "file-P5H2ZFpapwUU9b3VB7LX8U"
   },
   "44650391786131": {
     "id": 44650391786131,
@@ -4470,7 +4274,7 @@
     "title": "LG WebOS Signage (Commercial Grade)",
     "slug": "lg-webos-signage-commercial-grade",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-    "updated_at": "2026-10-29T16:49:32Z",
+    "updated_at": "2026-11-04T17:16:40Z",
     "hash": "73fbb34a89d086a4b56c27a076e2921d08bfc5b2bd9163808851193e2298ea8e",
     "file": "articles/setup-screens/use-your-players/4414496579475-lg-webos-signage-commercial-grade.md",
     "category": "Setup Screens",
