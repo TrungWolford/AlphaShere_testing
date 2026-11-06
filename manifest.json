@@ -1805,20 +1805,6 @@
     "section_slug": "collaboration-productivity-apps",
     "openai_file_id": "file-WVht2CNzP954y9cL1MRz7A"
   },
-  "4408658251027": {
-    "id": 4408658251027,
-    "title": "How to use Remote Command Execution - Windows/Linux",
-    "slug": "how-to-use-remote-command-execution-windows-linux",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-    "updated_at": "2026-08-18T09:38:04Z",
-    "hash": "35477b26f4061265684253a0d07fc6bcde43f6dcebff6ba8028f28f2c8afba35",
-    "file": "articles/advanced-features/device-management/4408658251027-how-to-use-remote-command-execution-windows-linux.md",
-    "category": "Advanced Features",
-    "category_slug": "advanced-features",
-    "section": "Device Management",
-    "section_slug": "device-management",
-    "openai_file_id": "file-TZD4RibGW54fLY9cfVu2RU"
-  },
   "4408052029587": {
     "id": 4408052029587,
     "title": "How to Use Weather Apps Based on Device Location",
@@ -1863,17 +1849,17 @@
   },
   "4407386819731": {
     "id": 4407386819731,
-    "title": "How to set up SAML 2.0 with OptiSigns and OneLogin",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and OneLogin",
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin",
-    "updated_at": "2025-09-04T13:48:07Z",
-    "hash": "f7a4666f869e4fdcbafe345c672422d2b572ddcf7c4cb87a9693f8e3e1ccf34a",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+    "updated_at": "2026-11-05T16:05:04Z",
+    "hash": "c2a04fc0eb1af05a6436066be1471caf741f1f7a4bb876c7b96a74da1a230903",
     "file": "articles/accounts-security/sso-saml/4407386819731-how-to-set-up-saml-2-0-with-optisigns-and-onelogin.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "SSO & SAML",
     "section_slug": "sso-saml",
-    "openai_file_id": "file-MfwTKQybJuvhQteYscvtMs"
+    "openai_file_id": "file-KhBrDzwo4kmP1FMq99NgUT"
   },
   "4407252213395": {
     "id": 4407252213395,
@@ -2356,14 +2342,14 @@
     "title": "Remotely Control and Command OptiSigns Devices",
     "slug": "remotely-control-and-command-optisigns-devices",
     "url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
-    "updated_at": "2025-09-24T18:58:23Z",
-    "hash": "8c55bafecda4eb19cee14242eb6f794ed2b98c1b5600ae302996e68201b77b0a",
+    "updated_at": "2026-11-05T22:33:29Z",
+    "hash": "8877d2576e260a1325e760cf0b11e8c04ee5839ce5ab6acb8b202127156220c6",
     "file": "articles/advanced-features/device-management/360055486554-remotely-control-and-command-optisigns-devices.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Device Management",
     "section_slug": "device-management",
-    "openai_file_id": "file-SWDHNSVj5XSjb7umeq6tWA"
+    "openai_file_id": "file-PN911TRanjYZufs3msMg3X"
   },
   "360057146573": {
     "id": 360057146573,
@@ -2605,17 +2591,17 @@
   },
   "360041587014": {
     "id": 360041587014,
-    "title": "How to change Billing information",
-    "slug": "how-to-change-billing-information",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-change-Billing-information",
-    "updated_at": "2026-09-10T09:41:53Z",
-    "hash": "5c84f194ddafb0b6c039bddf2effc431842721e2813b3676bdefe4151dabfe6d",
-    "file": "articles/accounts-security/billing-account-management/360041587014-how-to-change-billing-information.md",
+    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts",
+    "slug": "how-to-change-your-billing-information-view-billing-history-and-download-receipts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+    "updated_at": "2026-11-05T16:12:55Z",
+    "hash": "22e6ea0ac35010f36d4c1e788905b82b844156fb346d413db34a0f03070b20ad",
+    "file": "articles/accounts-security/billing-account-management/360041587014-how-to-change-your-billing-information-view-billing-history-and-download-receipts.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-XxDfbCQA5Z2G5oEQjrYm8x"
+    "openai_file_id": "file-G8owqiB6hcAYE88uNUDH5o"
   },
   "360041570153": {
     "id": 360041570153,
@@ -2661,17 +2647,17 @@
   },
   "360038992973": {
     "id": 360038992973,
-    "title": "Video codec or video playback issues",
-    "slug": "video-codec-or-video-playback-issues",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
-    "updated_at": "2026-10-19T13:04:32Z",
-    "hash": "d3a34a4e851ff37acaad66caf956be6bb02edac4f0e8027c7396a3861583cd0b",
-    "file": "articles/troubleshooting/video-playback-resolutions/360038992973-video-codec-or-video-playback-issues.md",
+    "title": "Video Codec or Video Playback Issues and How to Re-encode Videos",
+    "slug": "video-codec-or-video-playback-issues-and-how-to-re-encode-videos",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+    "updated_at": "2026-11-05T22:37:38Z",
+    "hash": "aa59c85fe75217b9b2e540a5e90f99eac4877d756e8f709fa38cdcd917b73238",
+    "file": "articles/troubleshooting/video-playback-resolutions/360038992973-video-codec-or-video-playback-issues-and-how-to-re-encode-videos.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "Video Playback & Resolutions",
     "section_slug": "video-playback-resolutions",
-    "openai_file_id": "file-TS8SNT7yJeHTe4HNZ9PrFh"
+    "openai_file_id": "file-JF9iP9RAJJs2YbMCUJGZmP"
   },
   "360037416494": {
     "id": 360037416494,
@@ -3022,20 +3008,6 @@
     "section": "OptiSigns API",
     "section_slug": "optisigns-api",
     "openai_file_id": "file-5hNJTop4fv8UfS6AzuQVCm"
-  },
-  "360054557434": {
-    "id": 360054557434,
-    "title": "View Billing History and Download Receipts",
-    "slug": "view-billing-history-and-download-receipts",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
-    "updated_at": "2026-09-10T09:43:59Z",
-    "hash": "f2beb6536195894b3af43a296fd6a93fa39ca1400fc99048b09113d773c70bf3",
-    "file": "articles/accounts-security/billing-account-management/360054557434-view-billing-history-and-download-receipts.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-Q3W4Qc4LvXtq4YGm2LZNUT"
   },
   "360050855313": {
     "id": 360050855313,
@@ -3569,20 +3541,6 @@
     "section_slug": "data-mapping-automation",
     "openai_file_id": "file-3vcAP4wfMXGyxqsBpfhQYT"
   },
-  "14557706459283": {
-    "id": 14557706459283,
-    "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on",
-    "slug": "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on",
-    "updated_at": "2026-09-10T09:49:15Z",
-    "hash": "044fa59f8be31d91ea0e1d0e4854e32248f9b2b068253e008a3e0d6345f3a787",
-    "file": "articles/wireless-presentation-conferences/wireless-presentation-conferences/14557706459283-present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on.md",
-    "category": "Wireless Presentation & Conferences",
-    "category_slug": "wireless-presentation-conferences",
-    "section": "Wireless Presentation & Conferences",
-    "section_slug": "wireless-presentation-conferences",
-    "openai_file_id": "file-G2btKovzaJsSo5iaAxwg4e"
-  },
   "4414558295955": {
     "id": 4414558295955,
     "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
@@ -3865,17 +3823,17 @@
   },
   "14502378549907": {
     "id": 14502378549907,
-    "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
-    "slug": "present-share-your-screen-with-optisigns-aericast-add-on",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on",
-    "updated_at": "2026-09-10T09:49:14Z",
-    "hash": "96ae0f09ba68cc85c4e8d7822616a226a756b5b578e1ecdc9a65810a98b728e6",
-    "file": "articles/wireless-presentation-conferences/wireless-presentation-conferences/14502378549907-present-share-your-screen-with-optisigns-aericast-add-on.md",
+    "title": "Present or Share Your Screen with OptiSigns and the AeriCast Add-on",
+    "slug": "present-or-share-your-screen-with-optisigns-and-the-aericast-add-on",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+    "updated_at": "2026-11-05T17:28:46Z",
+    "hash": "2007571f3323ebd37ad510a5a6a799a47b2569f5fa3e7796f94873ffbb1fdf34",
+    "file": "articles/wireless-presentation-conferences/wireless-presentation-conferences/14502378549907-present-or-share-your-screen-with-optisigns-and-the-aericast-add-on.md",
     "category": "Wireless Presentation & Conferences",
     "category_slug": "wireless-presentation-conferences",
     "section": "Wireless Presentation & Conferences",
     "section_slug": "wireless-presentation-conferences",
-    "openai_file_id": "file-2ivTGr6yjchZndaMRvi26q"
+    "openai_file_id": "file-Rn5c16mAmf2qZwngitBXXk"
   },
   "4404608957075": {
     "id": 4404608957075,
@@ -4243,17 +4201,17 @@
   },
   "12498801963027": {
     "id": 12498801963027,
-    "title": "Show Offline Indicator feature",
+    "title": "Show Offline Indicator Feature",
     "slug": "show-offline-indicator-feature",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-    "updated_at": "2026-09-07T11:26:19Z",
-    "hash": "9eccec8f3fc327b78133d70c542c473bd89c8b6be6ab44c79f971f40f6c2ab73",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature",
+    "updated_at": "2026-11-05T22:21:11Z",
+    "hash": "22141ff0336aa6fde1bb9fa07847b5d6a8e5b43cc63a6ff43683502acca35fce",
     "file": "articles/how-to-faqs/how-to-use-apps/12498801963027-show-offline-indicator-feature.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "How To Use Apps",
     "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-TczCUj9wbbac9kG3DMMGwd"
+    "openai_file_id": "file-1E8U5AU8pU8hwZbe1Hd6Ru"
   },
   "10259143299219": {
     "id": 10259143299219,
@@ -4296,20 +4254,6 @@
     "section": "Others",
     "section_slug": "others",
     "openai_file_id": "file-Ct6A9YqySENfv2qdb3pzKP"
-  },
-  "12947820509971": {
-    "id": 12947820509971,
-    "title": "Show/Hide Offline Indicator on your Player",
-    "slug": "show-hide-offline-indicator-on-your-player",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player",
-    "updated_at": "2026-09-10T08:01:07Z",
-    "hash": "e2cadaec18a51199b846be3267a26108f74f74208e33637133d4463431f0e8ce",
-    "file": "articles/how-to-faqs/how-to-use-apps/12947820509971-show-hide-offline-indicator-on-your-player.md",
-    "category": "How-to / FAQs",
-    "category_slug": "how-to-faqs",
-    "section": "How To Use Apps",
-    "section_slug": "how-to-use-apps",
-    "openai_file_id": "file-Eu8NzPSghKFBcdpNzApaBN"
   },
   "9392587446675": {
     "id": 9392587446675,
@@ -4411,31 +4355,17 @@
   },
   "8098889840531": {
     "id": 8098889840531,
-    "title": "How to use RTSP Streams on OptiSigns Devices",
+    "title": "How to Use RTSP Streams on OptiSigns Devices",
     "slug": "how-to-use-rtsp-streams-on-optisigns-devices",
-    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices",
-    "updated_at": "2026-09-10T09:48:33Z",
-    "hash": "9d83e8f7e092bdfdf8ac61afb4b550d035e9838d651eaeaa003bc2fa88932ff3",
+    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+    "updated_at": "2026-11-05T22:28:24Z",
+    "hash": "0664b8978c200f9a7f9cccf5adce987c9af60ef1c2fa46931fe0bf763141539e",
     "file": "articles/how-to-faqs/advanced-topics/8098889840531-how-to-use-rtsp-streams-on-optisigns-devices.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Advanced Topics",
     "section_slug": "advanced-topics",
-    "openai_file_id": "file-EV38kRoPqrrdSkWZ1pjK9x"
-  },
-  "8066591235603": {
-    "id": 8066591235603,
-    "title": "How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns ",
-    "slug": "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns",
-    "updated_at": "2026-09-10T09:48:28Z",
-    "hash": "79bc42a6f559c8186eec2ee82fed82b4eaaeedb4106b386a9a34e12166918478",
-    "file": "articles/how-to-faqs/advanced-topics/8066591235603-how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns.md",
-    "category": "How-to / FAQs",
-    "category_slug": "how-to-faqs",
-    "section": "Advanced Topics",
-    "section_slug": "advanced-topics",
-    "openai_file_id": "file-RGaqG8Rd7mVrvK9SNCipdF"
+    "openai_file_id": "file-7Qp2etdNNS86NuiJYWUzbK"
   },
   "6757989639827": {
     "id": 6757989639827,
@@ -4985,17 +4915,17 @@
   },
   "360052513253": {
     "id": 360052513253,
-    "title": "How to use Emergency Message/Alert App",
-    "slug": "how-to-use-emergency-message-alert-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-use-Emergency-Message-Alert-App",
-    "updated_at": "2025-09-04T20:02:00Z",
-    "hash": "f70d59cc870ea5e1a923b982dcb139e42ab1827258f4b3264ba7f2a417520b39",
-    "file": "articles/apps-integrations/emergency-alert-apps/360052513253-how-to-use-emergency-message-alert-app.md",
+    "title": "How to Use the Emergency Message/Alert App",
+    "slug": "how-to-use-the-emergency-message-alert-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+    "updated_at": "2026-11-05T21:58:11Z",
+    "hash": "1a50987bcb3a480a35cb2c294c5064f505ead35f204fe8f07cfd3ee83c087035",
+    "file": "articles/apps-integrations/emergency-alert-apps/360052513253-how-to-use-the-emergency-message-alert-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Emergency Alert Apps",
     "section_slug": "emergency-alert-apps",
-    "openai_file_id": "file-YTyttPsN6GcVJgQfmARjAV"
+    "openai_file_id": "file-9e6NgxcJGKzHZ4zthx7R4M"
   },
   "360052088413": {
     "id": 360052088413,
