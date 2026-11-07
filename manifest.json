@@ -928,7 +928,7 @@
     "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
     "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
     "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "updated_at": "2026-09-11T20:59:10Z",
+    "updated_at": "2026-11-06T15:07:59Z",
     "hash": "34f721b2c526c88d0ce7b88e1b749c297ca243edc6d657915b38a9d9d308b34f",
     "file": "articles/troubleshooting/screens-management/28598173096723-how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
     "category": "Troubleshooting",
@@ -2561,20 +2561,6 @@
     "section_slug": "schedule",
     "openai_file_id": "file-Q8hKQ5XCszgZMrnosGGrFD"
   },
-  "360042143753": {
-    "id": 360042143753,
-    "title": "How to re-encode video files for better compatibility on your devices",
-    "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
-    "updated_at": "2026-09-10T09:41:59Z",
-    "hash": "c661b2ae782fd6a8f2945e18147e5c6fcaa4cb014215e609028d808986c54a4d",
-    "file": "articles/troubleshooting/video-playback-resolutions/360042143753-how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "Video Playback & Resolutions",
-    "section_slug": "video-playback-resolutions",
-    "openai_file_id": "file-RkAUhNdYXfrduzicuv59dX"
-  },
   "360042143333": {
     "id": 360042143333,
     "title": "Roku Release Notes & Limitation",
@@ -2605,17 +2591,17 @@
   },
   "360041570153": {
     "id": 360041570153,
-    "title": "My image, content are bleeding off the screens with Windows, Linux, Mac, Raspberry Pi app (need screen calibration)",
-    "slug": "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-My-image-content-are-bleeding-off-the-screens-with-Windows-Linux-Mac-Raspberry-Pi-app-need-screen-calibration",
-    "updated_at": "2026-09-10T08:00:40Z",
-    "hash": "8bb87180c40c1567b37ca83c928d9a8abed6294ad78238fa2dde39670677dea4",
-    "file": "articles/troubleshooting/optisigns-player-software/360041570153-my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration.md",
+    "title": "Screen Calibration: Fix Content Bleeding off the Screen",
+    "slug": "screen-calibration-fix-content-bleeding-off-the-screen",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+    "updated_at": "2026-11-06T20:25:31Z",
+    "hash": "48e14f143ccbfb12ebf44c767dd2cae735c373a74461ead1d938a5873f029b39",
+    "file": "articles/troubleshooting/optisigns-player-software/360041570153-screen-calibration-fix-content-bleeding-off-the-screen.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Player Software",
     "section_slug": "optisigns-player-software",
-    "openai_file_id": "file-4nYY6thyZDAECRwQDJHfg4"
+    "openai_file_id": "file-9ZMcFFg7wRjBpeuCLDk66K"
   },
   "360040943374": {
     "id": 360040943374,
@@ -2941,17 +2927,17 @@
   },
   "28026588373139": {
     "id": 28026588373139,
-    "title": "How to Fix The Scaling Issue on OptiSigns Android Device Gen 3",
-    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3",
-    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3",
-    "updated_at": "2026-09-10T09:50:58Z",
-    "hash": "ce2def987e801966446e84e3d120ba3cb2203842d853b96293e60b70c9b8fa4d",
-    "file": "articles/troubleshooting/optisigns-players/28026588373139-how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md",
+    "title": "How to Fix the Scaling Issue on OptiSigns Android Devices",
+    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-devices",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+    "updated_at": "2026-11-06T21:29:15Z",
+    "hash": "ac12f89bb8a9a3322e90e224c13964bcb7f06438c6276874d8ed9ee5d87c9542",
+    "file": "articles/troubleshooting/optisigns-players/28026588373139-how-to-fix-the-scaling-issue-on-optisigns-android-devices.md",
     "category": "Troubleshooting",
     "category_slug": "troubleshooting",
     "section": "OptiSigns Players",
     "section_slug": "optisigns-players",
-    "openai_file_id": "file-XLYkNLcsFAU1Zqv5RvRT66"
+    "openai_file_id": "file-5fJVEqkcEdYenJni33ya3W"
   },
   "25607930101907": {
     "id": 25607930101907,
@@ -3331,20 +3317,6 @@
     "section_slug": "datasources-and-repeaters",
     "openai_file_id": "file-JDZVot2KZocvmJu26FfgKb"
   },
-  "27607906766483": {
-    "id": 27607906766483,
-    "title": "How to Fix The Scaling Issue on OptiSigns Android Device",
-    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device",
-    "url": "https://support.optisigns.com/hc/en-us/articles/27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device",
-    "updated_at": "2026-09-10T09:50:53Z",
-    "hash": "5cdcbea65c9caec9bbfb0d026356868a3e7c3fa4cd745d26a15522bd1aff67d8",
-    "file": "articles/troubleshooting/optisigns-players/27607906766483-how-to-fix-the-scaling-issue-on-optisigns-android-device.md",
-    "category": "Troubleshooting",
-    "category_slug": "troubleshooting",
-    "section": "OptiSigns Players",
-    "section_slug": "optisigns-players",
-    "openai_file_id": "file-99VHJtbYcHiQEQ1cxiqJKw"
-  },
   "17129313173395": {
     "id": 17129313173395,
     "title": "How to manage Sub-Account billing with OptiSigns",
@@ -3434,7 +3406,7 @@
     "title": "What hardware and devices are supported?",
     "slug": "what-hardware-and-devices-are-supported",
     "url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-    "updated_at": "2026-10-12T06:20:04Z",
+    "updated_at": "2026-11-06T21:19:25Z",
     "hash": "d14e96ec15aad68e042476755b894d43bdf70418f25099020f592ce34ae2e45d",
     "file": "articles/how-to-faqs/faq/360021855653-what-hardware-and-devices-are-supported.md",
     "category": "How-to / FAQs",
