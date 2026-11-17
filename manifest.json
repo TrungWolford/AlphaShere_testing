@@ -1012,14 +1012,14 @@
     "title": "How to Change Engage/Kiosk Style Preferences",
     "slug": "how-to-change-engage-kiosk-style-preferences",
     "url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
-    "updated_at": "2026-10-26T20:29:11Z",
-    "hash": "2b47615cc0dd02a1bfbdcf1eff8033db8b74b34cd09fa059411692ace6721a50",
-    "file": "articles/accounts-security/billing-account-management/28115946505107-how-to-change-engage-kiosk-style-preferences.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-KW3kdCUvdLbkfCTKYkbE2N"
+    "updated_at": "2026-11-16T19:20:08Z",
+    "hash": "8087c855ebe04dfc663bf92d821259faa416ec7e16a76ab0be807951f1d58af9",
+    "file": "articles/engage-kiosk/engage-overview/28115946505107-how-to-change-engage-kiosk-style-preferences.md",
+    "category": "Engage & Kiosk",
+    "category_slug": "engage-kiosk",
+    "section": "Engage Overview",
+    "section_slug": "engage-overview",
+    "openai_file_id": "file-Dnn9Lz6KMMpM1ykBvYp1tT"
   },
   "27690296225555": {
     "id": 27690296225555,
@@ -1166,14 +1166,14 @@
     "title": "Engage Plan - FAQs",
     "slug": "engage-plan-faqs",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-09-08T04:06:22Z",
-    "hash": "e93f0b502532472e573910df21f95a0edea85fd86bad0bd4bd125db678df12e5",
+    "updated_at": "2026-11-16T19:24:34Z",
+    "hash": "347a8fcfff9ef90f3f986b5d46b02319333d5314daad84907ed2bd867e7db59f",
     "file": "articles/engage-kiosk/engage-overview/23565267463315-engage-plan-faqs.md",
     "category": "Engage & Kiosk",
     "category_slug": "engage-kiosk",
     "section": "Engage Overview",
     "section_slug": "engage-overview",
-    "openai_file_id": "file-HTmnmLwnzQ1kwRDRMaa7ej"
+    "openai_file_id": "file-CsVvb9x3QuaQDtj613mMaR"
   },
   "23274673797139": {
     "id": 23274673797139,
@@ -2199,17 +2199,17 @@
   },
   "1500000493782": {
     "id": 1500000493782,
-    "title": "Billing: How Do I Change my Subscription Plan?",
-    "slug": "billing-how-do-i-change-my-subscription-plan",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "updated_at": "2026-09-28T19:34:27Z",
-    "hash": "5cf8cd828523b0095e875df180fb8af663a01cbf3ddd7b061ef0538198fb5b03",
-    "file": "articles/accounts-security/billing-account-management/1500000493782-billing-how-do-i-change-my-subscription-plan.md",
+    "title": "Billing: Changing Plans or Screen Counts",
+    "slug": "billing-changing-plans-or-screen-counts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+    "updated_at": "2026-11-16T20:25:41Z",
+    "hash": "117f8fe322e2e7c4a35c7a9a40f6b6b94416b771b1c5f82243514afa3d32bfe1",
+    "file": "articles/accounts-security/billing-account-management/1500000493782-billing-changing-plans-or-screen-counts.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-UNkHMKK5YzCKBqihnP2SQc"
+    "openai_file_id": "file-ESNnhWSZY5Qc14H9CGTsR1"
   },
   "1500000485202": {
     "id": 1500000485202,
@@ -2577,17 +2577,17 @@
   },
   "360041587014": {
     "id": 360041587014,
-    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts",
-    "slug": "how-to-change-your-billing-information-view-billing-history-and-download-receipts",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-    "updated_at": "2026-11-05T16:12:55Z",
-    "hash": "22e6ea0ac35010f36d4c1e788905b82b844156fb346d413db34a0f03070b20ad",
-    "file": "articles/accounts-security/billing-account-management/360041587014-how-to-change-your-billing-information-view-billing-history-and-download-receipts.md",
+    "title": "Billing Details, Failed Payments & Receipts",
+    "slug": "billing-details-failed-payments-receipts",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+    "updated_at": "2026-11-16T21:36:09Z",
+    "hash": "69126de5085bc19102c70d654c767411089ea790866121d659807c48a6a3666c",
+    "file": "articles/accounts-security/billing-account-management/360041587014-billing-details-failed-payments-receipts.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-G8owqiB6hcAYE88uNUDH5o"
+    "openai_file_id": "file-N9TMuc1zd1GGm3dGAMgsUr"
   },
   "360041570153": {
     "id": 360041570153,
@@ -3151,17 +3151,17 @@
   },
   "17639078588691": {
     "id": 17639078588691,
-    "title": "How to cancel subscription or pause subscription for Seasonal Use Case",
-    "slug": "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case",
-    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
-    "updated_at": "2026-09-10T09:49:44Z",
-    "hash": "adc8214cda7772d6ee61e22e85225fb1b5a6aaf69320900b9e449859dc05e66a",
-    "file": "articles/accounts-security/billing-account-management/17639078588691-how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md",
+    "title": "Cancel, Pause or Downgrade Your Subscription",
+    "slug": "cancel-pause-or-downgrade-your-subscription",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+    "updated_at": "2026-11-16T22:41:11Z",
+    "hash": "3f467960b5d6d86401ad92d78382b299be1c541adfb64962bcf5a0fcd4f12c75",
+    "file": "articles/accounts-security/billing-account-management/17639078588691-cancel-pause-or-downgrade-your-subscription.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-G33v93LVkdhi4thwqJmhW4"
+    "openai_file_id": "file-EE55GQvxCviQgM2veRSGrk"
   },
   "6636047009427": {
     "id": 6636047009427,
@@ -3260,20 +3260,6 @@
     "section": "Social Media",
     "section_slug": "social-media",
     "openai_file_id": "file-BsFV3jpsqfDSX3igBH4YFa"
-  },
-  "360016219114": {
-    "id": 360016219114,
-    "title": "What if I want to increase, decrease number of screens during the month?",
-    "slug": "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month",
-    "updated_at": "2026-09-10T09:39:22Z",
-    "hash": "1bd8d1b4bcbfea3dcd8618038e8a77e8c521df6f639a5277da3a5f8240e7ff60",
-    "file": "articles/accounts-security/billing-account-management/360016219114-what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-NKfPhQDUEWs9Wi9Q9p2VwA"
   },
   "44652521310099": {
     "id": 44652521310099,
@@ -3686,14 +3672,14 @@
     "title": "How to Change Account Owners",
     "slug": "how-to-change-account-owners",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
-    "updated_at": "2026-09-10T09:46:37Z",
-    "hash": "82fe4b5c53f0e2caae168729316bf054c5aa472b9c394bcc3d89e9f2432585cb",
-    "file": "articles/accounts-security/billing-account-management/4404616314515-how-to-change-account-owners.md",
+    "updated_at": "2026-11-16T19:20:05Z",
+    "hash": "6f01ddf869b3b17341b966d2df00a836a1e69b51279456f9098050ad99da98a2",
+    "file": "articles/accounts-security/security-teams/4404616314515-how-to-change-account-owners.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-PvhhGQAELbB9iy8ws4A3YM"
+    "section": "Security & Teams",
+    "section_slug": "security-teams",
+    "openai_file_id": "file-PiLqALJnEJM6J6K7hANaC2"
   },
   "1500011891542": {
     "id": 1500011891542,
@@ -3812,14 +3798,14 @@
     "title": "How to Delete Your Account from OptiSigns",
     "slug": "how-to-delete-your-account-from-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-09-18T13:52:14Z",
-    "hash": "7e23d06c944b96864a5e56cf9276f156298e34cff321f498d6427e59d6116324",
-    "file": "articles/accounts-security/billing-account-management/4404608957075-how-to-delete-your-account-from-optisigns.md",
+    "updated_at": "2026-11-16T19:20:04Z",
+    "hash": "78a76457bc6ca8e6ac64cc5cd5e1578c0fd41c887e75ba4dc8fef4458c22599a",
+    "file": "articles/accounts-security/security-teams/4404608957075-how-to-delete-your-account-from-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-P5NSCUTsFMeCY1kwwsfBS7"
+    "section": "Security & Teams",
+    "section_slug": "security-teams",
+    "openai_file_id": "file-4o27NXX3ps8uHnmCBvhexR"
   },
   "360016174554": {
     "id": 360016174554,
@@ -3938,14 +3924,14 @@
     "title": "About the OnHold Devices Folder",
     "slug": "about-the-onhold-devices-folder",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-10-25T15:48:03Z",
-    "hash": "a8b603cdd46c74bcf86f3b54fa11f2bf1aaecce4fb9ac68ede89b75a73f7153e",
-    "file": "articles/accounts-security/billing-account-management/1500003244381-about-the-onhold-devices-folder.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-MhkKgdVhuDz4pWd4pDBWdm"
+    "updated_at": "2026-11-16T19:20:06Z",
+    "hash": "92f735c177529fcb393abe1346317c9cf594f80d7a559fc1f243955862f4a71c",
+    "file": "articles/troubleshooting/screens-management/1500003244381-about-the-onhold-devices-folder.md",
+    "category": "Troubleshooting",
+    "category_slug": "troubleshooting",
+    "section": "Screens Management",
+    "section_slug": "screens-management",
+    "openai_file_id": "file-R8rhVzAruHsB8U3zHN8Lvb"
   },
   "360016981853": {
     "id": 360016981853,
@@ -4044,20 +4030,6 @@
     "section": "Fire TV",
     "section_slug": "fire-tv",
     "openai_file_id": "file-JofPEQbRWTxkiEpS83qmvx"
-  },
-  "360016375793": {
-    "id": 360016375793,
-    "title": "Can I have my invoices, receipts sent to a different email address?",
-    "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "updated_at": "2026-10-26T15:43:28Z",
-    "hash": "f3349294b3ccc9abf5a41c11c13fadebfcbab99aec35b928cb0c40bc4aa8c97d",
-    "file": "articles/accounts-security/billing-account-management/360016375793-can-i-have-my-invoices-receipts-sent-to-a-different-email-address.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-7JuBTeMUXsEUNJLMQbCSBX"
   },
   "36558469962643": {
     "id": 36558469962643,
