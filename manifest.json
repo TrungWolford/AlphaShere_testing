@@ -1,4 +1,18 @@
 {
+  "57645638683411": {
+    "id": 57645638683411,
+    "title": "The New Designer: Complete Feature Guide",
+    "slug": "the-new-designer-complete-feature-guide",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
+    "updated_at": "2026-11-17T17:52:09Z",
+    "hash": "f5e785ea541e890ab2b776bbca73a4e9df6ce361c1cd09f3bd94c3e28d568dd4",
+    "file": "articles/designer/designer-features/57645638683411-the-new-designer-complete-feature-guide.md",
+    "category": "Designer",
+    "category_slug": "designer",
+    "section": "Designer Features",
+    "section_slug": "designer-features",
+    "openai_file_id": "file-NodRPVvZkL5pkYXrh9b2Et"
+  },
   "56987330525587": {
     "id": 56987330525587,
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
@@ -1614,14 +1628,14 @@
     "title": "Data Residency and OptiSigns",
     "slug": "data-residency-and-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-11-02T17:03:51Z",
-    "hash": "7aa826450161da38ecf865e30c40f3ca09d83e8e72c2acef691aab208bb61f42",
+    "updated_at": "2026-11-17T16:37:00Z",
+    "hash": "1716d7aa10d9e2c5970ff73198f12eba0c45c8c1594391d2b2347f8e72d35e94",
     "file": "articles/accounts-security/security-teams/9169378546195-data-residency-and-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Security & Teams",
     "section_slug": "security-teams",
-    "openai_file_id": "file-MqhiZczbeyKwy9ndt3CLsD"
+    "openai_file_id": "file-DerStSzvraSQm7cTAMmoaU"
   },
   "9061950942995": {
     "id": 9061950942995,
