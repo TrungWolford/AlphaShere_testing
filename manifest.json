@@ -1,4 +1,18 @@
 {
+  "57688527779219": {
+    "id": 57688527779219,
+    "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
+    "slug": "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector",
+    "updated_at": "2026-11-18T18:22:31Z",
+    "hash": "b9af869cc2c72482cac3b7ae3706cc226016be8e120fb2541040a07a152c83ff",
+    "file": "articles/apps-integrations/others/57688527779219-ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector.md",
+    "category": "Apps & Integrations",
+    "category_slug": "apps-integrations",
+    "section": "Others",
+    "section_slug": "others",
+    "openai_file_id": "file-2PPYnG7qpVt39yYFKiBJyK"
+  },
   "57645638683411": {
     "id": 57645638683411,
     "title": "The New Designer: Complete Feature Guide",
@@ -18,14 +32,14 @@
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
     "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
     "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
-    "updated_at": "2026-10-30T19:28:50Z",
-    "hash": "41b5e6c56deddb6a4951087d1fce4d7b489836749c89d1363abbadeb8ad3345d",
+    "updated_at": "2026-11-18T16:34:19Z",
+    "hash": "26e19abe79269503024ceb6709052fc161c67679ee69865b2cd6500a54254fb1",
     "file": "articles/advanced-features/enterprise-app-api-integrations/56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Enterprise App & API Integrations",
     "section_slug": "enterprise-app-api-integrations",
-    "openai_file_id": "file-5JPXQUWf1G22DZxe9ywR7S"
+    "openai_file_id": "file-KbUbJq9yTNNkpLX4hgh1WK"
   },
   "56498391179667": {
     "id": 56498391179667,
@@ -214,14 +228,14 @@
     "title": "OptiDev Add-on - Free Trial and Pricing",
     "slug": "optidev-add-on-free-trial-and-pricing",
     "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-    "updated_at": "2026-08-05T18:22:19Z",
-    "hash": "36b442d694c1f2d22262108a03bdbadbc285dfa59003a8f0c8f66e527c11e144",
+    "updated_at": "2026-11-18T17:12:24Z",
+    "hash": "32ded38300a19f97a00578247f82cb84988683d2958ea654845036c3e80c4118",
     "file": "articles/advanced-features/advanced-features/54095075680275-optidev-add-on-free-trial-and-pricing.md",
     "category": "Advanced Features",
     "category_slug": "advanced-features",
     "section": "Advanced Features",
     "section_slug": "advanced-features",
-    "openai_file_id": "file-CFckQTroeH1xdB56W5YvN2"
+    "openai_file_id": "file-KUkp7mpBSixUXppgWkcvyB"
   },
   "53952018650515": {
     "id": 53952018650515,
@@ -715,17 +729,17 @@
   },
   "34379983350163": {
     "id": 34379983350163,
-    "title": "Accepted Payment Methods",
-    "slug": "accepted-payment-methods",
-    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-    "updated_at": "2025-09-04T15:39:32Z",
-    "hash": "3ecb11f59df3ec4f9eabd5b4ede6ed3a459d1d37e4dbec91dcc03117173bfe0a",
-    "file": "articles/how-to-faqs/others/34379983350163-accepted-payment-methods.md",
+    "title": "Accepted Payment Methods and Currencies",
+    "slug": "accepted-payment-methods-and-currencies",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
+    "updated_at": "2026-11-18T22:42:56Z",
+    "hash": "77ce56fdd9b25631aa733179d1648c4e8fcfcc721afbf2c8679be09827ccabc4",
+    "file": "articles/how-to-faqs/others/34379983350163-accepted-payment-methods-and-currencies.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "Others",
     "section_slug": "others",
-    "openai_file_id": "file-RRMgcxFy5fREz2iP2KFRx3"
+    "openai_file_id": "file-AkrNLufYLiMdR9aFKoDrdc"
   },
   "33940834613139": {
     "id": 33940834613139,
@@ -2216,7 +2230,7 @@
     "title": "Billing: Changing Plans or Screen Counts",
     "slug": "billing-changing-plans-or-screen-counts",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-    "updated_at": "2026-11-16T20:25:41Z",
+    "updated_at": "2026-11-18T20:23:17Z",
     "hash": "117f8fe322e2e7c4a35c7a9a40f6b6b94416b771b1c5f82243514afa3d32bfe1",
     "file": "articles/accounts-security/billing-account-management/1500000493782-billing-changing-plans-or-screen-counts.md",
     "category": "Accounts & Security",
@@ -2594,14 +2608,14 @@
     "title": "Billing Details, Failed Payments & Receipts",
     "slug": "billing-details-failed-payments-receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-    "updated_at": "2026-11-16T21:36:09Z",
-    "hash": "69126de5085bc19102c70d654c767411089ea790866121d659807c48a6a3666c",
+    "updated_at": "2026-11-18T22:06:47Z",
+    "hash": "748296ca10d74f384360933dfa051361e430de808404809153ad407f64542364",
     "file": "articles/accounts-security/billing-account-management/360041587014-billing-details-failed-payments-receipts.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-N9TMuc1zd1GGm3dGAMgsUr"
+    "openai_file_id": "file-B95fmk3uqmMfZM7ogBisVr"
   },
   "360041570153": {
     "id": 360041570153,
@@ -2664,14 +2678,14 @@
     "title": "How to Use the Jira App",
     "slug": "how-to-use-the-jira-app",
     "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
-    "updated_at": "2026-10-13T21:50:54Z",
-    "hash": "9b77f0fb2f7f9c81c12c9f1efd7cf8edfd05123b1a81615fe348b50680505b33",
+    "updated_at": "2026-11-18T16:23:19Z",
+    "hash": "bc2d264af8f0962877e377b090668adcee1c8c52b1c5268355b4600eddfeb937",
     "file": "articles/apps-integrations/collaboration-productivity-apps/360037416494-how-to-use-the-jira-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Collaboration & Productivity Apps",
     "section_slug": "collaboration-productivity-apps",
-    "openai_file_id": "file-X8CSekwvd54LgUvLifaUUJ"
+    "openai_file_id": "file-NVeB7GAt9GYzAhe7LrWAb9"
   },
   "360037391854": {
     "id": 360037391854,
@@ -4383,17 +4397,17 @@
   },
   "5149077938835": {
     "id": 5149077938835,
-    "title": "How to use Advanced Website App",
-    "slug": "how-to-use-advanced-website-app",
-    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App",
-    "updated_at": "2026-09-10T09:48:08Z",
-    "hash": "3e23356e09d4cad37cf56dd564ad9d2fa92bd1af0a56cc9a596e3b4ab121930c",
-    "file": "articles/apps-integrations/websites-urls/5149077938835-how-to-use-advanced-website-app.md",
+    "title": "How to Use the Advanced Website App",
+    "slug": "how-to-use-the-advanced-website-app",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-Use-the-Advanced-Website-App",
+    "updated_at": "2026-11-18T16:21:38Z",
+    "hash": "afadc4f15641fab19e7f3b8cbb7d0c7146e2096074114b023afcbc5710df2397",
+    "file": "articles/apps-integrations/websites-urls/5149077938835-how-to-use-the-advanced-website-app.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Websites & URLs",
     "section_slug": "websites-urls",
-    "openai_file_id": "file-LXX12RzJmhTckodB6TQmrA"
+    "openai_file_id": "file-ExtukbqUwZAfyEyUEr5Dki"
   },
   "5119724468371": {
     "id": 5119724468371,
@@ -4442,14 +4456,14 @@
     "title": "Displaying SharePoint Sites on OptiSigns",
     "slug": "displaying-sharepoint-sites-on-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-10-01T16:01:20Z",
-    "hash": "cee225af886d5e599d3f0e360b29995056b66d45acf7d09349f1a273da882a0f",
+    "updated_at": "2026-11-18T16:25:43Z",
+    "hash": "5b4dbf503221e4c2dbe1d9154521ff4d8cde1e6d1d07c8b18f145f561b3f242a",
     "file": "articles/apps-integrations/microsoft-apps/4414539282067-displaying-sharepoint-sites-on-optisigns.md",
     "category": "Apps & Integrations",
     "category_slug": "apps-integrations",
     "section": "Microsoft Apps",
     "section_slug": "microsoft-apps",
-    "openai_file_id": "file-Agq2VHmMHViA59BnsE8U49"
+    "openai_file_id": "file-7wzsJ21PV4fR7uNasJNBhJ"
   },
   "4414355658899": {
     "id": 4414355658899,
