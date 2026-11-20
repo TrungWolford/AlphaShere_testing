@@ -1,4 +1,18 @@
 {
+  "57730354923923": {
+    "id": 57730354923923,
+    "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+    "slug": "billing-purchase-orders-invoices-and-tax-exemption",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
+    "updated_at": "2026-11-19T20:27:28Z",
+    "hash": "ebce3ae55685e9aa522e8d51b26f6148e1a436b7914280d7c30bcc754be80e05",
+    "file": "articles/accounts-security/billing-account-management/57730354923923-billing-purchase-orders-invoices-and-tax-exemption.md",
+    "category": "Accounts & Security",
+    "category_slug": "accounts-security",
+    "section": "Billing & Account Management",
+    "section_slug": "billing-account-management",
+    "openai_file_id": "file-VGD7JR97R4m5Nnk4AGmQVS"
+  },
   "57688527779219": {
     "id": 57688527779219,
     "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
@@ -116,14 +130,14 @@
     "title": "Inbound Webhook DataSources in Designer",
     "slug": "inbound-webhook-datasources-in-designer",
     "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
-    "updated_at": "2026-09-24T17:00:10Z",
-    "hash": "196dc6a663918497b5fd7f24616a1e87f6cab4114e57494fa46cbb15f85be352",
+    "updated_at": "2026-11-19T22:38:32Z",
+    "hash": "2c1b2e145c202ac5b077bf346a8181c7abd97916aca1e3377beee256b207703b",
     "file": "articles/designer/datasources-and-repeaters/55719322614803-inbound-webhook-datasources-in-designer.md",
     "category": "Designer",
     "category_slug": "designer",
     "section": "DataSources and Repeaters",
     "section_slug": "datasources-and-repeaters",
-    "openai_file_id": "file-1dKkyV2dX1yBnbXjUz3PAj"
+    "openai_file_id": "file-Vm8hMEfCNKjNRn1yB7gNp9"
   },
   "55709616003219": {
     "id": 55709616003219,
@@ -662,14 +676,14 @@
     "title": "Getting Started with an OptiSigns Free Trial",
     "slug": "getting-started-with-an-optisigns-free-trial",
     "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-    "updated_at": "2026-09-10T10:46:25Z",
-    "hash": "c89679ee9bc16a3fa464525de3eae85f4d27275130a95440764137a2ad11a4ea",
+    "updated_at": "2026-11-19T20:21:58Z",
+    "hash": "0c41d11976af450d588c4c8113fc8f8a784e2675c36f8b77f4d0eb904519f413",
     "file": "articles/how-to-faqs/faq/37966066335891-getting-started-with-an-optisigns-free-trial.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "FAQ",
     "section_slug": "faq",
-    "openai_file_id": "file-NzWXkrpvL4NHsnnxBw3qny"
+    "openai_file_id": "file-4Z5rWExiWrrz13fNj51DqV"
   },
   "36911639377683": {
     "id": 36911639377683,
@@ -699,20 +713,6 @@
     "section_slug": "others",
     "openai_file_id": "file-RiqvQDuwgkE1qtF4ZFzL9k"
   },
-  "35749502945555": {
-    "id": 35749502945555,
-    "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
-    "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments",
-    "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-    "updated_at": "2026-09-10T10:46:19Z",
-    "hash": "6f2c1108ff0c55efc6fdddfaef7a0399ebf4ee6b5aa5b22edccb3f73b130e5f9",
-    "file": "articles/accounts-security/billing-account-management/35749502945555-how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
-    "category": "Accounts & Security",
-    "category_slug": "accounts-security",
-    "section": "Billing & Account Management",
-    "section_slug": "billing-account-management",
-    "openai_file_id": "file-Tj7BAU7QeatQKZHFuAzXii"
-  },
   "35184720136595": {
     "id": 35184720136595,
     "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
@@ -732,7 +732,7 @@
     "title": "Accepted Payment Methods and Currencies",
     "slug": "accepted-payment-methods-and-currencies",
     "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
-    "updated_at": "2026-11-18T22:42:56Z",
+    "updated_at": "2026-11-19T20:30:22Z",
     "hash": "77ce56fdd9b25631aa733179d1648c4e8fcfcc721afbf2c8679be09827ccabc4",
     "file": "articles/how-to-faqs/others/34379983350163-accepted-payment-methods-and-currencies.md",
     "category": "How-to / FAQs",
@@ -746,14 +746,14 @@
     "title": "What Do I Get With an OptiSigns Free Plan?",
     "slug": "what-do-i-get-with-an-optisigns-free-plan",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-10-28T15:43:14Z",
-    "hash": "f1a941338ed29d37d597fdb100d87e0e6cca4592ab63582805f2788ee049d460",
+    "updated_at": "2026-11-19T20:21:36Z",
+    "hash": "3a0e3afea2afd595802ed45304975bb24e10c9d55821559b31b431c37bdfccc0",
     "file": "articles/how-to-faqs/faq/33940834613139-what-do-i-get-with-an-optisigns-free-plan.md",
     "category": "How-to / FAQs",
     "category_slug": "how-to-faqs",
     "section": "FAQ",
     "section_slug": "faq",
-    "openai_file_id": "file-LqXGXu285rGtJNLr3g4DAk"
+    "openai_file_id": "file-4pzui1ZnnH4Q85p4VQaNqs"
   },
   "33382537925267": {
     "id": 33382537925267,
@@ -900,7 +900,7 @@
     "title": "List of Supported Cities for Weather Wall City Themes",
     "slug": "list-of-supported-cities-for-weather-wall-city-themes",
     "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-    "updated_at": "2026-10-10T22:18:29Z",
+    "updated_at": "2026-11-19T14:47:10Z",
     "hash": "2eb9b081334f1e1253572efdb18851310662f8eec18bd114345a55cb722a5bf0",
     "file": "articles/apps-integrations/weather/29465595849235-list-of-supported-cities-for-weather-wall-city-themes.md",
     "category": "Apps & Integrations",
@@ -2608,7 +2608,7 @@
     "title": "Billing Details, Failed Payments & Receipts",
     "slug": "billing-details-failed-payments-receipts",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-    "updated_at": "2026-11-18T22:06:47Z",
+    "updated_at": "2026-11-19T20:34:07Z",
     "hash": "748296ca10d74f384360933dfa051361e430de808404809153ad407f64542364",
     "file": "articles/accounts-security/billing-account-management/360041587014-billing-details-failed-payments-receipts.md",
     "category": "Accounts & Security",
@@ -3182,14 +3182,14 @@
     "title": "Cancel, Pause or Downgrade Your Subscription",
     "slug": "cancel-pause-or-downgrade-your-subscription",
     "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
-    "updated_at": "2026-11-16T22:41:11Z",
-    "hash": "3f467960b5d6d86401ad92d78382b299be1c541adfb64962bcf5a0fcd4f12c75",
+    "updated_at": "2026-11-19T20:34:02Z",
+    "hash": "6ddd3aec9d737a08a0a8b97baf06675bfdebd9c3002576adc1d409d2d0c89f00",
     "file": "articles/accounts-security/billing-account-management/17639078588691-cancel-pause-or-downgrade-your-subscription.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-EE55GQvxCviQgM2veRSGrk"
+    "openai_file_id": "file-JQXeATzFogwNe7MqURBidn"
   },
   "6636047009427": {
     "id": 6636047009427,
@@ -3333,17 +3333,17 @@
   },
   "17129313173395": {
     "id": 17129313173395,
-    "title": "How to manage Sub-Account billing with OptiSigns",
-    "slug": "how-to-manage-sub-account-billing-with-optisigns",
-    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
-    "updated_at": "2026-09-10T09:49:34Z",
-    "hash": "62aa001721fc17a7961e1ee0ad35c7591cbc8630f99541872f63a56ec6d8cd32",
-    "file": "articles/accounts-security/billing-account-management/17129313173395-how-to-manage-sub-account-billing-with-optisigns.md",
+    "title": "Billing for Multiple Locations: Sub-Accounts and Team Billing",
+    "slug": "billing-for-multiple-locations-sub-accounts-and-team-billing",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
+    "updated_at": "2026-11-19T20:30:08Z",
+    "hash": "c2e134d132156df182d68ea9869e27b546f64bf3fa5e2b78040c21a02b2d9128",
+    "file": "articles/accounts-security/billing-account-management/17129313173395-billing-for-multiple-locations-sub-accounts-and-team-billing.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Billing & Account Management",
     "section_slug": "billing-account-management",
-    "openai_file_id": "file-Xr5wviwFcwxYUPsYsqEufm"
+    "openai_file_id": "file-EZAdVixd9kez16Sx9BCNZN"
   },
   "14726570281875": {
     "id": 14726570281875,
@@ -3669,17 +3669,17 @@
   },
   "34087061669523": {
     "id": 34087061669523,
-    "title": "Amazon Signage Stick",
-    "slug": "amazon-signage-stick",
-    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-10-29T20:18:17Z",
-    "hash": "94cf1e55aba60c72ed839ed231f7f35f0bc987ae17af674b8f95684a1bc2daa0",
-    "file": "articles/setup-screens/use-your-players/34087061669523-amazon-signage-stick.md",
+    "title": "Amazon Signage Devices: Signage Sticks and Signage Displays",
+    "slug": "amazon-signage-devices-signage-sticks-and-signage-displays",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
+    "updated_at": "2026-11-19T22:08:35Z",
+    "hash": "af39c461a256c0ce0ed6b67255be49e359f1a57124fdda814afb3b3e5c85e27a",
+    "file": "articles/setup-screens/use-your-players/34087061669523-amazon-signage-devices-signage-sticks-and-signage-displays.md",
     "category": "Setup Screens",
     "category_slug": "setup-screens",
     "section": "Use Your Players",
     "section_slug": "use-your-players",
-    "openai_file_id": "file-8KdEqLKu77PggidZtW97By"
+    "openai_file_id": "file-Tx7KD5zmyfLZXnHnBq8FBc"
   },
   "14502723487379": {
     "id": 14502723487379,
@@ -3826,14 +3826,14 @@
     "title": "How to Delete Your Account from OptiSigns",
     "slug": "how-to-delete-your-account-from-optisigns",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-11-16T19:20:04Z",
-    "hash": "78a76457bc6ca8e6ac64cc5cd5e1578c0fd41c887e75ba4dc8fef4458c22599a",
+    "updated_at": "2026-11-19T20:11:27Z",
+    "hash": "9b73957680a8b4ccd26a51b15f34d51c662caff39949f98d2c3fafbf8ce52c89",
     "file": "articles/accounts-security/security-teams/4404608957075-how-to-delete-your-account-from-optisigns.md",
     "category": "Accounts & Security",
     "category_slug": "accounts-security",
     "section": "Security & Teams",
     "section_slug": "security-teams",
-    "openai_file_id": "file-4o27NXX3ps8uHnmCBvhexR"
+    "openai_file_id": "file-6S3PNZLp1c7sjryuLbkNvr"
   },
   "360016174554": {
     "id": 360016174554,
